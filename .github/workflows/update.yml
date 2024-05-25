@@ -51,5 +51,5 @@ jobs:
         push-branch: 'main'
         commit-message: 'DVK Volitve EP2024 update 🤖'
         rebase: 'true' # pull and rebase before commit
-        files:  dvk/ volitve/ dvk-rpe-api/
+        files:  volitve/
         name: DVK Volitve EP2024 scrape bot 🤖
