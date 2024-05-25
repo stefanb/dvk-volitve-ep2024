@@ -1,0 +1,55 @@
+name: Volitve EP2024 update
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ main ]
+    paths:
+    - '.github/workflows/update.yml'
+    - 'update.sh'
+  pull_request:
+    branches: [ main ]
+    paths:
+    - '.github/workflows/update.yml'
+    - 'update.sh'
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '30 */1 * 5-6 *'
+    - cron:  '5/10 * 9-10 6 *'
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  update:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v4
+
+    # Runs a single command using the runners shell
+    - name: Run update script
+      run: ./update.sh
+
+    # Runs a set of commands using the runners shell
+    - name: Check git diff
+      run: |
+        ls -la */*
+        git status
+
+    # Git commit + push, see https://github.com/github-actions-x/commit
+    - name: Publish volišča changes to git
+      if: github.ref == 'refs/heads/main'
+      uses: github-actions-x/commit@v2.9
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: 'main'
+        commit-message: 'DVK Volitve EP2024 update 🤖'
+        rebase: 'true' # pull and rebase before commit
+        files:  dvk/ volitve/ dvk-rpe-api/
+        name: DVK Volitve EP2024 scrape bot 🤖
