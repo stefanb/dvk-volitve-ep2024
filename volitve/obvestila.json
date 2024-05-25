@@ -1,0 +1,17 @@
+{
+  "timestamp": "2024-05-23T12:52:55",
+  "obvestila": [
+    {
+      "header": "Začasni izidi glasovanja",
+      "content": "Začasni izidi glasovanja bodo objavljeni predvidoma v nedeljo, 9. junija, po 23. uri.",
+      "date": "23. maj 2024",
+      "time": "12:00"
+    },
+    {
+      "header": "Podatki o volilni udeležbi",
+      "content": "Podatki o volilni udeležbi do 11. ure bodo predvidoma znani po 12. uri. Podatki o volilni udeležbi do 16. ure bodo predvidoma znani po 17. uri. Podatki o volilni udeležbi do 19. ure bodo predvidoma znani po 20. uri.",
+      "date": "23. maj 2024",
+      "time": "12:00"
+    }
+  ]
+}

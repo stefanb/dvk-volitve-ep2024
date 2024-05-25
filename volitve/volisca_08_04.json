@@ -1,0 +1,1466 @@
+{
+  "en_rpeid": "8000",
+  "en_st": 8,
+  "en_naz": "VE 8000 - PTUJ",
+  "rpeid": "8004",
+  "st": 4,
+  "naz": "VO 8004 - MURSKA SOBOTA 1",
+  "vol": [
+    {
+      "st": 98,
+      "rpeid": "098",
+      "naz": "Gasilski dom Beznovci, Beznovci 8a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 95,
+      "rpeid": "095",
+      "naz": "Gasilski dom Bodonci, Bodonci 77",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 87,
+      "rpeid": "087",
+      "naz": "Gasilski dom Bokrači, Bokrači 13a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 92,
+      "rpeid": "092",
+      "naz": "Gasilski dom Brezovci, Brezovci 50",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 79,
+      "rpeid": "079",
+      "naz": "Gasilski dom Dankovci, Dankovci 24",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 88,
+      "rpeid": "088",
+      "naz": "Gasilski dom Dolina, Dolina 22",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 53,
+      "rpeid": "053",
+      "naz": "Gasilski dom Gornji Slaveči, Gornji Slaveči 18",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 44,
+      "rpeid": "044",
+      "naz": "Gasilski dom Grad, Grad 170",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 80,
+      "rpeid": "080",
+      "naz": "Gasilski dom Kuštanovci, Kuštanovci 10",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 93,
+      "rpeid": "093",
+      "naz": "Gasilski dom Lemerje, Lemerje 56",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 78,
+      "rpeid": "078",
+      "naz": "Gasilski dom Mačkovci, Mačkovci 48a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 77,
+      "rpeid": "077",
+      "naz": "Gasilski dom Markišavci, Markišavci 18a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 54,
+      "rpeid": "054",
+      "naz": "Gasilski dom Matjaševci, Matjaševci 6",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 81,
+      "rpeid": "081",
+      "naz": "Gasilski dom Moščanci, Moščanci 36a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 82,
+      "rpeid": "082",
+      "naz": "Gasilski dom Otovci, Otovci 59",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 83,
+      "rpeid": "083",
+      "naz": "Gasilski dom Pečarovci, Pečarovci 91a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 84,
+      "rpeid": "084",
+      "naz": "Gasilski dom Poznanovci, Poznanovci 19",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 94,
+      "rpeid": "094",
+      "naz": "Gasilski dom Predanovci, Predanovci 43",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 85,
+      "rpeid": "085",
+      "naz": "Gasilski dom Prosečka vas, Prosečka vas 15",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 99,
+      "rpeid": "099",
+      "naz": "Gasilski dom Puževci, Puževci 25",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 49,
+      "rpeid": "049",
+      "naz": "Gasilski dom Radovci, Radovci 27",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 90,
+      "rpeid": "090",
+      "naz": "Gasilski dom Šalamenci, Šalamenci 34",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 75,
+      "rpeid": "075",
+      "naz": "Gasilski dom Satahovci, Satahovci 26",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 67,
+      "rpeid": "067",
+      "naz": "Gasilski dom Središče, Središče 11",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 100,
+      "rpeid": "100",
+      "naz": "Gasilski dom Strukovci, Strukovci 26b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 55,
+      "rpeid": "055",
+      "naz": "Gasilski dom Trdkova, Trdkova 22",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 96,
+      "rpeid": "096",
+      "naz": "Gasilski dom Vadarci, Vadarci 41",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 91,
+      "rpeid": "091",
+      "naz": "Gasilski dom Vaneča, Vaneča 58",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 97,
+      "rpeid": "097",
+      "naz": "Gasilski dom Zenkovci, Zenkovci 51a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "Gasilsko-vaški dom Krašči, Krašči 69",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 48,
+      "rpeid": "048",
+      "naz": "Gasilsko-vaški dom Motovilci, Motovilci 38",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "Gasilsko-vaški dom Skakovci, Skakovci 47",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 51,
+      "rpeid": "051",
+      "naz": "Krajevna dvorana Kuzma, Kuzma 24",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 73,
+      "rpeid": "073",
+      "naz": "Osnovna šola Fokovci, Fokovci 32",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 86,
+      "rpeid": "086",
+      "naz": "Osnovna šola Puconci, Puconci 178",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 74,
+      "rpeid": "074",
+      "naz": "Podružnična šola Krog, Trubarjeva ul. 77",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "rpeid": "022",
+      "naz": "Športni center Košarovci, Košarovci b.š.",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "Športno rekreacijski center Gradišče,Gradišče 62b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 61,
+      "rpeid": "061",
+      "naz": "Stari gasilski dom Prosenjakovci,Prosenjakovci 21",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "rpeid": "025",
+      "naz": "Vaška dvorana Gornji Petrovci, Gornji Petrovci 32",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "rpeid": "040",
+      "naz": "Vaški dom Budinci, Budinci 21",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 38,
+      "rpeid": "038",
+      "naz": "Vaški dom Dolenci, Dolenci 31",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 56,
+      "rpeid": "056",
+      "naz": "Vaški dom Martjanci, Martjanci 19",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 65,
+      "rpeid": "065",
+      "naz": "Vaški dom Motvarjevci, Motvarjevci 47",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 105,
+      "rpeid": "105",
+      "naz": "Vaški dom Ocinje, Ocinje 29",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 66,
+      "rpeid": "066",
+      "naz": "Vaški dom Pordašinci, Pordašinci 10",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "rpeid": "045",
+      "naz": "Vaško gasilski dom Dol.Slaveči, Dol. Slaveči 50",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "rpeid": "026",
+      "naz": "Vaško gasilski dom Peskovci, Peskovci 30",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "rpeid": "028",
+      "naz": "Vaško-gasilski dom Adrijanci, Adrijanci 53",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 57,
+      "rpeid": "057",
+      "naz": "Vaško-gasilski dom Andrejci, Andrejci 17",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 62,
+      "rpeid": "062",
+      "naz": "Vaško-gasilski dom Berkovci, Berkovci 13",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 29,
+      "rpeid": "029",
+      "naz": "Vaško-gasilski dom Boreča, Boreča 31",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "Vaško-gasilski dom Borejci, Borejci 49",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "Vaško-gasilski dom Cankova, Cankova 30a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 63,
+      "rpeid": "063",
+      "naz": "Vaško-gasilski dom Čikečka vas,Čikečka vas 20",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "rpeid": "002",
+      "naz": "Vaško-gasilski dom Domajinci, Domajinci 19a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "rpeid": "035",
+      "naz": "Vaško-gasilski dom Domanjševci, Domanjševci 67",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 109,
+      "rpeid": "109",
+      "naz": "Vaško-gasilski dom Fikšinci, Fikšinci 28",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "rpeid": "017",
+      "naz": "Vaško-gasilski dom Gederovci, Gederovci b.š.",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "Vaško-gasilski dom Gerlinci, Gerlinci 26",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "Vaško-gasilski dom Gornji Črnci, Gornji Črnci 11",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 64,
+      "rpeid": "064",
+      "naz": "Vaško-gasilski dom Ivanjševci, Ivanjševci 12",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 69,
+      "rpeid": "069",
+      "naz": "Vaško-gasilski dom Ivanovci, Ivanovci 26a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 70,
+      "rpeid": "070",
+      "naz": "Vaško-gasilski dom Kančevci, Kančevci 8a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "Vaško-gasilski dom Korovci, Korovci 25",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 46,
+      "rpeid": "046",
+      "naz": "Vaško-gasilski dom Kovačevci, Kovačevci 6a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "rpeid": "018",
+      "naz": "Vaško-gasilski dom Krajna, Krajna 25",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 103,
+      "rpeid": "103",
+      "naz": "Vaško-gasilski dom Kramarovci, Kramarovci 14a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "rpeid": "021",
+      "naz": "Vaško-gasilski dom Križevci, Križevci 153b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 58,
+      "rpeid": "058",
+      "naz": "Vaško-gasilski dom Krnci, Krnci 20a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 43,
+      "rpeid": "043",
+      "naz": "Vaško-gasilski dom Krplivnik, Krplivnik 30",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 47,
+      "rpeid": "047",
+      "naz": "Vaško-gasilski dom Kruplivnik, Kruplivnik 10",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "rpeid": "023",
+      "naz": "Vaško-gasilski dom Kukeč, Kukeč 21",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 71,
+      "rpeid": "071",
+      "naz": "Vaško-gasilski dom Lončarovci,Lončarovci 39a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "rpeid": "030",
+      "naz": "Vaško-gasilski dom Lucova, Lucova 44",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 41,
+      "rpeid": "041",
+      "naz": "Vaško-gasilski dom Markovci, Markovci 11a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "rpeid": "031",
+      "naz": "Vaško-gasilski dom Martinje, Martinje 25",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "rpeid": "019",
+      "naz": "Vaško-gasilski dom Mur.Petrovci, Mur. Petrovci 24",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "rpeid": "012",
+      "naz": "Vaško-gasilski dom Murski Črnci, Murski Črnci 43",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 76,
+      "rpeid": "076",
+      "naz": "Vaško-gasilski dom Nemčavci, Nemčavci 39d",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 32,
+      "rpeid": "032",
+      "naz": "Vaško-gasilski dom Neradnovci, Neradnovci 63a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 59,
+      "rpeid": "059",
+      "naz": "Vaško-gasilski dom Noršinci, Noršinci 3b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 104,
+      "rpeid": "104",
+      "naz": "Vaško-gasilski dom Nuskova, Nuskova 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "rpeid": "024",
+      "naz": "Vaško-gasilski dom Panovci, Panovci 31",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 108,
+      "rpeid": "108",
+      "naz": "Vaško-gasilski dom Pertoča, Pertoča 55",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "Vaško-gasilski dom Petanjci, Petanjci 65",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "Vaško-gasilski dom Rankovci, Rankovci 33",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 68,
+      "rpeid": "068",
+      "naz": "Vaško-gasilski dom Ratkovci, Ratkovci 20a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 101,
+      "rpeid": "101",
+      "naz": "Vaško-gasilski dom Rogašovci,Rogašovci 14b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 110,
+      "rpeid": "110",
+      "naz": "Vaško-gasilski dom Ropoča, spodaj, Ropoča 5a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 60,
+      "rpeid": "060",
+      "naz": "Vaško-gasilski dom Sebeborci, Sebeborci 45",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 72,
+      "rpeid": "072",
+      "naz": "Vaško-gasilski dom Selo, Selo 32b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 106,
+      "rpeid": "106",
+      "naz": "Vaško-gasilski dom Serdica, Serdica 3",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "rpeid": "020",
+      "naz": "Vaško-gasilski dom Sodišinci, Sodišinci b.š.",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 107,
+      "rpeid": "107",
+      "naz": "Vaško-gasilski dom Sotina, Sotina 40",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 33,
+      "rpeid": "033",
+      "naz": "Vaško-gasilski dom Stanjevci, Stanjevci 36a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "rpeid": "027",
+      "naz": "Vaško-gasilski dom Šulinci, Šulinci 44",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 102,
+      "rpeid": "102",
+      "naz": "Vaško-gasilski dom Sveti Jurij, Sveti Jurij 11",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "Vaško-gasilski dom Tišina, Tišina 47",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "Vaško-gasilski dom Tropovci, Kolesarska ulica 64",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "rpeid": "016",
+      "naz": "Vaško-gasilski dom Vanča vas, Vanča vas 43b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 111,
+      "rpeid": "111",
+      "naz": "Vaško-gasilski dom Večeslavci,Večeslavci 46",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 50,
+      "rpeid": "050",
+      "naz": "Vaško-gasilski dom Vidonci, Vidonci 82",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "rpeid": "034",
+      "naz": "Vaško-gasilski dom Ženavlje, Ženavlje 14",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 42,
+      "rpeid": "042",
+      "naz": "Vaško-kulturni dom Hodoš, Hodoš 52",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "Vaško-kulturni dom Topolovci, Topolovci b.š.",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 89,
+      "rpeid": "089",
+      "naz": "Večnamenski objekt pri igrišču, Gorica b.š.",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 39,
+      "rpeid": "039",
+      "naz": "Zadružni dom Čepinci, Čepinci 10",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 52,
+      "rpeid": "052",
+      "naz": "Zadružni dom Dolič, Dolič 22",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "rpeid": "036",
+      "naz": "Zadružni dom Šalovci, Šalovci 162",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "st": 107699,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "005da3"
+    },
+    {
+      "st": 107700,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "fcdc00"
+    },
+    {
+      "st": 107649,
+      "naz": "VESNA - ZELENA STRANKA",
+      "knaz": "VESNA",
+      "hcol": "00964f"
+    },
+    {
+      "st": 107651,
+      "naz": "DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE - DeSUS in DOBRA DRŽAVA",
+      "knaz": "DESUS IN DD",
+      "hcol": "0673ba"
+    },
+    {
+      "st": 107650,
+      "naz": "SLOVENSKA LJUDSKA STRANKA - SLS",
+      "knaz": "SLS",
+      "hcol": "93c54b"
+    },
+    {
+      "st": 107648,
+      "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+      "knaz": "NSi",
+      "hcol": "009ac7"
+    },
+    {
+      "st": 107701,
+      "naz": "LEVICA",
+      "knaz": "LEVICA",
+      "hcol": "fb4c48"
+    },
+    {
+      "st": 107652,
+      "naz": "ZELENI SLOVENIJE",
+      "knaz": "ZELENI",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107698,
+      "naz": "SOCIALNI DEMOKRATI - SD",
+      "knaz": "SD",
+      "hcol": "e3000f"
+    },
+    {
+      "st": 107702,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": "7c5199"
+    },
+    {
+      "st": 107654,
+      "naz": "NIČ OD TEGA, STRANKA PRILAGOJENA VSAKEMU, UTEMELJITELJICA NIČODTEGAIZMA, KI ZDRUŽUJE...",
+      "knaz": "NOT",
+      "hcol": "f963ff"
+    }
+  ],
+  "kand": [
+    {
+      "st": 107699,
+      "id": 132657,
+      "naz": "Irena Joveva"
+    },
+    {
+      "st": 107699,
+      "id": 132658,
+      "naz": "Matej Grah"
+    },
+    {
+      "st": 107699,
+      "id": 132659,
+      "naz": "Janja Sluga"
+    },
+    {
+      "st": 107699,
+      "id": 132660,
+      "naz": "Jure Leben"
+    },
+    {
+      "st": 107699,
+      "id": 132661,
+      "naz": "Tamara Vonta"
+    },
+    {
+      "st": 107699,
+      "id": 132662,
+      "naz": "Marjan Šarec"
+    },
+    {
+      "st": 107699,
+      "id": 132663,
+      "naz": "Maša Kociper"
+    },
+    {
+      "st": 107699,
+      "id": 132664,
+      "naz": "Vojko Volk"
+    },
+    {
+      "st": 107699,
+      "id": 132665,
+      "naz": "Uroš Brežan"
+    },
+    {
+      "st": 107700,
+      "id": 132666,
+      "naz": "Romana Tomc"
+    },
+    {
+      "st": 107700,
+      "id": 132667,
+      "naz": "dr. Milan Zver"
+    },
+    {
+      "st": 107700,
+      "id": 132668,
+      "naz": "Aleš Hojs"
+    },
+    {
+      "st": 107700,
+      "id": 132669,
+      "naz": "Franc Breznik"
+    },
+    {
+      "st": 107700,
+      "id": 132670,
+      "naz": "mag. Branko Grims"
+    },
+    {
+      "st": 107700,
+      "id": 132671,
+      "naz": "Franc Kangler"
+    },
+    {
+      "st": 107700,
+      "id": 132672,
+      "naz": "Alenka Forte"
+    },
+    {
+      "st": 107700,
+      "id": 132673,
+      "naz": "Karin Planinšek"
+    },
+    {
+      "st": 107700,
+      "id": 132674,
+      "naz": "Zala Tomašič"
+    },
+    {
+      "st": 107649,
+      "id": 132607,
+      "naz": "Vladimir Prebilič"
+    },
+    {
+      "st": 107649,
+      "id": 132608,
+      "naz": "Urša (Urška) Zgojznik"
+    },
+    {
+      "st": 107649,
+      "id": 132609,
+      "naz": "Klemen Belhar"
+    },
+    {
+      "st": 107649,
+      "id": 132610,
+      "naz": "Marike Grubar"
+    },
+    {
+      "st": 107649,
+      "id": 132611,
+      "naz": "Uroš Macerl"
+    },
+    {
+      "st": 107649,
+      "id": 132612,
+      "naz": "Andreja Marolt"
+    },
+    {
+      "st": 107649,
+      "id": 132613,
+      "naz": "Ibrahim Nouhoum"
+    },
+    {
+      "st": 107649,
+      "id": 132615,
+      "naz": "Saša Fras"
+    },
+    {
+      "st": 107651,
+      "id": 132625,
+      "naz": "Uroš Lipušček"
+    },
+    {
+      "st": 107651,
+      "id": 132626,
+      "naz": "Doroteja Novak Gosarič"
+    },
+    {
+      "st": 107651,
+      "id": 132627,
+      "naz": "Anton Balažek"
+    },
+    {
+      "st": 107651,
+      "id": 132628,
+      "naz": "Darinka Mravljak"
+    },
+    {
+      "st": 107651,
+      "id": 132629,
+      "naz": "Drago Bulc"
+    },
+    {
+      "st": 107651,
+      "id": 132630,
+      "naz": "Saša Pavček"
+    },
+    {
+      "st": 107651,
+      "id": 132631,
+      "naz": "Stojan Lipolt"
+    },
+    {
+      "st": 107651,
+      "id": 132632,
+      "naz": "Natalija Tripković"
+    },
+    {
+      "st": 107651,
+      "id": 132633,
+      "naz": "Bogomir Kovač"
+    },
+    {
+      "st": 107650,
+      "id": 132616,
+      "naz": "Peter Gregorčič"
+    },
+    {
+      "st": 107650,
+      "id": 132617,
+      "naz": "Nina Strah"
+    },
+    {
+      "st": 107650,
+      "id": 132618,
+      "naz": "Franc Bogovič"
+    },
+    {
+      "st": 107650,
+      "id": 132619,
+      "naz": "Sara Ahlin Doljak"
+    },
+    {
+      "st": 107650,
+      "id": 132620,
+      "naz": "Franc Pukšič"
+    },
+    {
+      "st": 107650,
+      "id": 132621,
+      "naz": "Mija (Marija) Aleš"
+    },
+    {
+      "st": 107650,
+      "id": 132622,
+      "naz": "Aljaž Barlič"
+    },
+    {
+      "st": 107650,
+      "id": 132623,
+      "naz": "Kaja Galič"
+    },
+    {
+      "st": 107650,
+      "id": 132624,
+      "naz": "Marko Balažic"
+    },
+    {
+      "st": 107648,
+      "id": 132598,
+      "naz": "Matej Tonin"
+    },
+    {
+      "st": 107648,
+      "id": 132599,
+      "naz": "Katja Berk Bevc"
+    },
+    {
+      "st": 107648,
+      "id": 132600,
+      "naz": "David Klobasa"
+    },
+    {
+      "st": 107648,
+      "id": 132601,
+      "naz": "Mojca Erjavec"
+    },
+    {
+      "st": 107648,
+      "id": 132606,
+      "naz": "Mojca Sojar"
+    },
+    {
+      "st": 107648,
+      "id": 132602,
+      "naz": "Janez Cigler Kralj"
+    },
+    {
+      "st": 107648,
+      "id": 132603,
+      "naz": "Vida Čadonič Špelič"
+    },
+    {
+      "st": 107648,
+      "id": 132604,
+      "naz": "Jernej Vrtovec"
+    },
+    {
+      "st": 107648,
+      "id": 132605,
+      "naz": "Ljudmila Novak"
+    },
+    {
+      "st": 107701,
+      "id": 132675,
+      "naz": "Nataša Sukič"
+    },
+    {
+      "st": 107701,
+      "id": 132676,
+      "naz": "Dan Juvan"
+    },
+    {
+      "st": 107701,
+      "id": 132677,
+      "naz": "Katja Sluga"
+    },
+    {
+      "st": 107701,
+      "id": 132678,
+      "naz": "Fahir Gutić"
+    },
+    {
+      "st": 107701,
+      "id": 132679,
+      "naz": "Zdenka Badovinac"
+    },
+    {
+      "st": 107701,
+      "id": 132680,
+      "naz": "dr. Luka Omladič"
+    },
+    {
+      "st": 107701,
+      "id": 132681,
+      "naz": "dr. Svetlana Slapšak"
+    },
+    {
+      "st": 107701,
+      "id": 132682,
+      "naz": "Tarra Stermšek Kristan"
+    },
+    {
+      "st": 107701,
+      "id": 132683,
+      "naz": "Luka Mesec"
+    },
+    {
+      "st": 107652,
+      "id": 132634,
+      "naz": "Klemen Grošelj"
+    },
+    {
+      "st": 107652,
+      "id": 132635,
+      "naz": "Nada Pavšer"
+    },
+    {
+      "st": 107652,
+      "id": 132636,
+      "naz": "Bogomil Knavs"
+    },
+    {
+      "st": 107652,
+      "id": 132637,
+      "naz": "Vesna Lavtižar"
+    },
+    {
+      "st": 107652,
+      "id": 132638,
+      "naz": "Milan Gabrovec"
+    },
+    {
+      "st": 107652,
+      "id": 132639,
+      "naz": "Valerija Korošec"
+    },
+    {
+      "st": 107652,
+      "id": 132640,
+      "naz": "Renato Volker"
+    },
+    {
+      "st": 107652,
+      "id": 132641,
+      "naz": "Mojca Šetinc Pašek"
+    },
+    {
+      "st": 107652,
+      "id": 132642,
+      "naz": "Aleksander Merlo"
+    },
+    {
+      "st": 107698,
+      "id": 132648,
+      "naz": "Matjaž Nemec"
+    },
+    {
+      "st": 107698,
+      "id": 132649,
+      "naz": "Mojca Kleva Kekuš"
+    },
+    {
+      "st": 107698,
+      "id": 132650,
+      "naz": "Aleksander Jevšek"
+    },
+    {
+      "st": 107698,
+      "id": 132651,
+      "naz": "Lucija Karnelutti"
+    },
+    {
+      "st": 107698,
+      "id": 132652,
+      "naz": "Matevž Frangež"
+    },
+    {
+      "st": 107698,
+      "id": 132653,
+      "naz": "Aleksandra Vasiljević"
+    },
+    {
+      "st": 107698,
+      "id": 132654,
+      "naz": "Primož Brvar"
+    },
+    {
+      "st": 107698,
+      "id": 132655,
+      "naz": "Neva Grašič"
+    },
+    {
+      "st": 107698,
+      "id": 132656,
+      "naz": "Milan Brglez"
+    },
+    {
+      "st": 107702,
+      "id": 132684,
+      "naz": "Zoran Stevanović"
+    },
+    {
+      "st": 107702,
+      "id": 132685,
+      "naz": "Polonca Frelih"
+    },
+    {
+      "st": 107702,
+      "id": 132686,
+      "naz": "Sabina Senčar"
+    },
+    {
+      "st": 107702,
+      "id": 132687,
+      "naz": "Bojan Potočnik"
+    },
+    {
+      "st": 107702,
+      "id": 132688,
+      "naz": "Neven Polajnar"
+    },
+    {
+      "st": 107702,
+      "id": 132689,
+      "naz": "Tanja Đurić Ribič"
+    },
+    {
+      "st": 107702,
+      "id": 132690,
+      "naz": "Katja Kokot"
+    },
+    {
+      "st": 107702,
+      "id": 132691,
+      "naz": "Stanko Pušenjak"
+    },
+    {
+      "st": 107702,
+      "id": 132692,
+      "naz": "Branko Gradišnik"
+    },
+    {
+      "st": 107654,
+      "id": 132643,
+      "naz": "Violeta Tomić"
+    },
+    {
+      "st": 107654,
+      "id": 132709,
+      "naz": "Darko Hribar"
+    },
+    {
+      "st": 107654,
+      "id": 132644,
+      "naz": "Tjaša Zorc Rupnik"
+    },
+    {
+      "st": 107654,
+      "id": 132645,
+      "naz": "Janez Stariha"
+    },
+    {
+      "st": 107654,
+      "id": 132646,
+      "naz": "Alenka Pečnik"
+    },
+    {
+      "st": 107654,
+      "id": 132647,
+      "naz": "Gregor Jankovič"
+    },
+    {
+      "st": 107654,
+      "id": 132708,
+      "naz": "Amadeja Kugl"
+    },
+    {
+      "st": 107654,
+      "id": 132698,
+      "naz": "dr. Tomaž Makovec"
+    },
+    {
+      "st": 107654,
+      "id": 132699,
+      "naz": "Alberto Avguštinčič"
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

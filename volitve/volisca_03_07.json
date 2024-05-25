@@ -1,0 +1,738 @@
+{
+  "en_rpeid": "3000",
+  "en_st": 3,
+  "en_naz": "VE 3000 - LJUBLJANA CENTER",
+  "rpeid": "3007",
+  "st": 7,
+  "naz": "VO 3007 - LJUBLJANA CENTER",
+  "vol": [
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "Info točka 65+, Mačkova 1, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "OŠ Majde Vrhovnik, Gregorčičeva ul. 16, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "OŠ Majde Vrhovnik, Gregorčičeva ul. 16, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "rpeid": "020",
+      "naz": "OŠ Majde Vrhovnik, Gregorčičeva ul. 16, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "OŠ Poljane, Zemljemerska ul. 7, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "OŠ Poljane, Zemljemerska ul. 7, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "OŠ Poljane, Zemljemerska ul. 7, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "OŠ Prule, Prule 13, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "OŠ Prule, Prule 13, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "OŠ Toneta Čufarja, Čufarjeva ul. 11, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "OŠ Toneta Čufarja, Čufarjeva ul. 11, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "OŠ Toneta Čufarja, Čufarjeva ul. 11, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "rpeid": "019",
+      "naz": "OŠ Toneta Čufarja, Čufarjeva ul. 11, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "rpeid": "016",
+      "naz": "OŠ Vodmat, Potrčeva ul. 1, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "rpeid": "017",
+      "naz": "OŠ Vodmat, Potrčeva ul. 1, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "rpeid": "018",
+      "naz": "Prostori MOL, Rozmanova ul. 12, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "Prostori MOL, Štefanova ul. 11, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "SZŠ Ljubljana, Poljanska c. 61, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "rpeid": "021",
+      "naz": "SZŠ Ljubljana, Poljanska c. 61, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "st": 107699,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "005da3"
+    },
+    {
+      "st": 107700,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "fcdc00"
+    },
+    {
+      "st": 107649,
+      "naz": "VESNA - ZELENA STRANKA",
+      "knaz": "VESNA",
+      "hcol": "00964f"
+    },
+    {
+      "st": 107651,
+      "naz": "DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE - DeSUS in DOBRA DRŽAVA",
+      "knaz": "DESUS IN DD",
+      "hcol": "0673ba"
+    },
+    {
+      "st": 107650,
+      "naz": "SLOVENSKA LJUDSKA STRANKA - SLS",
+      "knaz": "SLS",
+      "hcol": "93c54b"
+    },
+    {
+      "st": 107648,
+      "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+      "knaz": "NSi",
+      "hcol": "009ac7"
+    },
+    {
+      "st": 107701,
+      "naz": "LEVICA",
+      "knaz": "LEVICA",
+      "hcol": "fb4c48"
+    },
+    {
+      "st": 107652,
+      "naz": "ZELENI SLOVENIJE",
+      "knaz": "ZELENI",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107698,
+      "naz": "SOCIALNI DEMOKRATI - SD",
+      "knaz": "SD",
+      "hcol": "e3000f"
+    },
+    {
+      "st": 107702,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": "7c5199"
+    },
+    {
+      "st": 107654,
+      "naz": "NIČ OD TEGA, STRANKA PRILAGOJENA VSAKEMU, UTEMELJITELJICA NIČODTEGAIZMA, KI ZDRUŽUJE...",
+      "knaz": "NOT",
+      "hcol": "f963ff"
+    }
+  ],
+  "kand": [
+    {
+      "st": 107699,
+      "id": 132657,
+      "naz": "Irena Joveva"
+    },
+    {
+      "st": 107699,
+      "id": 132658,
+      "naz": "Matej Grah"
+    },
+    {
+      "st": 107699,
+      "id": 132659,
+      "naz": "Janja Sluga"
+    },
+    {
+      "st": 107699,
+      "id": 132660,
+      "naz": "Jure Leben"
+    },
+    {
+      "st": 107699,
+      "id": 132661,
+      "naz": "Tamara Vonta"
+    },
+    {
+      "st": 107699,
+      "id": 132662,
+      "naz": "Marjan Šarec"
+    },
+    {
+      "st": 107699,
+      "id": 132663,
+      "naz": "Maša Kociper"
+    },
+    {
+      "st": 107699,
+      "id": 132664,
+      "naz": "Vojko Volk"
+    },
+    {
+      "st": 107699,
+      "id": 132665,
+      "naz": "Uroš Brežan"
+    },
+    {
+      "st": 107700,
+      "id": 132666,
+      "naz": "Romana Tomc"
+    },
+    {
+      "st": 107700,
+      "id": 132667,
+      "naz": "dr. Milan Zver"
+    },
+    {
+      "st": 107700,
+      "id": 132668,
+      "naz": "Aleš Hojs"
+    },
+    {
+      "st": 107700,
+      "id": 132669,
+      "naz": "Franc Breznik"
+    },
+    {
+      "st": 107700,
+      "id": 132670,
+      "naz": "mag. Branko Grims"
+    },
+    {
+      "st": 107700,
+      "id": 132671,
+      "naz": "Franc Kangler"
+    },
+    {
+      "st": 107700,
+      "id": 132672,
+      "naz": "Alenka Forte"
+    },
+    {
+      "st": 107700,
+      "id": 132673,
+      "naz": "Karin Planinšek"
+    },
+    {
+      "st": 107700,
+      "id": 132674,
+      "naz": "Zala Tomašič"
+    },
+    {
+      "st": 107649,
+      "id": 132607,
+      "naz": "Vladimir Prebilič"
+    },
+    {
+      "st": 107649,
+      "id": 132608,
+      "naz": "Urša (Urška) Zgojznik"
+    },
+    {
+      "st": 107649,
+      "id": 132609,
+      "naz": "Klemen Belhar"
+    },
+    {
+      "st": 107649,
+      "id": 132610,
+      "naz": "Marike Grubar"
+    },
+    {
+      "st": 107649,
+      "id": 132611,
+      "naz": "Uroš Macerl"
+    },
+    {
+      "st": 107649,
+      "id": 132612,
+      "naz": "Andreja Marolt"
+    },
+    {
+      "st": 107649,
+      "id": 132613,
+      "naz": "Ibrahim Nouhoum"
+    },
+    {
+      "st": 107649,
+      "id": 132615,
+      "naz": "Saša Fras"
+    },
+    {
+      "st": 107651,
+      "id": 132625,
+      "naz": "Uroš Lipušček"
+    },
+    {
+      "st": 107651,
+      "id": 132626,
+      "naz": "Doroteja Novak Gosarič"
+    },
+    {
+      "st": 107651,
+      "id": 132627,
+      "naz": "Anton Balažek"
+    },
+    {
+      "st": 107651,
+      "id": 132628,
+      "naz": "Darinka Mravljak"
+    },
+    {
+      "st": 107651,
+      "id": 132629,
+      "naz": "Drago Bulc"
+    },
+    {
+      "st": 107651,
+      "id": 132630,
+      "naz": "Saša Pavček"
+    },
+    {
+      "st": 107651,
+      "id": 132631,
+      "naz": "Stojan Lipolt"
+    },
+    {
+      "st": 107651,
+      "id": 132632,
+      "naz": "Natalija Tripković"
+    },
+    {
+      "st": 107651,
+      "id": 132633,
+      "naz": "Bogomir Kovač"
+    },
+    {
+      "st": 107650,
+      "id": 132616,
+      "naz": "Peter Gregorčič"
+    },
+    {
+      "st": 107650,
+      "id": 132617,
+      "naz": "Nina Strah"
+    },
+    {
+      "st": 107650,
+      "id": 132618,
+      "naz": "Franc Bogovič"
+    },
+    {
+      "st": 107650,
+      "id": 132619,
+      "naz": "Sara Ahlin Doljak"
+    },
+    {
+      "st": 107650,
+      "id": 132620,
+      "naz": "Franc Pukšič"
+    },
+    {
+      "st": 107650,
+      "id": 132621,
+      "naz": "Mija (Marija) Aleš"
+    },
+    {
+      "st": 107650,
+      "id": 132622,
+      "naz": "Aljaž Barlič"
+    },
+    {
+      "st": 107650,
+      "id": 132623,
+      "naz": "Kaja Galič"
+    },
+    {
+      "st": 107650,
+      "id": 132624,
+      "naz": "Marko Balažic"
+    },
+    {
+      "st": 107648,
+      "id": 132598,
+      "naz": "Matej Tonin"
+    },
+    {
+      "st": 107648,
+      "id": 132599,
+      "naz": "Katja Berk Bevc"
+    },
+    {
+      "st": 107648,
+      "id": 132600,
+      "naz": "David Klobasa"
+    },
+    {
+      "st": 107648,
+      "id": 132601,
+      "naz": "Mojca Erjavec"
+    },
+    {
+      "st": 107648,
+      "id": 132606,
+      "naz": "Mojca Sojar"
+    },
+    {
+      "st": 107648,
+      "id": 132602,
+      "naz": "Janez Cigler Kralj"
+    },
+    {
+      "st": 107648,
+      "id": 132603,
+      "naz": "Vida Čadonič Špelič"
+    },
+    {
+      "st": 107648,
+      "id": 132604,
+      "naz": "Jernej Vrtovec"
+    },
+    {
+      "st": 107648,
+      "id": 132605,
+      "naz": "Ljudmila Novak"
+    },
+    {
+      "st": 107701,
+      "id": 132675,
+      "naz": "Nataša Sukič"
+    },
+    {
+      "st": 107701,
+      "id": 132676,
+      "naz": "Dan Juvan"
+    },
+    {
+      "st": 107701,
+      "id": 132677,
+      "naz": "Katja Sluga"
+    },
+    {
+      "st": 107701,
+      "id": 132678,
+      "naz": "Fahir Gutić"
+    },
+    {
+      "st": 107701,
+      "id": 132679,
+      "naz": "Zdenka Badovinac"
+    },
+    {
+      "st": 107701,
+      "id": 132680,
+      "naz": "dr. Luka Omladič"
+    },
+    {
+      "st": 107701,
+      "id": 132681,
+      "naz": "dr. Svetlana Slapšak"
+    },
+    {
+      "st": 107701,
+      "id": 132682,
+      "naz": "Tarra Stermšek Kristan"
+    },
+    {
+      "st": 107701,
+      "id": 132683,
+      "naz": "Luka Mesec"
+    },
+    {
+      "st": 107652,
+      "id": 132634,
+      "naz": "Klemen Grošelj"
+    },
+    {
+      "st": 107652,
+      "id": 132635,
+      "naz": "Nada Pavšer"
+    },
+    {
+      "st": 107652,
+      "id": 132636,
+      "naz": "Bogomil Knavs"
+    },
+    {
+      "st": 107652,
+      "id": 132637,
+      "naz": "Vesna Lavtižar"
+    },
+    {
+      "st": 107652,
+      "id": 132638,
+      "naz": "Milan Gabrovec"
+    },
+    {
+      "st": 107652,
+      "id": 132639,
+      "naz": "Valerija Korošec"
+    },
+    {
+      "st": 107652,
+      "id": 132640,
+      "naz": "Renato Volker"
+    },
+    {
+      "st": 107652,
+      "id": 132641,
+      "naz": "Mojca Šetinc Pašek"
+    },
+    {
+      "st": 107652,
+      "id": 132642,
+      "naz": "Aleksander Merlo"
+    },
+    {
+      "st": 107698,
+      "id": 132648,
+      "naz": "Matjaž Nemec"
+    },
+    {
+      "st": 107698,
+      "id": 132649,
+      "naz": "Mojca Kleva Kekuš"
+    },
+    {
+      "st": 107698,
+      "id": 132650,
+      "naz": "Aleksander Jevšek"
+    },
+    {
+      "st": 107698,
+      "id": 132651,
+      "naz": "Lucija Karnelutti"
+    },
+    {
+      "st": 107698,
+      "id": 132652,
+      "naz": "Matevž Frangež"
+    },
+    {
+      "st": 107698,
+      "id": 132653,
+      "naz": "Aleksandra Vasiljević"
+    },
+    {
+      "st": 107698,
+      "id": 132654,
+      "naz": "Primož Brvar"
+    },
+    {
+      "st": 107698,
+      "id": 132655,
+      "naz": "Neva Grašič"
+    },
+    {
+      "st": 107698,
+      "id": 132656,
+      "naz": "Milan Brglez"
+    },
+    {
+      "st": 107702,
+      "id": 132684,
+      "naz": "Zoran Stevanović"
+    },
+    {
+      "st": 107702,
+      "id": 132685,
+      "naz": "Polonca Frelih"
+    },
+    {
+      "st": 107702,
+      "id": 132686,
+      "naz": "Sabina Senčar"
+    },
+    {
+      "st": 107702,
+      "id": 132687,
+      "naz": "Bojan Potočnik"
+    },
+    {
+      "st": 107702,
+      "id": 132688,
+      "naz": "Neven Polajnar"
+    },
+    {
+      "st": 107702,
+      "id": 132689,
+      "naz": "Tanja Đurić Ribič"
+    },
+    {
+      "st": 107702,
+      "id": 132690,
+      "naz": "Katja Kokot"
+    },
+    {
+      "st": 107702,
+      "id": 132691,
+      "naz": "Stanko Pušenjak"
+    },
+    {
+      "st": 107702,
+      "id": 132692,
+      "naz": "Branko Gradišnik"
+    },
+    {
+      "st": 107654,
+      "id": 132643,
+      "naz": "Violeta Tomić"
+    },
+    {
+      "st": 107654,
+      "id": 132709,
+      "naz": "Darko Hribar"
+    },
+    {
+      "st": 107654,
+      "id": 132644,
+      "naz": "Tjaša Zorc Rupnik"
+    },
+    {
+      "st": 107654,
+      "id": 132645,
+      "naz": "Janez Stariha"
+    },
+    {
+      "st": 107654,
+      "id": 132646,
+      "naz": "Alenka Pečnik"
+    },
+    {
+      "st": 107654,
+      "id": 132647,
+      "naz": "Gregor Jankovič"
+    },
+    {
+      "st": 107654,
+      "id": 132708,
+      "naz": "Amadeja Kugl"
+    },
+    {
+      "st": 107654,
+      "id": 132698,
+      "naz": "dr. Tomaž Makovec"
+    },
+    {
+      "st": 107654,
+      "id": 132699,
+      "naz": "Alberto Avguštinčič"
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}
