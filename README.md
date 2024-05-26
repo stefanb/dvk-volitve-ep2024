@@ -5,3 +5,4 @@
 Sources:
 
 * https://volitve.dvk-rs.si/ -> [volitve/](volitve/)
+* https://www.dvk-rs.si/novica/potrjen-seznam-kandidatk-in-kandidatov-za-volitve-poslancev-iz-republike-slovenije-v-evropski-parlament/ -> [potrjene-liste-kandidatov/](potrjene-liste-kandidatov/)
