@@ -4,24 +4,24 @@ set -e
 VolitveBASEURL="https://volitve.dvk-rs.si/ep2024"
 mkdir -p volitve
 
-curl -s "${VolitveBASEURL}/config/config.json"   | jq > volitve/config.json
-curl -s "${VolitveBASEURL}/data/obvestila.json"  | jq > volitve/obvestila.json
-curl -s "${VolitveBASEURL}/data/data.json"       | jq > volitve/data.json
+curl --progress-bar --fail "${VolitveBASEURL}/config/config.json"   | jq > volitve/config.json
+curl --progress-bar --fail "${VolitveBASEURL}/data/obvestila.json"  | jq > volitve/obvestila.json
+curl --progress-bar --fail "${VolitveBASEURL}/data/data.json"       | jq > volitve/data.json
 jq -r '(.slovenija.enote | map({st: .st, naziv: .naz} ))| (.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' volitve/data.json > volitve/enote.csv
-curl -s "${VolitveBASEURL}/data/liste.json"      | jq > volitve/liste.json
+curl --progress-bar --fail "${VolitveBASEURL}/data/liste.json"      | jq > volitve/liste.json
 jq -r '(.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' volitve/liste.json > volitve/liste.csv
-curl -s "${VolitveBASEURL}/data/kandidati.json"  | jq > volitve/kandidati.json
+curl --progress-bar --fail "${VolitveBASEURL}/data/kandidati.json"  | jq > volitve/kandidati.json
 jq -r 'map({zap_st: .zap_st, st: .st, id: .id, ime: .ime, priimek: .pri, datum_rojstva: .dat_roj[0:10], delo: .del , obcina: .obc , naselje: .nas , ulica: .ul , hisna_st: .hst, spol: .spol , ptt: .ptt , ptt_st: .ptt_st , enota: .enota, okraj_1: .okraji[0], okraj_2: .okraji[1] }) | (.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' volitve/kandidati.json > volitve/kandidati.csv
-curl -s "${VolitveBASEURL}/data/zgod_udel.json"  | jq > volitve/zgod_udel.json
+curl --progress-bar --fail "${VolitveBASEURL}/data/zgod_udel.json"  | jq > volitve/zgod_udel.json
 
 # Iz navodil medijem:
 # https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-dz-2022/#accordion-1731-body-6
-curl -s "${VolitveBASEURL}/data/udelezba.json"            | jq > volitve/udelezba.json
-curl -s "${VolitveBASEURL}/data/udelezba.csv"                  > volitve/udelezba.csv
-curl -s "${VolitveBASEURL}/data/rezultati.json"           | jq > volitve/rezultati.json
-curl -s "${VolitveBASEURL}/data/rezultati.csv"                 > volitve/rezultati.csv
-curl -s "${VolitveBASEURL}/data/kandidati_rezultati.json" | jq > volitve/kandidati_rezultati.json
-curl -s "${VolitveBASEURL}/data/mandati.csv"                   > volitve/mandati.csv
+curl --progress-bar --fail "${VolitveBASEURL}/data/udelezba.json"            | jq > volitve/udelezba.json
+curl --progress-bar --fail "${VolitveBASEURL}/data/udelezba.csv"                  > volitve/udelezba.csv
+curl --progress-bar --fail "${VolitveBASEURL}/data/rezultati.json"           | jq > volitve/rezultati.json
+curl --progress-bar --fail "${VolitveBASEURL}/data/rezultati.csv"                 > volitve/rezultati.csv
+curl --progress-bar --fail "${VolitveBASEURL}/data/kandidati_rezultati.json" | jq > volitve/kandidati_rezultati.json
+curl --progress-bar --fail "${VolitveBASEURL}/data/mandati.csv"                   > volitve/mandati.csv
 
 
 for VE in {1..8}
@@ -33,6 +33,6 @@ do
         VOTEMP="0${VO}"
         VOPAD="${VOTEMP: -2}"
         echo "Scraping VE:${VEPAD} VO:${VOPAD}..."
-        curl -s "${VolitveBASEURL}/data/volisca_${VEPAD}_${VOPAD}.json" | jq > volitve/volisca_${VEPAD}_${VOPAD}.json
+        curl --progress-bar --fail "${VolitveBASEURL}/data/volisca_${VEPAD}_${VOPAD}.json" | jq > volitve/volisca_${VEPAD}_${VOPAD}.json
     done
 done
