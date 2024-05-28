@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+set -euxo pipefail
 
 VolitveBASEURL="https://volitve.dvk-rs.si/ep2024"
 mkdir -p volitve
