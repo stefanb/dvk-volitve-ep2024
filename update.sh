@@ -14,7 +14,7 @@ curl --progress-bar --fail "${VolitveBASEURL}/data/kandidati.json"  | jq > volit
 jq -r 'map({zap_st: .zap_st, st: .st, id: .id, ime: .ime, priimek: .pri, datum_rojstva: .dat_roj[0:10], delo: .del , obcina: .obc , naselje: .nas , ulica: .ul , hisna_st: .hst, spol: .spol , ptt: .ptt , ptt_st: .ptt_st , enota: .enota, okraj_1: .okraji[0], okraj_2: .okraji[1] }) | (.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' volitve/kandidati.json > volitve/kandidati.csv
 curl --progress-bar --fail "${VolitveBASEURL}/data/zgod_udel.json"  | jq > volitve/zgod_udel.json
 
-sleep 1
+sleep 10
 
 # Iz navodil medijem:
 # https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-dz-2022/#accordion-1731-body-6
@@ -36,7 +36,7 @@ do
         VOPAD="${VOTEMP: -2}"
         echo "Scraping VE:${VEPAD} VO:${VOPAD}..."
         curl --progress-bar --fail "${VolitveBASEURL}/data/volisca_${VEPAD}_${VOPAD}.json" | jq > volitve/volisca_${VEPAD}_${VOPAD}.json
-        sleep 1
+        sleep 2
     done
-    sleep 1
+    sleep 10
 done
