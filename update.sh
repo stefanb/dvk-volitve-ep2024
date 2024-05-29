@@ -34,6 +34,6 @@ do
         VOPAD="${VOTEMP: -2}"
         echo "Scraping VE:${VEPAD} VO:${VOPAD}..."
         curl --progress-bar --fail "${VolitveBASEURL}/data/volisca_${VEPAD}_${VOPAD}.json" | jq > volitve/volisca_${VEPAD}_${VOPAD}.json
+        sleep 1
     done
-    sleep 1
 done
