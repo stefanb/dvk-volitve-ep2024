@@ -49,7 +49,7 @@ jobs:
     - name: Publish volišča changes to git
       if: github.ref == 'refs/heads/main'
       run: |
-        git config user.name "DVK Volitve EP2024 scrape bot 🤖
+        git config user.name "DVK Volitve EP2024 scrape bot 🤖"
         git config user.email ""
         git config commit.gpgsign false
         git pull --rebase
