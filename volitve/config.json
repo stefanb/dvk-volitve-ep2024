@@ -1,0 +1,13 @@
+{
+  "enAppUrl": "en/",
+  "sloAppUrl": "../",
+  "showSL": true,
+  "showEN": true,
+  "dataUrlPrefix": "data/",
+  "dataFile": "data.json",
+  "vsiKandidatiFile": "kandidati.json",
+  "listeFile": "liste.json",
+  "obvestilaFile": "obvestila.json",
+  "zgodUdelFile": "zgod_udel.json",
+  "datumVolitev": "9. junij 2024"
+}
