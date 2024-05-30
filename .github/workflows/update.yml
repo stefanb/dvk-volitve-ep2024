@@ -41,13 +41,15 @@ jobs:
 
     # Runs a set of commands using the runners shell
     - name: Check git diff
+      id: verify_diff
       run: |
         ls -la */*
         git status
+        git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
 
     # Git commit + push, see https://github.com/github-actions-x/commit
     - name: Publish volišča changes to git
-      if: github.ref == 'refs/heads/main'
+      if: github.ref == 'refs/heads/main' && steps.verify_diff.outputs.changed == 'true'
       run: |
         git config user.name "DVK Volitve EP2024 scrape bot 🤖"
         git config user.email ""
@@ -55,4 +57,4 @@ jobs:
         git pull --rebase
         git add ./volitve/
         git commit -m "DVK Volitve EP2024 update 🤖" ./volitve/
-        git push
+        git push origin main

@@ -9,5 +9,6 @@
   "listeFile": "liste.json",
   "obvestilaFile": "obvestila.json",
   "zgodUdelFile": "zgod_udel.json",
-  "datumVolitev": "9. junij 2024"
+  "datumVolitev": "9. junij 2024",
+  "dummy": true
 }
