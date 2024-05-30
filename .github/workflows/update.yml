@@ -19,6 +19,9 @@ on:
     - cron:  '5/10 * 9-10 6 *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -45,11 +48,11 @@ jobs:
     # Git commit + push, see https://github.com/github-actions-x/commit
     - name: Publish volišča changes to git
       if: github.ref == 'refs/heads/main'
-      uses: github-actions-x/commit@v2.9
-      with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'main'
-        commit-message: 'DVK Volitve EP2024 update 🤖'
-        rebase: 'true' # pull and rebase before commit
-        files:  volitve/
-        name: DVK Volitve EP2024 scrape bot 🤖
+      run: |
+        git config user.name "DVK Volitve EP2024 scrape bot 🤖
+        git config user.email ""
+        git config commit.gpgsign false
+        git pull --rebase
+        git add ./volitve/
+        git commit -m "DVK Volitve EP2024 update 🤖" ./volitve/
+        git push
