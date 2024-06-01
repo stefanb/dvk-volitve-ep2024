@@ -50,7 +50,7 @@ jobs:
         ls -la */*
         git add data/*
         git status
-        git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+        git diff --staged --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
 
     # Git commit + push, see https://github.com/github-actions-x/commit
     - name: Publish volišča changes to git
