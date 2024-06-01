@@ -36,8 +36,12 @@ jobs:
     - uses: actions/checkout@v4
 
     # Runs a single command using the runners shell
-    - name: Run update script
-      run: ./update.sh
+    - run: ./update.sh ep2024
+
+    - run: ./update.sh referendum-evtanazija
+    - run: ./update.sh referendum-preferencni-glas
+    - run: ./update.sh referendum-konoplja-medicina
+    - run: ./update.sh referendum-konoplja-raba
 
     # Runs a set of commands using the runners shell
     - name: Check git diff
@@ -54,7 +58,7 @@ jobs:
         git config user.name "DVK Volitve EP2024 scrape bot 🤖"
         git config user.email ""
         git config commit.gpgsign false
-        git add ./volitve/
-        git commit -m "DVK Volitve EP2024 update 🤖" ./volitve/
+        git add ./data/
+        git commit -m "DVK Volitve EP2024 update 🤖" ./data/
         git pull --rebase
         git push origin main
