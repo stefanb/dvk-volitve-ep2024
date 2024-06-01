@@ -58,7 +58,7 @@ jobs:
         git config user.name "DVK Volitve EP2024 scrape bot 🤖"
         git config user.email ""
         git config commit.gpgsign false
-        git add ./data/
+        git add ./data/*
         git commit -m "DVK Volitve EP2024 update 🤖" ./data/
         git pull --rebase
         git push origin main
