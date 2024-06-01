@@ -1,0 +1,354 @@
+{
+  "en_rpeid": "5000",
+  "en_st": 5,
+  "en_naz": "VE 5000 - CELJE",
+  "rpeid": "5002",
+  "st": 2,
+  "naz": "VO 5002 - CELJE 1",
+  "vol": [
+    {
+      "st": 56,
+      "rpeid": "056",
+      "naz": "Avto Čepin, Pot v Lešje 1, Vojnik",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "Dom krajanov, Šmartno v Rožni dolini 5",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "rpeid": "019",
+      "naz": "Dom KS Ljubečna, Kocbekova c. 45, Ljubečna",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "Dvorana KS Teharje, Teharje 14",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "rpeid": "045",
+      "naz": "Gasilski dom Socka, Socka 64",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "rpeid": "040",
+      "naz": "GD Frankolovo, Stražica 2, Frankolovo",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 47,
+      "rpeid": "047",
+      "naz": "GD Lemberg, Lemberg pri Novi Cerkvi  19",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "GD Lokrovec, Lokrovec 57, Celje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "GD Lopata, Lopata 49, Celje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "GD Ostrožno, C. na Ostrožno 90, Celje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "rpeid": "024",
+      "naz": "GD Prožinska vas, Prožinska vas 33, Štore",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 32,
+      "rpeid": "032",
+      "naz": "GD Svetina, Svetina 6, Štore",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "rpeid": "030",
+      "naz": "Gobec Drago, Šentjanž nad Štorami 26",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "Gostilna Tepež, Runtole 3, Škofja vas",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "Hrastnik Miroslav, Vrhe 42, Teharje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "rpeid": "023",
+      "naz": "IV. OŠ,  Dečkova cesta 60, Celje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 38,
+      "rpeid": "038",
+      "naz": "Karo Janez, Lindek 7, Frankolovo",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 59,
+      "rpeid": "059",
+      "naz": "KD Dobrna, Dobrna 1/a, Dobrna",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "KD Škofja vas, Škofja vas 38",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 29,
+      "rpeid": "029",
+      "naz": "KD Štore, C. XIV. divizije 29, Štore",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "rpeid": "012",
+      "naz": "Klenovšek J., Dobrova 16, Celje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "rpeid": "036",
+      "naz": "Kračun Martin, Bezenškovo Bukovje 9/a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 55,
+      "rpeid": "055",
+      "naz": "Majger Jakob, Pristava 14/a, Vojnik",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "rpeid": "035",
+      "naz": "OŠ A. Bezenška Frankolovo, Frankolovo 11 ",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 64,
+      "rpeid": "064",
+      "naz": "OŠ Dobrna, Dobrna 1, Dobrna",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "OŠ Hudinja, Mariborska c. 125, Celje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "rpeid": "025",
+      "naz": "OŠ Kompole, Kompole 92, Štore",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "OŠ Lava, Pucova ul. 7, Celje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "rpeid": "031",
+      "naz": "OŠ Štore, Ul. Cvetke Jerin 5, Štore",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 51,
+      "rpeid": "051",
+      "naz": "OŠ Vojnik, Prušnikova ul. 14, Vojnik",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 52,
+      "rpeid": "052",
+      "naz": "OŠ Vojnik, Prušnikova ul. 14, Vojnik",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 53,
+      "rpeid": "053",
+      "naz": "OSTRI, Ravnak Ivan, Celjska c. 2/b, Vojnik",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "Ostrožnik - Horvat Karina, Bukovžlak 51/a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "Sedež MČ Hudinja, Ul. F. žrtev 17/a, Celje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "Sedež MČ Lava, Iršičeva ul. 2/a, Celje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "rpeid": "021",
+      "naz": "Športno društvo Začret, Začret",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "rpeid": "026",
+      "naz": "Šuhel Pavel, Laška vas 41, Štore",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 44,
+      "rpeid": "044",
+      "naz": "Večnamenska dvorana, POŠ Nova Cerkev 41",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 54,
+      "rpeid": "054",
+      "naz": "Vrbič Franc, Male Dole 44, Vojnik",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 58,
+      "rpeid": "058",
+      "naz": "ZD Dobrna, Dobrna 1/b, Dobrna",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "rpeid": "027",
+      "naz": "Zlatko Cmok, Pečovje 4/a, Štore",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "en_rpeid": "8000",
+  "en_st": 8,
+  "en_naz": "VE 8000 - PTUJ",
+  "rpeid": "8002",
+  "st": 2,
+  "naz": "VO 8002 - ORMOŽ",
+  "vol": [
+    {
+      "st": 17,
+      "rpeid": "017",
+      "naz": "Balažic Marijana, Gomila pri Kogu 25",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "rpeid": "028",
+      "naz": "Bogša Ivan, Litmerk 15b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 44,
+      "rpeid": "044",
+      "naz": "Bombekova hiša, Velika Nedelja 10",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "rpeid": "024",
+      "naz": "Brunarica RD Godeninci, Godeninci bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "rpeid": "023",
+      "naz": "ČD Grabe, Grabe 31",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 42,
+      "rpeid": "042",
+      "naz": "Cimerman Janko, Šardinje 54a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "rpeid": "036",
+      "naz": "DD Ormož, Ljutomerska c. 30",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "rpeid": "020",
+      "naz": "DK Miklavž pri Ormožu, Miklavž pri Ormožu 35",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "rpeid": "025",
+      "naz": "DK Obrež, Obrež 85",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 37,
+      "rpeid": "037",
+      "naz": "DK Ormož, Skolibrova ul. 17",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "DK Sveti Tomaž, Sveti Tomaž 44",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 38,
+      "rpeid": "038",
+      "naz": "Dom MZU Ormož, Ul. dr. Hrovata 8",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 49,
+      "rpeid": "049",
+      "naz": "GD Bresnica, Bresnica 19",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 46,
+      "rpeid": "046",
+      "naz": "GD Cvetkovci, Cvetkovci bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "rpeid": "030",
+      "naz": "GD Hardek, Hardek 15",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "GD Ključarovci, Spodnji Ključarovci 13",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "rpeid": "012",
+      "naz": "GD Koračice, Koračice 15",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 33,
+      "rpeid": "033",
+      "naz": "GD Loperšice, Loperšice 3",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "GD Pršetinci, Pršetinci 24",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "GD Savci, Savci 68",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 41,
+      "rpeid": "041",
+      "naz": "GD Senešci, Senešci 9",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 43,
+      "rpeid": "043",
+      "naz": "GD Trgovišče, Trgovišče 31",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "GD Trnovci, Trnovci 4",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "rpeid": "040",
+      "naz": "GD Velika Nedelja, Velika Nedelja 8a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "GD Vitan, Vitan 4",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "GD Žerovinci, Žerovinci 7",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "Gorjak Zorica, Stanovno 47",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "rpeid": "019",
+      "naz": "GVD Hermanci, Hermanci 55a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "rpeid": "018",
+      "naz": "Janežič Avgust, Veliki Brebrovnik 41",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "rpeid": "031",
+      "naz": "Kralj Ludvik, Pavlovci 28",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "KS Ivanjkovci, Ivanjkovci 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "rpeid": "016",
+      "naz": "KS Kog, Kog 7",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 48,
+      "rpeid": "048",
+      "naz": "KS Podgorci, Podgorci 23b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 39,
+      "rpeid": "039",
+      "naz": "Leben Miran, Hajndl 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 50,
+      "rpeid": "050",
+      "naz": "Megla Albin, Strjanci 19",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "Mlakar Franc, Pavlovski Vrh 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "rpeid": "022",
+      "naz": "OŠ Središče ob Dravi, Slovenska c. 22",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "Petek Nives, Cerovec Stanka Vraza 31",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "Šola Runeč, Runeč 26",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 32,
+      "rpeid": "032",
+      "naz": "Stara šola Hum, Hum pri Ormožu 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "Trstenjak Marija, Lahonci 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 29,
+      "rpeid": "029",
+      "naz": "VD Dobrava, Dobrava 17b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "rpeid": "034",
+      "naz": "VD Frankovci, Frankovci 26a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "rpeid": "027",
+      "naz": "VD Lešnica, Lešnica 20a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 47,
+      "rpeid": "047",
+      "naz": "VD Osluševci, Osluševci 20",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "rpeid": "035",
+      "naz": "VD Pušenci, Pušenci 27a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "rpeid": "045",
+      "naz": "Vesenjak Mihaela, Vičanci 10",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "rpeid": "026",
+      "naz": "Zajc Jože, Šalovci 12",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

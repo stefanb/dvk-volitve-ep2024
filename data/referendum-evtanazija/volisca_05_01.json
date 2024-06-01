@@ -1,0 +1,282 @@
+{
+  "en_rpeid": "5000",
+  "en_st": 5,
+  "en_naz": "VE 5000 - CELJE",
+  "rpeid": "5001",
+  "st": 1,
+  "naz": "VO 5001 - ŠENTJUR",
+  "vol": [
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "Bobnar, Pletovarje 3a, Dramlje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "rpeid": "027",
+      "naz": "Dom Gabernica, Slivnica bš, Gorica pri Slivnici",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "rpeid": "028",
+      "naz": "GD Bukovje, Bukovje bš, Gorica pri Slivnici",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "rpeid": "012",
+      "naz": "GD Dobrina, Dobrina 6b, Loka pri Žusmu",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "GD Dolga Gora, Dolga Gora 50b, Ponikva",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "GD Loka pri Žusmu, Loka 13, Loka pri Žusmu",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "rpeid": "002",
+      "naz": "GD Lokarje, Dole 11, Šentjur",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "rpeid": "025",
+      "naz": "GD Paridol, Paridol bš, Gorica pri Slivnici",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "rpeid": "030",
+      "naz": "GD Šentjur, Ul. A. M. Slomška 2, Šentjur",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "rpeid": "022",
+      "naz": "Gostišče Obrez Milan, Žegar 2, Prevorje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 32,
+      "rpeid": "032",
+      "naz": "Gostišče Zanzibar,C.Kozjanskega odr. 87a,Šentjur",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "rpeid": "024",
+      "naz": "GVD Javorje, Javorje bš, Gorica pri Slivnici",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "rpeid": "036",
+      "naz": "KD Dobje, Dobje 26, Dobje pri Planini",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "rpeid": "023",
+      "naz": "KD Gorica, Gorica 98, Gorica pri Slivnici",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "rpeid": "017",
+      "naz": "KD Šentvid, Šentvid 6, Planina pri Sevnici",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "rpeid": "034",
+      "naz": "Kovač-Reberšak, Vrbno 16, Šentjur",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "rpeid": "026",
+      "naz": "Krajnc, Voduce 22a, Gorica pri Slivnici",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "rpeid": "020",
+      "naz": "Lavbič, Lutrje 16, Ponikva",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "Lenič, Razbor 30a, Dramlje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "rpeid": "018",
+      "naz": "OŠ B. Kocena, Ponikva 29a, Ponikva",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "OŠ Blagovna, Proseniško 22, Šentjur",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "rpeid": "040",
+      "naz": "OŠ Dobje, Dobje 20a, Dobje pri Planini",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "OŠ Dramlje, Dramlje 7a, Dramlje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 39,
+      "rpeid": "039",
+      "naz": "OŠ F. Malgaja, Ul. skl. Ipavcev 2, Šentjur",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "rpeid": "031",
+      "naz": "OŠ Hruševec 1, Gajstova pot 2a, Šentjur",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 33,
+      "rpeid": "033",
+      "naz": "OŠ Hruševec 2, Gajstova pot 2a, Šentjur",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "OŠ Kalobje, Kalobje 15, Kalobje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "OŠ Planina, Planina 69, Planina pri Sevnici",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "Prostori KS Grobelno,Tratna 46, Grobelno",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 29,
+      "rpeid": "029",
+      "naz": "SD Občine Šentjur, Mestni trg 10, Šentjur",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "Šuster, Osredek 3, Šentjur",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "rpeid": "021",
+      "naz": "Večnamenski p. Prevorje, Lopaca 10, Prevorje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

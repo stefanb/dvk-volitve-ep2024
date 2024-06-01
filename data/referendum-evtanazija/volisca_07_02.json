@@ -1,0 +1,506 @@
+{
+  "en_rpeid": "7000",
+  "en_st": 7,
+  "en_naz": "VE 7000 - MARIBOR",
+  "rpeid": "7002",
+  "st": 2,
+  "naz": "VO 7002 - SLOVENSKA BISTRICA",
+  "vol": [
+    {
+      "st": 24,
+      "rpeid": "024",
+      "naz": "Avguštin Zdenka, Tinjska Gora 10",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "Avtohiša Jurič Slovenska Bistrica,  Lackova ul. 3",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 59,
+      "rpeid": "059",
+      "naz": "Berglez Jožef, Mostečno 4",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 44,
+      "rpeid": "044",
+      "naz": "Čebular Branko, Hošnica 52",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "Center za starejše, Leskovarjeva ul. 16",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 65,
+      "rpeid": "065",
+      "naz": "Dečar Marjan, Koritno 7",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "rpeid": "017",
+      "naz": "DK Cigonca, Cigonca 12a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "rpeid": "023",
+      "naz": "DK in GD, Veliko Tinje 33",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 49,
+      "rpeid": "049",
+      "naz": "DK Poljčane, Bistriška c. 91",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 48,
+      "rpeid": "048",
+      "naz": "Dom Dr. Jožeta Potrča Poljčane, Potrčeva ul. 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "rpeid": "002",
+      "naz": "Dom vaščanov Devina, Devina 36a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 75,
+      "rpeid": "075",
+      "naz": "Fridrih Mihael, Kot na Pohorju 9",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "rpeid": "019",
+      "naz": "Furman Vida, Preloge 10a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "rpeid": "028",
+      "naz": "Furman Vilibald, Ošelj 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 42,
+      "rpeid": "042",
+      "naz": "GD Laporje, Laporje 30",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "GD Zgornja Bistrica, Kajuhova ul. 87",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 58,
+      "rpeid": "058",
+      "naz": "Gril Margareta, Pečke 23",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 66,
+      "rpeid": "066",
+      "naz": "Hohler Zalka, Božje 19a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "rpeid": "040",
+      "naz": "Ilić Ivana, Vrhloga 29",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "Jelen Franc, Visole 116",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 39,
+      "rpeid": "039",
+      "naz": "KD Črešnjevec, Črešnjevec 41",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "Klopce - Bar \"Grega\", Klopce 19",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 54,
+      "rpeid": "054",
+      "naz": "Koren Branko, Ložnica 28",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 46,
+      "rpeid": "046",
+      "naz": "Košič Anton, Križni Vrh 96",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "rpeid": "022",
+      "naz": "Košir Janez, Gladomes 77",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 73,
+      "rpeid": "073",
+      "naz": "KS Kebelj, Kebelj 26a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "rpeid": "026",
+      "naz": "KS Šmartno na Pohorju, Šmartno na Pohorju 19",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "rpeid": "020",
+      "naz": "KS Vrhole-Preloge, Vrhole pri Slov. Konjicah 29",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 51,
+      "rpeid": "051",
+      "naz": "KUD Andreja Stefancioza, Studenice 52",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 63,
+      "rpeid": "063",
+      "naz": "Občina Oplotnica - KTC, Goriška c. 4",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 47,
+      "rpeid": "047",
+      "naz": "Občina Poljčane, Bistriška c. 65",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 52,
+      "rpeid": "052",
+      "naz": "OŠ Anice Černejeve Makole, Makole 24",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "OŠ Pohorski odred Slovenska Bistrica, Kopališka 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "rpeid": "012",
+      "naz": "OŠ Pohorski odred Slovenska Bistrica, Kopališka 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 50,
+      "rpeid": "050",
+      "naz": "OŠ Sp. Poljčane, Dravinjska c. 26",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "rpeid": "021",
+      "naz": "OŠ Zgornja Ložnica, Zgornja Ložnica 43",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "rpeid": "027",
+      "naz": "Pečovnik Janko, Spodnje Prebukovje 11",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 67,
+      "rpeid": "067",
+      "naz": "Pišotek Janez, Ugovec 5a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 77,
+      "rpeid": "077",
+      "naz": "Podgrajšek Jože, Zlakova 12",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 41,
+      "rpeid": "041",
+      "naz": "Polajžer Matej, Pretrež 15b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 43,
+      "rpeid": "043",
+      "naz": "Potisk Ivan, Kočno ob Ložnici 17",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "rpeid": "045",
+      "naz": "Prostori društva za šport Žabljek, Žabljek b.š.",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "Pušnik Olga, Spodnja Ložnica 35",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 68,
+      "rpeid": "068",
+      "naz": "Rakovnik Anton, Malahorna 7",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "Repnik Franc, Nova Gora nad Slovensko Bistrico 75",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 76,
+      "rpeid": "076",
+      "naz": "Ribič Janez, Modrič 24",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 60,
+      "rpeid": "060",
+      "naz": "ŠD Stopno, Stopno b.š.",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 61,
+      "rpeid": "061",
+      "naz": "Skledar Štefka, Štatenberg 66a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "Slomškov dom Slov. Bistrica, Trg Alfonza Šarha 2",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 74,
+      "rpeid": "074",
+      "naz": "Smogavc Marija, Kot na Pohorju 30",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 62,
+      "rpeid": "062",
+      "naz": "Športna dvorana Milenij, Ul. Poh. bataljona 19",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "Srednja šola, Ul. Dr. Jožeta Pučnika 21",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "Stopar Janez, Kovača vas 135",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "rpeid": "025",
+      "naz": "Tič Peter, Planina pod Šumikom 19",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "Tirgot, KS Impol, Levstikova ul. 2",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 64,
+      "rpeid": "064",
+      "naz": "Trgovina Jurič Leopold, Čadram 48",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "rpeid": "016",
+      "naz": "Vaški dom Sp. Nova vas, Spodnja Nova vas 35a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 38,
+      "rpeid": "038",
+      "naz": "Večnamenska dvorana KS, Leskovec 65",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 71,
+      "rpeid": "071",
+      "naz": "Večnamenska dvorana Prihova, Prihova b.š.",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 57,
+      "rpeid": "057",
+      "naz": "Vrabič Gabrijel, Varoš 34",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

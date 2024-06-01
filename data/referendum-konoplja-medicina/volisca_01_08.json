@@ -1,0 +1,210 @@
+{
+  "en_rpeid": "1000",
+  "en_st": 1,
+  "en_naz": "VE 1000 - KRANJ",
+  "rpeid": "1008",
+  "st": 8,
+  "naz": "VO 1008 - ŠKOFJA LOKA 1",
+  "vol": [
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "Gasilski dom Gosteče, Gosteče 10, Škofja Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "Gasilski dom Škofja Loka, Studenec 5",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "rpeid": "002",
+      "naz": "Gasilski dom Virmaše, Virmaše 14, Škofja Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "Krajevna skupnost Godešič, Godešič 100, Šk. Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "rpeid": "023",
+      "naz": "Krajevna skupnost Lenart, Sv. Lenart 21, Selca",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "rpeid": "016",
+      "naz": "Krajevna skupnost Podlubnik, Podlubnik 139",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "Kulturni dom Sv. Duh, Sv. Duh 10, Škofja Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "OŠ Cvetko Golar I., Frankovo naselje 51, Šk. Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "OŠ Cvetko Golar II., Frankovo naselje 51,Šk.Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "OŠ Cvetko Golar III., Frankovo naselje 51,Šk.Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "rpeid": "012",
+      "naz": "OŠ Ivana Groharja, Podlubnik 1, Škofja Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "OŠ Škofja Loka-Mesto, Šolska ulica 1, Šk. Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "rpeid": "025",
+      "naz": "Osnovna šola Bukovica, Bukovica 20, Selca",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "rpeid": "024",
+      "naz": "Osnovna šola Bukovščica, Bukovščica 4, Selca",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "Osnovna šola Reteče, Reteče 43, Škofja Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "rpeid": "022",
+      "naz": "Poslovna stavba Sečnik, Zminec 18b, Škofja Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "Prostori Društva upokojencev,Partizanska c.1,Š.L.",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "Puštalski grad, Puštal 21, Škofja Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "rpeid": "021",
+      "naz": "Šola Gabrk, Gabrk 1, Škofja Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "Trgovina kmečki stroji, Sv. Barbara 23, Šk. Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "rpeid": "018",
+      "naz": "Tržnica Škofja Loka, Partizanska cesta 1, Šk.Loka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "Upravna enota Škofja Loka, Poljanska cesta 2, Šk.L",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "rpeid": "020",
+      "naz": "Zadružni dom Log nad Škofjo Loko, Log nad Šk.L.31",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

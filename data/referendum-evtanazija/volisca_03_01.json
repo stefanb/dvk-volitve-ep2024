@@ -1,0 +1,370 @@
+{
+  "en_rpeid": "3000",
+  "en_st": 3,
+  "en_naz": "VE 3000 - LJUBLJANA CENTER",
+  "rpeid": "3001",
+  "st": 1,
+  "naz": "VO 3001 - LOGATEC",
+  "vol": [
+    {
+      "st": 20,
+      "rpeid": "020",
+      "naz": "Ana Žnidaršič, Bločice 5",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "rpeid": "035",
+      "naz": "Brunarica na ovinku, Grčarevec 2a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "GD Bezuljak, Bezuljak 21a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "GD Cajnarje, Hruškarje 16",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "GD Dolenja vas, Dolenja vas 54",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "GD Dolenje Jezero, Dolenje Jezero 50b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "rpeid": "018",
+      "naz": "GD Gorenje Jezero, Gorenje Jezero 32",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "GD Gorenje Otave, Gorenje Otave 4",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "GD Ivanje selo, Ivanje selo 6",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "rpeid": "017",
+      "naz": "GD Martinjak, Martinjak 1b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "rpeid": "024",
+      "naz": "GD Medvedje Brdo, Medvedje Brdo 40",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "GD Sveti Vid, Sveti Vid 5",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "GD Unec, Unec 14",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "rpeid": "045",
+      "naz": "GD Velike Bloke, Velike Bloke 22",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "rpeid": "016",
+      "naz": "GD Žerovnica, Žerovnica 2a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "rpeid": "040",
+      "naz": "Gostišče Mlakar, Markovec 15a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "Krajevni urad Rakek, Trg padlih borcev 2, Rakek",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 49,
+      "rpeid": "049",
+      "naz": "Kraševec Bojan, Studenec na Blokah 12a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "rpeid": "023",
+      "naz": "KS Log-Zaplana, Zaplana-del 58b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 37,
+      "rpeid": "037",
+      "naz": "Medgen. center Gaber, C. 19. oktobra 49, Lož",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "Občina Cerknica, C. 4. maja 53, Cerknica",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 38,
+      "rpeid": "038",
+      "naz": "Okrepčevalnica Lož, C. 19. oktobra 54, Lož",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "rpeid": "028",
+      "naz": "OŠ 8 talcev Logatec, Notranjska c. 3, Logatec",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "rpeid": "030",
+      "naz": "OŠ 8 talcev Logatec, Notranjska c. 3, Logatec",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "OŠ J. Krajca Rakek, Partizanska c. 28, Rakek",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "OŠ Notranjski odred Cerknica, C. 4. maja 92",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 44,
+      "rpeid": "044",
+      "naz": "OŠ Nova vas, Nova vas 4b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "rpeid": "022",
+      "naz": "OŠ Rovte, Rovte 90a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "rpeid": "034",
+      "naz": "OŠ Tabor Logatec, Tržaška c. 150, Logatec",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "rpeid": "019",
+      "naz": "POŠ 11. maj Grahovo, Grahovo 120",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 33,
+      "rpeid": "033",
+      "naz": "POŠ Hotedršica, Hotedršica 120",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 39,
+      "rpeid": "039",
+      "naz": "POŠ Iga vas, Iga vas 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "rpeid": "026",
+      "naz": "POŠ Laze, Laze 57",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "rpeid": "025",
+      "naz": "POŠ Rovtarske Žibrše, Rovtarske Žibrše 10",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "rpeid": "027",
+      "naz": "POŠ Vrh Sv. Treh Kraljev, Vrh Sv. Treh Kraljev 19",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "TD Menišija, Begunje pri Cerknici 28",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "rpeid": "002",
+      "naz": "UE Cerknica, C. 4. maja 24, Cerknica",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "rpeid": "031",
+      "naz": "Upravni center Logatec, Tržaška c. 50a, Logatec",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 32,
+      "rpeid": "032",
+      "naz": "Upravni center Logatec, Tržaška c. 50a, Logatec",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 47,
+      "rpeid": "047",
+      "naz": "VD Sveta Trojica, Sveta Trojica 5a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 43,
+      "rpeid": "043",
+      "naz": "Večnamenski objekt Babno Polje, Babno Polje 82",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "rpeid": "036",
+      "naz": "ZVI Logatec, Tržaška c. 63, Logatec",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 902,
+      "rpeid": "902",
+      "naz": "Predčasno glasovanje - Cerknica",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje - Logatec",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

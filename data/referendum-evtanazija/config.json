@@ -1,0 +1,25 @@
+{
+  "enAppUrl": "en/",
+  "sloAppUrl": "../",
+  "showSL": true,
+  "showEN": true,
+  "dataUrlPrefix": "data/",
+  "dataFile": "data.json",
+  "obvestilaFile": "obvestila.json",
+  "zgodUdelFile": "zgod_udel.json",
+  "datumVolitev": "9. junij 2024",
+  "referednumOther": [
+    {
+      "title": "PREFERENČNI GLAS",
+      "url": "https://volitve.dvk-rs.si/referendum-preferencni-glas/#"
+    },
+    {
+      "title": "KONOPLJA-MEDICINA",
+      "url": "https://volitve.dvk-rs.si/referendum-konoplja-medicina/#"
+    },
+    {
+      "title": "KONOPLJA-RABA",
+      "url": "https://volitve.dvk-rs.si/referendum-konoplja-raba/#"
+    }
+  ]
+}

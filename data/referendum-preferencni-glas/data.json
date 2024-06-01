@@ -1,0 +1,1037 @@
+{
+  "slovenija": {
+    "enote": [
+      {
+        "okraji": [
+          {
+            "st": 1,
+            "rpeid": "1001",
+            "naz": "VO 1001 - JESENICE",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 2,
+            "rpeid": "1002",
+            "naz": "VO 1002 - RADOVLJICA 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 3,
+            "rpeid": "1003",
+            "naz": "VO 1003 - RADOVLJICA 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 4,
+            "rpeid": "1004",
+            "naz": "VO 1004 - KRANJ 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 5,
+            "rpeid": "1005",
+            "naz": "VO 1005 - KRANJ 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 6,
+            "rpeid": "1006",
+            "naz": "VO 1006 - KRANJ 3",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 7,
+            "rpeid": "1007",
+            "naz": "VO 1007 - TRŽIČ",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 8,
+            "rpeid": "1008",
+            "naz": "VO 1008 - ŠKOFJA LOKA 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 9,
+            "rpeid": "1009",
+            "naz": "VO 1009 - ŠKOFJA LOKA 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 10,
+            "rpeid": "1010",
+            "naz": "VO 1010 - KAMNIK",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 11,
+            "rpeid": "1011",
+            "naz": "VO 1011 - IDRIJA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          }
+        ],
+        "st": 1,
+        "rpeid": "1000",
+        "naz": "VE 1000 - KRANJ",
+        "rez": null,
+        "udel": null,
+        "udel_11": null,
+        "udel_16": null,
+        "prestetih_glasov": null
+      },
+      {
+        "okraji": [
+          {
+            "st": 1,
+            "rpeid": "2001",
+            "naz": "VO 2001 - TOLMIN",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 2,
+            "rpeid": "2002",
+            "naz": "VO 2002 - PIRAN",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 3,
+            "rpeid": "2003",
+            "naz": "VO 2003 - IZOLA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 4,
+            "rpeid": "2004",
+            "naz": "VO 2004 - KOPER 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 5,
+            "rpeid": "2005",
+            "naz": "VO 2005 - KOPER 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 6,
+            "rpeid": "2006",
+            "naz": "VO 2006 - SEŽANA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 7,
+            "rpeid": "2007",
+            "naz": "VO 2007 - ILIRSKA BISTRICA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 8,
+            "rpeid": "2008",
+            "naz": "VO 2008 - POSTOJNA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 9,
+            "rpeid": "2009",
+            "naz": "VO 2009 - NOVA GORICA 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 10,
+            "rpeid": "2010",
+            "naz": "VO 2010 - NOVA GORICA 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 11,
+            "rpeid": "2011",
+            "naz": "VO 2011 - AJDOVŠČINA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          }
+        ],
+        "st": 2,
+        "rpeid": "2000",
+        "naz": "VE 2000 - POSTOJNA",
+        "rez": null,
+        "udel": null,
+        "udel_11": null,
+        "udel_16": null,
+        "prestetih_glasov": null
+      },
+      {
+        "okraji": [
+          {
+            "st": 1,
+            "rpeid": "3001",
+            "naz": "VO 3001 - LOGATEC",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 2,
+            "rpeid": "3002",
+            "naz": "VO 3002 - VRHNIKA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 3,
+            "rpeid": "3003",
+            "naz": "VO 3003 - LJUBLJANA VIČ-RUDNIK 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 4,
+            "rpeid": "3004",
+            "naz": "VO 3004 - LJUBLJANA VIČ-RUDNIK 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 5,
+            "rpeid": "3005",
+            "naz": "VO 3005 - LJUBLJANA VIČ-RUDNIK 3",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 6,
+            "rpeid": "3006",
+            "naz": "VO 3006 - LJUBLJANA VIČ-RUDNIK 4",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 7,
+            "rpeid": "3007",
+            "naz": "VO 3007 - LJUBLJANA CENTER",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 8,
+            "rpeid": "3008",
+            "naz": "VO 3008 - LJUBLJANA ŠIŠKA 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 9,
+            "rpeid": "3009",
+            "naz": "VO 3009 - LJUBLJANA ŠIŠKA 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 10,
+            "rpeid": "3010",
+            "naz": "VO 3010 - LJUBLJANA ŠIŠKA 3",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 11,
+            "rpeid": "3011",
+            "naz": "VO 3011 - LJUBLJANA ŠIŠKA 4",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          }
+        ],
+        "st": 3,
+        "rpeid": "3000",
+        "naz": "VE 3000 - LJUBLJANA CENTER",
+        "rez": null,
+        "udel": null,
+        "udel_11": null,
+        "udel_16": null,
+        "prestetih_glasov": null
+      },
+      {
+        "okraji": [
+          {
+            "st": 1,
+            "rpeid": "4001",
+            "naz": "VO 4001 - KOČEVJE",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 2,
+            "rpeid": "4002",
+            "naz": "VO 4002 - RIBNICA-DOBREPOLJE",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 3,
+            "rpeid": "4003",
+            "naz": "VO 4003 - GROSUPLJE",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 4,
+            "rpeid": "4004",
+            "naz": "VO 4004 - IVANČNA GORICA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 5,
+            "rpeid": "4005",
+            "naz": "VO 4005 - LJUBLJANA MOSTE-POLJE 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 6,
+            "rpeid": "4006",
+            "naz": "VO 4006 - LJUBLJANA MOSTE-POLJE 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 7,
+            "rpeid": "4007",
+            "naz": "VO 4007 - LJUBLJANA MOSTE-POLJE 3",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 8,
+            "rpeid": "4008",
+            "naz": "VO 4008 - LJUBLJANA BEŽIGRAD 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 9,
+            "rpeid": "4009",
+            "naz": "VO 4009 - LJUBLJANA BEŽIGRAD 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 10,
+            "rpeid": "4010",
+            "naz": "VO 4010 - DOMŽALE 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 11,
+            "rpeid": "4011",
+            "naz": "VO 4011 - DOMŽALE 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          }
+        ],
+        "st": 4,
+        "rpeid": "4000",
+        "naz": "VE 4000 - LJUBLJANA BEŽIGRAD",
+        "rez": null,
+        "udel": null,
+        "udel_11": null,
+        "udel_16": null,
+        "prestetih_glasov": null
+      },
+      {
+        "okraji": [
+          {
+            "st": 1,
+            "rpeid": "5001",
+            "naz": "VO 5001 - ŠENTJUR",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 2,
+            "rpeid": "5002",
+            "naz": "VO 5002 - CELJE 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 3,
+            "rpeid": "5003",
+            "naz": "VO 5003 - CELJE 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 4,
+            "rpeid": "5004",
+            "naz": "VO 5004 - ŽALEC 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 5,
+            "rpeid": "5005",
+            "naz": "VO 5005 - ŽALEC 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 6,
+            "rpeid": "5006",
+            "naz": "VO 5006 - MOZIRJE",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 7,
+            "rpeid": "5007",
+            "naz": "VO 5007 - VELENJE 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 8,
+            "rpeid": "5008",
+            "naz": "VO 5008 - VELENJE 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 9,
+            "rpeid": "5009",
+            "naz": "VO 5009 - SLOVENJ GRADEC",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 10,
+            "rpeid": "5010",
+            "naz": "VO 5010 - RAVNE NA KOROŠKEM",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 11,
+            "rpeid": "5011",
+            "naz": "VO 5011 - RADLJE",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          }
+        ],
+        "st": 5,
+        "rpeid": "5000",
+        "naz": "VE 5000 - CELJE",
+        "rez": null,
+        "udel": null,
+        "udel_11": null,
+        "udel_16": null,
+        "prestetih_glasov": null
+      },
+      {
+        "okraji": [
+          {
+            "st": 1,
+            "rpeid": "6001",
+            "naz": "VO 6001 - ČRNOMELJ",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 2,
+            "rpeid": "6002",
+            "naz": "VO 6002 - NOVO MESTO 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 3,
+            "rpeid": "6003",
+            "naz": "VO 6003 - NOVO MESTO 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 4,
+            "rpeid": "6004",
+            "naz": "VO 6004 - TREBNJE",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 5,
+            "rpeid": "6005",
+            "naz": "VO 6005 - BREŽICE",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 6,
+            "rpeid": "6006",
+            "naz": "VO 6006 - KRŠKO",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 7,
+            "rpeid": "6007",
+            "naz": "VO 6007 - SEVNICA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 8,
+            "rpeid": "6008",
+            "naz": "VO 6008 - LAŠKO",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 9,
+            "rpeid": "6009",
+            "naz": "VO 6009 - LITIJA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 10,
+            "rpeid": "6010",
+            "naz": "VO 6010 - HRASTNIK-TRBOVLJE",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 11,
+            "rpeid": "6011",
+            "naz": "VO 6011 - ZAGORJE",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          }
+        ],
+        "st": 6,
+        "rpeid": "6000",
+        "naz": "VE 6000 - NOVO MESTO",
+        "rez": null,
+        "udel": null,
+        "udel_11": null,
+        "udel_16": null,
+        "prestetih_glasov": null
+      },
+      {
+        "okraji": [
+          {
+            "st": 1,
+            "rpeid": "7001",
+            "naz": "VO 7001 - ŠMARJE PRI JELŠAH",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 2,
+            "rpeid": "7002",
+            "naz": "VO 7002 - SLOVENSKA BISTRICA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 3,
+            "rpeid": "7003",
+            "naz": "VO 7003 - SLOVENSKE KONJICE",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 4,
+            "rpeid": "7004",
+            "naz": "VO 7004 - RUŠE",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 5,
+            "rpeid": "7005",
+            "naz": "VO 7005 - MARIBOR 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 6,
+            "rpeid": "7006",
+            "naz": "VO 7006 - MARIBOR 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 7,
+            "rpeid": "7007",
+            "naz": "VO 7007 - MARIBOR 3",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 8,
+            "rpeid": "7008",
+            "naz": "VO 7008 - MARIBOR 4",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 9,
+            "rpeid": "7009",
+            "naz": "VO 7009 - MARIBOR 5",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 10,
+            "rpeid": "7010",
+            "naz": "VO 7010 - MARIBOR 6",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 11,
+            "rpeid": "7011",
+            "naz": "VO 7011 - MARIBOR 7",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          }
+        ],
+        "st": 7,
+        "rpeid": "7000",
+        "naz": "VE 7000 - MARIBOR",
+        "rez": null,
+        "udel": null,
+        "udel_11": null,
+        "udel_16": null,
+        "prestetih_glasov": null
+      },
+      {
+        "okraji": [
+          {
+            "st": 1,
+            "rpeid": "8001",
+            "naz": "VO 8001 - LENDAVA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 2,
+            "rpeid": "8002",
+            "naz": "VO 8002 - ORMOŽ",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 3,
+            "rpeid": "8003",
+            "naz": "VO 8003 - LJUTOMER",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 4,
+            "rpeid": "8004",
+            "naz": "VO 8004 - MURSKA SOBOTA 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 5,
+            "rpeid": "8005",
+            "naz": "VO 8005 - MURSKA SOBOTA 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 6,
+            "rpeid": "8006",
+            "naz": "VO 8006 - GORNJA RADGONA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 7,
+            "rpeid": "8007",
+            "naz": "VO 8007 - LENART",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 8,
+            "rpeid": "8008",
+            "naz": "VO 8008 - PESNICA",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 9,
+            "rpeid": "8009",
+            "naz": "VO 8009 - PTUJ 1",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 10,
+            "rpeid": "8010",
+            "naz": "VO 8010 - PTUJ 2",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          },
+          {
+            "st": 11,
+            "rpeid": "8011",
+            "naz": "VO 8011 - PTUJ 3",
+            "rez": null,
+            "udel": null,
+            "udel_11": null,
+            "udel_16": null,
+            "prestetih_glasov": null
+          }
+        ],
+        "st": 8,
+        "rpeid": "8000",
+        "naz": "VE 8000 - PTUJ",
+        "rez": null,
+        "udel": null,
+        "udel_11": null,
+        "udel_16": null,
+        "prestetih_glasov": null
+      }
+    ],
+    "posebna_volisca": [
+      {
+        "tip": 1,
+        "naziv": "Volišča OMNIA",
+        "rez": null,
+        "udel": null,
+        "udel_11": null,
+        "udel_16": null,
+        "prestetih_glasov": null
+      }
+    ],
+    "prip_manjs": {
+      "enote": [
+        {
+          "st": 9,
+          "rpeid": "0009",
+          "naz": "VE 0009 - Koper",
+          "opis": null,
+          "udel": null,
+          "rez": null,
+          "prestetih_glasov": null
+        },
+        {
+          "st": 10,
+          "rpeid": "0010",
+          "naz": "VE 0010 - Lendava",
+          "opis": null,
+          "udel": null,
+          "rez": null,
+          "prestetih_glasov": null
+        }
+      ],
+      "kand_rez": null
+    },
+    "rez": null,
+    "udel": null,
+    "udel_11": null,
+    "udel_16": null,
+    "prestetih_glasov": null
+  },
+  "nastavitve": {
+    "timestamp": "2024-05-23T14:14:58.797Z",
+    "datum": "2024-05-23T14:10:00Z",
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_udel_11": false,
+    "has_udel_16": false,
+    "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
+    "has_kandidati": false,
+    "has_kandidati_removed": false
+  },
+  "obvestila": [],
+  "obvestila_en": []
+}

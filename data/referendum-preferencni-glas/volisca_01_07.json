@@ -1,0 +1,146 @@
+{
+  "en_rpeid": "1000",
+  "en_st": 1,
+  "en_naz": "VE 1000 - KRANJ",
+  "rpeid": "1007",
+  "st": 7,
+  "naz": "VO 1007 - TRŽIČ",
+  "vol": [
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "Bistrica I, Osnovna šola Bistrica, Begunjska c. 2",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "rpeid": "002",
+      "naz": "Bistrica II, Osnovna šola Bistrica, Begunjska c.2",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "Brezje, Dom krajanov, Brezje pri Tržiču 55, Tržič",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "Jelendol, Dom krajanov, Jelendol 8, Tržič",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "Kovor, Krajevna skupnost, Glavna cesta 24, Kovor",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "Križe, Osnovna šola Križe, C. Kokrškega odreda 16",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "Leše, Gasilski dom Leše, Leše 3, Tržič ",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "Lom pod Storžičem,Dom krajanov,Lom pod Storžič.56",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "Podljubelj, Dom krajanov, Podljubelj 242, Tržič ",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "Pristava, Fundacija V.Drakslerja, Pristavška c.16",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "Ravne,Krajevna skupnost Ravne, Pot na Zali Rovt 3",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "rpeid": "012",
+      "naz": "Sebenje, Dom krajanov, Sebenje 43, Križe",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "Senično, Krajevna skupnost, Senično 30, Križe   ",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "Tržič I,Galerija Atrij Občine Tržič,Trg svobode18",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "Tržič II, Društvo upokojencev Tržič,Trg svobode18",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

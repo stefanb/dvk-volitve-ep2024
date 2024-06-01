@@ -1,0 +1,25 @@
+{
+  "enAppUrl": "en/",
+  "sloAppUrl": "../",
+  "showSL": true,
+  "showEN": true,
+  "dataUrlPrefix": "data/",
+  "dataFile": "data.json",
+  "obvestilaFile": "obvestila.json",
+  "zgodUdelFile": "zgod_udel.json",
+  "datumVolitev": "9. junij 2024",
+  "referednumOther": [
+    {
+      "title": "EVTANAZIJA",
+      "url": "https://volitve.dvk-rs.si/referendum-evtanazija/#"
+    },
+    {
+      "title": "PREFERENČNI GLAS",
+      "url": "https://volitve.dvk-rs.si/referendum-preferencni-glas/#"
+    },
+    {
+      "title": "KONOPLJA-RABA",
+      "url": "https://volitve.dvk-rs.si/referendum-konoplja-raba/#"
+    }
+  ]
+}

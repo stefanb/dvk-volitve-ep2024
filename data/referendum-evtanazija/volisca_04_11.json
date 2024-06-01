@@ -1,0 +1,226 @@
+{
+  "en_rpeid": "4000",
+  "en_st": 4,
+  "en_naz": "VE 4000 - LJUBLJANA BEŽIGRAD",
+  "rpeid": "4011",
+  "st": 11,
+  "naz": "VO 4011 - DOMŽALE 2",
+  "vol": [
+    {
+      "st": 20,
+      "rpeid": "020",
+      "naz": "Dom počitka Mengeš, Glavni trg 13",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "DOMŽALSKI DOM, Ljubljanska cesta 58, Domžale",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "rpeid": "002",
+      "naz": "Galerija Domžale, Mestni trg 1, Domžale",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "rpeid": "024",
+      "naz": "Gasilski dom Loka pri Mengšu, Gasilska c.46",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "rpeid": "012",
+      "naz": "GASILSKI DOM SREDNJE JARŠE,Jarška c. 37,Zg. Jarše",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "rpeid": "017",
+      "naz": "Gasilski dom Topole, Topole 21",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "rpeid": "025",
+      "naz": "KMEČKI turizem BLAŽ, Dobeno 9",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "OŠ Jarše, Šolska ul.1a, Spodnje Jarše",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "OŠ Preserje pri Radomljah, Pelechova c. 83",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "OŠ Trzin I, Mengeška cesta 7b, Trzin",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "OŠ Trzin II, Mengeška c. 7b, Trzin",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "rpeid": "016",
+      "naz": "OŠ Trzin III, Mengeška cesta 7b, Trzin",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "Osnovna šola Dragomelj, Dragomelj 180",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "OSNOVNA ŠOLA ROJE, Kettejeva ulica 15, Domžale",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "PEKARNA JURČEK, Depala vas 93a, Domžale",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "PGD STOB-DEPALA VAS, Ljubljanska cesta 55, Domžale",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "rpeid": "018",
+      "naz": "ŠPORTNA DVORANA MENGEŠ I, Šolska ulica 13, Mengeš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "rpeid": "019",
+      "naz": "ŠPORTNA DVORANA MENGEŠ II, Šolska ulica 13,Mengeš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "Srednja šola Domžale - gimnazija, Cesta talcev 12",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "TIC DOMŽALE, Ljubljanska cesta 70, Domžale",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "VRTEC BISTRA, Ul. Nikola Tesla 16, Domžale",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "VRTEC ČEŠMIN, Murnova ulica 14, Domžale",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "rpeid": "023",
+      "naz": "Vrtec Sonček, Zoranina 5, Mengeš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "rpeid": "021",
+      "naz": "ŽUPNIJSKI DOM MENGEŠ I,Trdinov trg 9, Mengeš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "rpeid": "022",
+      "naz": "ŽUPNIJSKI DOM MENGEŠ II, Trdinov trg 9, Mengeš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

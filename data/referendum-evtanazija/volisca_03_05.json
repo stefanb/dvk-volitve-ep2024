@@ -1,0 +1,162 @@
+{
+  "en_rpeid": "3000",
+  "en_st": 3,
+  "en_naz": "VE 3000 - LJUBLJANA CENTER",
+  "rpeid": "3005",
+  "st": 5,
+  "naz": "VO 3005 - LJUBLJANA VIČ-RUDNIK 3",
+  "vol": [
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "Biotehnični izobraž. center, C. v Mestni log 47",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "Dijaški dom Vič, Gerbičeva ul. 53, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "DSO, Enota Kolezija, Kopališka ul. 10, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "Gasilski dom Lj.-Trnovo, C. v Mestni log 31",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "JP VOKA SNAGA d.o.o., C. dveh cesarjev 111",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "rpeid": "002",
+      "naz": "OŠ Kolezija, C. v Mestni log 46, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "OŠ Kolezija, Splitska ul. 13, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "rpeid": "012",
+      "naz": "OŠ Vič, Abramova ul. 26, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "OŠ Vič, Abramova ul. 26, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "OŠ Vič, Abramova ul. 26, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "OŠ Vič, Abramova ul. 26, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "OŠ Vič, Tržaška c. 74, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "OŠ Vič, Tržaška c. 74, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "rpeid": "016",
+      "naz": "OŠ Vrhovci, C. na Bokalce 1, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "rpeid": "017",
+      "naz": "OŠ Vrhovci, C. na Bokalce 1, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "Prostori MOL, Tbilisijska ul. 22a, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "Prostori MOL, Tbilisijska ul. 22a, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}
