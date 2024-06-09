@@ -6016,16 +6016,16 @@
             "prc": 0.041162
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 445,
+        "velj": 413,
+        "nev": 32
       },
       "udel": {
         "upr": 1306,
-        "gl": 299,
-        "prc": 0.2289
+        "gl": 445,
+        "prc": 0.3407
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "kand_rez": [
@@ -10617,8 +10617,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-10T01:10:02.629Z",
-    "datum": "2024-06-10T01:10:00Z",
+    "timestamp": "2024-06-10T01:15:03.506Z",
+    "datum": "2024-06-10T01:15:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
