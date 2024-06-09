@@ -107,16 +107,16 @@
             "prc": 0.521505
           }
         ],
-        "glas": 382,
+        "glas": 380,
         "velj": 372,
-        "nev": 10
+        "nev": 8
       },
       "udel": {
         "upr": 817,
         "gl": 382,
         "prc": 0.4676
       },
-      "prestetih_glasov": 1
+      "prestetih_glasov": 0.9948
     },
     {
       "st": 13,
@@ -932,8 +932,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T23:40:12.041Z",
-    "datum": "2024-06-09T23:40:00Z",
+    "timestamp": "2024-06-09T23:45:59.641Z",
+    "datum": "2024-06-09T23:45:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

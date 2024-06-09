@@ -3896,8 +3896,8 @@
         {
           "st": 107654,
           "id": 132643,
-          "gl": 0,
-          "prc": 0
+          "gl": 4,
+          "prc": 0.8
         },
         {
           "st": 107654,
@@ -3920,8 +3920,8 @@
         {
           "st": 107654,
           "id": 132646,
-          "gl": 0,
-          "prc": 0
+          "gl": 1,
+          "prc": 0.2
         },
         {
           "st": 107654,
@@ -4009,16 +4009,16 @@
             "prc": 0.016043
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 385,
+        "velj": 374,
+        "nev": 11
       },
       "udel": {
         "upr": 973,
-        "gl": 293,
-        "prc": 0.3011
+        "gl": 386,
+        "prc": 0.3967
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 0.9974
     },
     {
       "kand_rez": [
@@ -12624,8 +12624,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T23:40:07.812Z",
-    "datum": "2024-06-09T23:40:00Z",
+    "timestamp": "2024-06-09T23:45:04.547Z",
+    "datum": "2024-06-09T23:45:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
