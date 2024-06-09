@@ -9632,8 +9632,7 @@
     {
       "st": 107650,
       "id": 132616,
-      "naz": "Peter Gregorčič",
-      "man": true
+      "naz": "Peter Gregorčič"
     },
     {
       "st": 107650,
@@ -9814,7 +9813,8 @@
     {
       "st": 107698,
       "id": 132648,
-      "naz": "Matjaž Nemec"
+      "naz": "Matjaž Nemec",
+      "man": true
     },
     {
       "st": 107698,
@@ -9948,8 +9948,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T23:30:09.613Z",
-    "datum": "2024-06-09T23:30:00Z",
+    "timestamp": "2024-06-09T23:35:03.544Z",
+    "datum": "2024-06-09T23:35:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
