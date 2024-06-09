@@ -11,7 +11,11 @@
       "rpeid": "015",
       "naz": "Info točka 65+, Mačkova 1, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1417,
+        "gl": 115,
+        "prc": 0.0812
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "003",
       "naz": "OŠ Majde Vrhovnik, Gregorčičeva ul. 16, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 683,
+        "gl": 75,
+        "prc": 0.1098
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "004",
       "naz": "OŠ Majde Vrhovnik, Gregorčičeva ul. 16, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 910,
+        "gl": 123,
+        "prc": 0.1352
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "020",
       "naz": "OŠ Majde Vrhovnik, Gregorčičeva ul. 16, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 793,
+        "gl": 60,
+        "prc": 0.0757
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "009",
       "naz": "OŠ Poljane, Zemljemerska ul. 7, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 773,
+        "gl": 86,
+        "prc": 0.1113
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "010",
       "naz": "OŠ Poljane, Zemljemerska ul. 7, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 774,
+        "gl": 80,
+        "prc": 0.1034
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "011",
       "naz": "OŠ Poljane, Zemljemerska ul. 7, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 813,
+        "gl": 110,
+        "prc": 0.1353
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "013",
       "naz": "OŠ Prule, Prule 13, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 800,
+        "gl": 105,
+        "prc": 0.1312
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "014",
       "naz": "OŠ Prule, Prule 13, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 774,
+        "gl": 117,
+        "prc": 0.1512
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "005",
       "naz": "OŠ Toneta Čufarja, Čufarjeva ul. 11, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 629,
+        "gl": 56,
+        "prc": 0.089
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "006",
       "naz": "OŠ Toneta Čufarja, Čufarjeva ul. 11, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 819,
+        "gl": 88,
+        "prc": 0.1074
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "007",
       "naz": "OŠ Toneta Čufarja, Čufarjeva ul. 11, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1342,
+        "gl": 170,
+        "prc": 0.1267
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "019",
       "naz": "OŠ Toneta Čufarja, Čufarjeva ul. 11, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1071,
+        "gl": 117,
+        "prc": 0.1092
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "016",
       "naz": "OŠ Vodmat, Potrčeva ul. 1, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 872,
+        "gl": 113,
+        "prc": 0.1296
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "017",
       "naz": "OŠ Vodmat, Potrčeva ul. 1, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 706,
+        "gl": 102,
+        "prc": 0.1445
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "018",
       "naz": "Prostori MOL, Rozmanova ul. 12, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 857,
+        "gl": 115,
+        "prc": 0.1342
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "001",
       "naz": "Prostori MOL, Štefanova ul. 11, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1337,
+        "gl": 150,
+        "prc": 0.1122
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "008",
       "naz": "SZŠ Ljubljana, Poljanska c. 61, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1261,
+        "gl": 144,
+        "prc": 0.1142
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "021",
       "naz": "SZŠ Ljubljana, Poljanska c. 61, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1024,
+        "gl": 119,
+        "prc": 0.1162
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -733,11 +813,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

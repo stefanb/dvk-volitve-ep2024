@@ -11,7 +11,11 @@
       "rpeid": "030",
       "naz": "Brodej Jože, Brezen 55, Vitanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 137,
+        "gl": 12,
+        "prc": 0.0876
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "032",
       "naz": "Center Noordung, Na vasi 18, Vitanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 137,
+        "gl": 18,
+        "prc": 0.1314
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "012",
       "naz": "Čonč Neža, Ličenca 30, Loče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 194,
+        "gl": 21,
+        "prc": 0.1082
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "039",
       "naz": "CŠOD Gorenje, Zreče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 594,
+        "gl": 53,
+        "prc": 0.0892
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "001",
       "naz": "Dom krajanov Bezina, Slov. Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 708,
+        "gl": 63,
+        "prc": 0.089
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "043",
       "naz": "Dom krajanov Dobrovlje, Dobrava 78, Zreče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 317,
+        "gl": 45,
+        "prc": 0.142
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "009",
       "naz": "Dom krajanov Draža vas, Loče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 391,
+        "gl": 36,
+        "prc": 0.0921
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "011",
       "naz": "Dom krajanov Jernej, Loče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 484,
+        "gl": 49,
+        "prc": 0.1012
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "005",
       "naz": "Dom krajanov Polene, Slov. Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 185,
+        "gl": 14,
+        "prc": 0.0757
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "040",
       "naz": "Dom krajanov Resnik, Zreče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 99,
+        "gl": 11,
+        "prc": 0.1111
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "042",
       "naz": "Dom krajanov Stranice, Zreče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 940,
+        "gl": 114,
+        "prc": 0.1213
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "015",
       "naz": "Dom krajanov Tepanje, Slov. Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 748,
+        "gl": 75,
+        "prc": 0.1003
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "002",
       "naz": "Dom krajanov v Gaju, Vešenik, Slov. Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 522,
+        "gl": 75,
+        "prc": 0.1437
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "013",
       "naz": "Dom krajanov Zbelovo, Loče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 619,
+        "gl": 67,
+        "prc": 0.1082
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "010",
       "naz": "Dom krajanov Žiče, Loče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 458,
+        "gl": 44,
+        "prc": 0.0961
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "014",
       "naz": "Dom krajanov, Sp. Grušovje 30, Slov. Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 160,
+        "gl": 14,
+        "prc": 0.0875
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "016",
       "naz": "Dvorana Konjičanka, Stari trg 41, Slov. Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1120,
+        "gl": 123,
+        "prc": 0.1098
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "025",
       "naz": "Hiša dediščine, Mlače, Loče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 222,
+        "gl": 22,
+        "prc": 0.0991
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "034",
       "naz": "Hotel Dobrava, Bela dvorana, C.na Roglo 15,Zreče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 778,
+        "gl": 110,
+        "prc": 0.1414
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "035",
       "naz": "Hotel Dobrava, Rumena dvorana,C.na Roglo 15,Zreče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 822,
+        "gl": 150,
+        "prc": 0.1825
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "029",
       "naz": "Hrovat Milan, Hudinja 23, Vitanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 139,
+        "gl": 17,
+        "prc": 0.1223
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "018",
       "naz": "Kulturni dom, Mestni trg 4, Slov. Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1223,
+        "gl": 139,
+        "prc": 0.1137
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "028",
       "naz": "Kušar Zdenko, Stenica 44, Vitanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 395,
+        "gl": 55,
+        "prc": 0.1392
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "027",
       "naz": "Občina Vitanje, Grajski trg 1, Vitanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 796,
+        "gl": 100,
+        "prc": 0.1256
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "020",
       "naz": "OŠ ob Dravinji I.,Ul.Dušana Jereba 1,Slov.Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 783,
+        "gl": 120,
+        "prc": 0.1533
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "022",
       "naz": "OŠ ob Dravinji II,Ul.Dušana Jereba 1,Slov.Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 370,
+        "gl": 45,
+        "prc": 0.1216
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "007",
       "naz": "OŠ Špitalič, Slov. Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 285,
+        "gl": 42,
+        "prc": 0.1474
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "023",
       "naz": "Osnovna šola Loče I., Šolska ul. 5, Loče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 930,
+        "gl": 97,
+        "prc": 0.1043
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "024",
       "naz": "Osnovna šola Loče II., Šolska ul. 5, Loče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 156,
+        "gl": 24,
+        "prc": 0.1538
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "037",
       "naz": "Osnovna šola Zreče, Šolska c. 3, Zreče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1010,
+        "gl": 155,
+        "prc": 0.1535
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "004",
       "naz": "Pisarna KS Konjiška vas, Slov. Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 392,
+        "gl": 42,
+        "prc": 0.1071
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "006",
       "naz": "Pri Pohorcu, Sojek 1, Slov. Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 182,
+        "gl": 24,
+        "prc": 0.1319
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "008",
       "naz": "ŠC Konjice-U, Tattenbachova 2a, Slov. Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 674,
+        "gl": 63,
+        "prc": 0.0935
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "017",
       "naz": "ŠC Konjice, Tattenbachova 2a, Slov. Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 467,
+        "gl": 53,
+        "prc": 0.1135
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "031",
       "naz": "Slatinek Marjetka \"Pri Volavcu\", Paka 40, Vitanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 165,
+        "gl": 10,
+        "prc": 0.0606
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "041",
       "naz": "Taborniški dom, Skomarje 32, Zreče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 132,
+        "gl": 20,
+        "prc": 0.1515
+      },
       "prestetih_glasov": null
     },
     {
@@ -299,7 +443,11 @@
       "rpeid": "033",
       "naz": "Zeleni apartma, Loška gora pri Zrečah 39, Zreče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 312,
+        "gl": 53,
+        "prc": 0.1699
+      },
       "prestetih_glasov": null
     },
     {
@@ -307,7 +455,11 @@
       "rpeid": "003",
       "naz": "ZZ Vertačnik,Dobrava pri Konjicah 3b,Slov.Konjice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 116,
+        "gl": 20,
+        "prc": 0.1724
+      },
       "prestetih_glasov": null
     },
     {
@@ -315,7 +467,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -885,11 +1041,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

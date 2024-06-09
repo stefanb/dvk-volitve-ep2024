@@ -11,7 +11,11 @@
       "rpeid": "004",
       "naz": "Br. Smuk I,OŠ M. Čopa, Ul. T. Vidmarja 1,Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1112,
+        "gl": 123,
+        "prc": 0.1106
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "005",
       "naz": "Br. Smuk II,OŠ M. Čopa, Ul. T. Vidmarja 1,Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1150,
+        "gl": 119,
+        "prc": 0.1035
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "016",
       "naz": "Britof, Gasilski dom, Britof 316, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1828,
+        "gl": 280,
+        "prc": 0.1532
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "001",
       "naz": "Center, Avla MO Kranj, Slovenski trg 1, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1785,
+        "gl": 154,
+        "prc": 0.0863
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "002",
       "naz": "Čirče, Dom KS, Smledniška c. 136, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1267,
+        "gl": 226,
+        "prc": 0.1784
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "006",
       "naz": "Klanec I, Dom krajanov, Jezerska c. 41, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 991,
+        "gl": 127,
+        "prc": 0.1282
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "003",
       "naz": "Klanec II, Dom krajanov, Jezerska c. 41, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 779,
+        "gl": 62,
+        "prc": 0.0796
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "013",
       "naz": "Kokrica I, Kulturni dom Kokrica, C. na Brdo 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1337,
+        "gl": 197,
+        "prc": 0.1473
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "012",
       "naz": "Kokrica II, Kulturni dom Kokrica, C. na Brdo 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1576,
+        "gl": 207,
+        "prc": 0.1313
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "014",
       "naz": "Predoslje, Kulturni dom, Predoslje 34, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 927,
+        "gl": 122,
+        "prc": 0.1316
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "007",
       "naz": "Primskovo I, Dom krajanov, Jezerska c. 41, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 998,
+        "gl": 138,
+        "prc": 0.1383
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "008",
       "naz": "Primskovo II, Dom krajanov, Jezerska c. 41, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 951,
+        "gl": 120,
+        "prc": 0.1262
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "011",
       "naz": "Vodovodni stolp I,OŠ S.Jenko,Ul. XXXI.divizije 7a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1293,
+        "gl": 163,
+        "prc": 0.1261
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "010",
       "naz": "Vodovodni stolp II,OŠ S.Jenko,Ul.XXXI.divizije 7a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1376,
+        "gl": 153,
+        "prc": 0.1112
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "009",
       "naz": "Vodovodni stolp III,OŠ S.Jenko,Ul.XXXI.divizije7a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1383,
+        "gl": 169,
+        "prc": 0.1222
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -701,11 +765,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

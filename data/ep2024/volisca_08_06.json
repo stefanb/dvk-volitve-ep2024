@@ -11,7 +11,11 @@
       "rpeid": "007",
       "naz": "Dom občanov SPODNJA ŠČAVNICA, Sp.Ščavnica 19b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 753,
+        "gl": 64,
+        "prc": 0.085
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "030",
       "naz": "Gasilski dom BOLEHNEČICI, Bolehnečici 4a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 155,
+        "gl": 20,
+        "prc": 0.129
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "008",
       "naz": "Gasilski dom ČREŠNJEVCI, Črešnjevci 116",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 881,
+        "gl": 105,
+        "prc": 0.1192
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "014",
       "naz": "Gasilski dom GORNJA RADGONA, Gasilska c.2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 599,
+        "gl": 74,
+        "prc": 0.1235
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "022",
       "naz": "Gasilski dom HRAŠENSKI VRH, Hrašenski Vrh 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 363,
+        "gl": 35,
+        "prc": 0.0964
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "017",
       "naz": "Gasilski dom IVANJŠEVCI OB ŠČ. Ivanjševci ob Šč.9",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 244,
+        "gl": 35,
+        "prc": 0.1434
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "005",
       "naz": "Gasilski dom LEŠANE, Lešane 32a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 301,
+        "gl": 19,
+        "prc": 0.0631
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "006",
       "naz": "Gasilski dom LUTVERCI, Lutverci 47",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 391,
+        "gl": 70,
+        "prc": 0.179
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "016",
       "naz": "Gasilski dom NEGOVA, Negova 9",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 710,
+        "gl": 97,
+        "prc": 0.1366
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "024",
       "naz": "Gasilski dom OKOSLAVCI, Okoslavci 63a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 227,
+        "gl": 24,
+        "prc": 0.1057
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "001",
       "naz": "Gasilski dom PODGORJE, Podgorje 9b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 427,
+        "gl": 41,
+        "prc": 0.096
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "026",
       "naz": "Gasilski dom ROŽIČKI VRH, Rožički Vrh 54",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 293,
+        "gl": 27,
+        "prc": 0.0922
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "027",
       "naz": "Gasilski dom SLAPTINCI, Slaptinci 15a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 250,
+        "gl": 36,
+        "prc": 0.144
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "029",
       "naz": "Gasilski dom SOVJAK, Sovjak 33a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 469,
+        "gl": 65,
+        "prc": 0.1386
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "015",
       "naz": "Gasilski dom SPODNJI IVANJCI, Spodnji Ivanjci 17",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 509,
+        "gl": 50,
+        "prc": 0.0982
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "028",
       "naz": "Gasilski dom STARA GORA, Stara Gora 12a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 305,
+        "gl": 33,
+        "prc": 0.1082
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "009",
       "naz": "Gasilski dom ZBIGOVCI, Zbigovci 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 317,
+        "gl": 34,
+        "prc": 0.1073
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "021",
       "naz": "Gasilsko vaški dom HRASTJE MOTA, Hrastje Mota 36a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 395,
+        "gl": 41,
+        "prc": 0.1038
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "004",
       "naz": "Kulturni dom APAČE, Apače 36",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 711,
+        "gl": 89,
+        "prc": 0.1252
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "013",
       "naz": "Kulturni dom GORNJA RADGONA, Partizanska c.11",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 758,
+        "gl": 89,
+        "prc": 0.1174
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "020",
       "naz": "OBČINA RADENCI, Radgonska cesta 9g",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 686,
+        "gl": 81,
+        "prc": 0.1181
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "010",
       "naz": "Osnovna šola G.Radgona, Prežihova ul. 1 - VHOD 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 564,
+        "gl": 55,
+        "prc": 0.0975
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "011",
       "naz": "Osnovna šola G.Radgona, Prežihova ul. 1, - VHOD 3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 852,
+        "gl": 120,
+        "prc": 0.1408
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "023",
       "naz": "Osnovna šola KAPELA, Kapelski Vrh 95",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 699,
+        "gl": 85,
+        "prc": 0.1216
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "019",
       "naz": "Osnovna šola RADENCI, Radgonska c. 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 980,
+        "gl": 110,
+        "prc": 0.1122
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "002",
       "naz": "Osnovna šola STOGOVCI, Stogovci 33",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 482,
+        "gl": 56,
+        "prc": 0.1162
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "012",
       "naz": "Pomurski sejem GORNJA RADGONA, Cesta na stadion 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 749,
+        "gl": 69,
+        "prc": 0.0921
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "025",
       "naz": "PROSTORI OBČINE Sv.JURIJ OB ŠČ., Bratka Krefta 14",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 858,
+        "gl": 100,
+        "prc": 0.1166
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "003",
       "naz": "Vaško gasilski dom ŽEPOVCI, Žepovci 82",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 622,
+        "gl": 77,
+        "prc": 0.1238
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "018",
       "naz": "Vrtec RADENCI, Titova c. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 876,
+        "gl": 130,
+        "prc": 0.1484
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -821,11 +945,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

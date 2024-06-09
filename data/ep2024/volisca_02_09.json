@@ -11,7 +11,11 @@
       "rpeid": "053",
       "naz": "Avtobusna čakalnica, Bate",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 120,
+        "gl": 19,
+        "prc": 0.1583
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "055",
       "naz": "Bivša OŠ, Lokovec 82",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 164,
+        "gl": 23,
+        "prc": 0.1402
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "056",
       "naz": "Bivša OŠ, Lokve 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 90,
+        "gl": 16,
+        "prc": 0.1778
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "046",
       "naz": "Bivša OŠ, Spodnja Branica 29",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 84,
+        "gl": 22,
+        "prc": 0.2619
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "042",
       "naz": "Bivša OŠ, Vojščica 37",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 188,
+        "gl": 39,
+        "prc": 0.2074
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "018",
       "naz": "Bivši market Mercator Anhovo, Anhovo 67",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 220,
+        "gl": 25,
+        "prc": 0.1136
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "027",
       "naz": "Bodrež 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 80,
+        "gl": 7,
+        "prc": 0.0875
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "017",
       "naz": "Briški dom pri župnišču Biljana, Biljana 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 182,
+        "gl": 45,
+        "prc": 0.2473
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "034",
       "naz": "Dom krajanov Negovan Nemec, Bilje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 970,
+        "gl": 115,
+        "prc": 0.1186
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "013",
       "naz": "Dom upokojencev, Podsabotin 27",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 177,
+        "gl": 40,
+        "prc": 0.226
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "032",
       "naz": "Dom Valentina Staniča, Ročinj 59",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 245,
+        "gl": 41,
+        "prc": 0.1673
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "025",
       "naz": "Dvorana športnega parka Morsko",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 166,
+        "gl": 23,
+        "prc": 0.1386
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "036",
       "naz": "Hiša dobre volje (pritličje), Miren 138",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1197,
+        "gl": 142,
+        "prc": 0.1186
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "015",
       "naz": "Hiša kulture, Šmartno 38",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 381,
+        "gl": 75,
+        "prc": 0.1969
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "026",
       "naz": "Informacijska točka pri jezeru, Kanalski Vrh",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 50,
+        "gl": 13,
+        "prc": 0.26
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "050",
       "naz": "Kulturni dom (na hribu), Gradišče nad Prvačino 95",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 293,
+        "gl": 26,
+        "prc": 0.0887
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "051",
       "naz": "Kulturni dom (pritličje), Grgar 47",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 665,
+        "gl": 75,
+        "prc": 0.1128
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "021",
       "naz": "Kulturni dom Deskle, Srebrničeva ul. 18",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 906,
+        "gl": 124,
+        "prc": 0.1369
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "031",
       "naz": "Kulturni dom Lig, Lig 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 129,
+        "gl": 17,
+        "prc": 0.1318
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "044",
       "naz": "Kulturni dom, Branik 75",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 827,
+        "gl": 110,
+        "prc": 0.133
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "012",
       "naz": "Kulturni dom, Hum 54",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 334,
+        "gl": 53,
+        "prc": 0.1587
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "035",
       "naz": "Kulturni dom, Kostanjevica na Krasu 75",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 270,
+        "gl": 37,
+        "prc": 0.137
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "063",
       "naz": "Kulturni dom, Šempas 29",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 929,
+        "gl": 108,
+        "prc": 0.1163
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "001",
       "naz": "OŠ Alojza Gradnika Dobrovo, Trg 25. maja 9",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 417,
+        "gl": 47,
+        "prc": 0.1127
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "047",
       "naz": "OŠ Čepovan, Čepovan 87",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 285,
+        "gl": 40,
+        "prc": 0.1404
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "048",
       "naz": "OŠ Dornberk, Gregorčičeva ul. 30a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 964,
+        "gl": 180,
+        "prc": 0.1867
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "049",
       "naz": "OŠ Dornberk, Gregorčičeva ul. 30a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 460,
+        "gl": 69,
+        "prc": 0.15
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "028",
       "naz": "OŠ Kanal - volišče št. 1, Gradnikova ul. 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 730,
+        "gl": 91,
+        "prc": 0.1247
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "029",
       "naz": "OŠ Kanal - volišče št. 2, Gradnikova ul. 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 433,
+        "gl": 56,
+        "prc": 0.1293
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "061",
       "naz": "OŠ Renče, Trg 31",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 859,
+        "gl": 117,
+        "prc": 0.1362
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "062",
       "naz": "OŠ Renče, Trg 31",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 848,
+        "gl": 85,
+        "prc": 0.1002
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "022",
       "naz": "Prostor PGD Avče, Avče 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 185,
+        "gl": 30,
+        "prc": 0.1622
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "024",
       "naz": "Prostor TR društva Globočak, Kambreško 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 89,
+        "gl": 19,
+        "prc": 0.2135
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "043",
       "naz": "Sedež KS (pri trgovini), Banjšice 86",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 202,
+        "gl": 25,
+        "prc": 0.1238
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "052",
       "naz": "Sedež KS, Grgarske Ravne 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 147,
+        "gl": 19,
+        "prc": 0.1293
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "023",
       "naz": "Sedež KS, Kal nad Kanalom 111e",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 276,
+        "gl": 23,
+        "prc": 0.0833
+      },
       "prestetih_glasov": null
     },
     {
@@ -299,7 +443,11 @@
       "rpeid": "038",
       "naz": "Sedež KS, Opatje selo 14",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 497,
+        "gl": 86,
+        "prc": 0.173
+      },
       "prestetih_glasov": null
     },
     {
@@ -307,7 +455,11 @@
       "rpeid": "057",
       "naz": "Sedež KS, Osek 46f",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 797,
+        "gl": 114,
+        "prc": 0.143
+      },
       "prestetih_glasov": null
     },
     {
@@ -315,7 +467,11 @@
       "rpeid": "039",
       "naz": "Sedež KS, Sela na Krasu 35",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 185,
+        "gl": 44,
+        "prc": 0.2378
+      },
       "prestetih_glasov": null
     },
     {
@@ -323,7 +479,11 @@
       "rpeid": "064",
       "naz": "Sedež KS, Trnovo 39",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 431,
+        "gl": 46,
+        "prc": 0.1067
+      },
       "prestetih_glasov": null
     },
     {
@@ -331,7 +491,11 @@
       "rpeid": "003",
       "naz": "Sedež VS, Kožbana 6a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 95,
+        "gl": 21,
+        "prc": 0.2211
+      },
       "prestetih_glasov": null
     },
     {
@@ -339,7 +503,11 @@
       "rpeid": "004",
       "naz": "Sedež VS, Neblo 1j",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 539,
+        "gl": 83,
+        "prc": 0.154
+      },
       "prestetih_glasov": null
     },
     {
@@ -347,7 +515,11 @@
       "rpeid": "058",
       "naz": "Šola glasbe in umetnosti Ozlinka, Ozeljan 49b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 838,
+        "gl": 130,
+        "prc": 0.1551
+      },
       "prestetih_glasov": null
     },
     {
@@ -355,7 +527,11 @@
       "rpeid": "033",
       "naz": "Športni park Doblar",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 69,
+        "gl": 18,
+        "prc": 0.2609
+      },
       "prestetih_glasov": null
     },
     {
@@ -363,7 +539,11 @@
       "rpeid": "037",
       "naz": "Športni park Orehovlje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 373,
+        "gl": 59,
+        "prc": 0.1582
+      },
       "prestetih_glasov": null
     },
     {
@@ -371,7 +551,11 @@
       "rpeid": "019",
       "naz": "Športno rekreativno društvo Ložice, Ložice 8",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 241,
+        "gl": 45,
+        "prc": 0.1867
+      },
       "prestetih_glasov": null
     },
     {
@@ -379,7 +563,11 @@
       "rpeid": "040",
       "naz": "Stara šola, Temnica 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 177,
+        "gl": 31,
+        "prc": 0.1751
+      },
       "prestetih_glasov": null
     },
     {
@@ -387,7 +575,11 @@
       "rpeid": "002",
       "naz": "Turistična kmetija Breg, Breg pri Golem Brdu 8",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 46,
+        "gl": 10,
+        "prc": 0.2174
+      },
       "prestetih_glasov": null
     },
     {
@@ -395,7 +587,11 @@
       "rpeid": "008",
       "naz": "Vaški dom, Višnjevik 33",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 246,
+        "gl": 26,
+        "prc": 0.1057
+      },
       "prestetih_glasov": null
     },
     {
@@ -403,7 +599,11 @@
       "rpeid": "010",
       "naz": "Vaški dom, Vrhovlje pri Kojskem 18",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 93,
+        "gl": 19,
+        "prc": 0.2043
+      },
       "prestetih_glasov": null
     },
     {
@@ -411,7 +611,11 @@
       "rpeid": "030",
       "naz": "Večnamenski objekt, Levpa 27",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 239,
+        "gl": 22,
+        "prc": 0.0921
+      },
       "prestetih_glasov": null
     },
     {
@@ -419,7 +623,11 @@
       "rpeid": "041",
       "naz": "Večnamenski objekt, Lipa 17",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 86,
+        "gl": 16,
+        "prc": 0.186
+      },
       "prestetih_glasov": null
     },
     {
@@ -427,7 +635,11 @@
       "rpeid": "054",
       "naz": "Večnamenski objekt, Lokovec 205a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 58,
+        "gl": 13,
+        "prc": 0.2241
+      },
       "prestetih_glasov": null
     },
     {
@@ -435,7 +647,11 @@
       "rpeid": "014",
       "naz": "Večnamenski prostor, Gornje Cerovo 12c",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 353,
+        "gl": 37,
+        "prc": 0.1048
+      },
       "prestetih_glasov": null
     },
     {
@@ -443,7 +659,11 @@
       "rpeid": "006",
       "naz": "Večnamenski prostor, Kozana 59",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 318,
+        "gl": 74,
+        "prc": 0.2327
+      },
       "prestetih_glasov": null
     },
     {
@@ -451,7 +671,11 @@
       "rpeid": "005",
       "naz": "Vila Vipolže, Vipolže 29",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 355,
+        "gl": 35,
+        "prc": 0.0986
+      },
       "prestetih_glasov": null
     },
     {
@@ -459,7 +683,11 @@
       "rpeid": "009",
       "naz": "Vrtec Kojsko, Kojsko 69",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 247,
+        "gl": 39,
+        "prc": 0.1579
+      },
       "prestetih_glasov": null
     },
     {
@@ -467,7 +695,11 @@
       "rpeid": "059",
       "naz": "Vrtec Prvačina, Prvačina 48a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 956,
+        "gl": 90,
+        "prc": 0.0941
+      },
       "prestetih_glasov": null
     },
     {
@@ -475,7 +707,11 @@
       "rpeid": "007",
       "naz": "Zadružni dom, Fojana 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 172,
+        "gl": 37,
+        "prc": 0.2151
+      },
       "prestetih_glasov": null
     },
     {
@@ -483,7 +719,11 @@
       "rpeid": "016",
       "naz": "Zadružni dom, Medana 16",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 462,
+        "gl": 65,
+        "prc": 0.1407
+      },
       "prestetih_glasov": null
     },
     {
@@ -491,7 +731,11 @@
       "rpeid": "045",
       "naz": "Zadružni dom, Preserje 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 388,
+        "gl": 37,
+        "prc": 0.0954
+      },
       "prestetih_glasov": null
     },
     {
@@ -499,7 +743,11 @@
       "rpeid": "011",
       "naz": "Zadružni dom, Vedrijan 34",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 137,
+        "gl": 28,
+        "prc": 0.2044
+      },
       "prestetih_glasov": null
     },
     {
@@ -507,7 +755,11 @@
       "rpeid": "020",
       "naz": "Železniška postaja Plave, Vojkova ulica 28",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 254,
+        "gl": 39,
+        "prc": 0.1535
+      },
       "prestetih_glasov": null
     },
     {
@@ -515,7 +767,11 @@
       "rpeid": "060",
       "naz": "Župnišče Ravnica, Ravnica 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 238,
+        "gl": 31,
+        "prc": 0.1303
+      },
       "prestetih_glasov": null
     },
     {
@@ -523,7 +779,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -1093,11 +1353,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

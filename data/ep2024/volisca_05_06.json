@@ -11,7 +11,11 @@
       "rpeid": "002",
       "naz": "Avla KD Gornji Grad, Gornji Grad, Attemsov trg 3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1000,
+        "gl": 118,
+        "prc": 0.118
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "010",
       "naz": "Center Rinka, Sejna soba, Solčava 29",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 427,
+        "gl": 81,
+        "prc": 0.1897
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "023",
       "naz": "DK Nazarje, Nazarje, Savinjska c. 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1117,
+        "gl": 160,
+        "prc": 0.1432
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "021",
       "naz": "GD Lačja vas, Lačja vas 8",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 420,
+        "gl": 43,
+        "prc": 0.1024
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "006",
       "naz": "GD Okonina, Okonina 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 204,
+        "gl": 34,
+        "prc": 0.1667
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "020",
       "naz": "GD Spodnje Pobrežje, Sp. Pobrežje 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 227,
+        "gl": 31,
+        "prc": 0.1366
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "018",
       "naz": "Gostilna Markelj, Spodnja Rečica 63",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 204,
+        "gl": 30,
+        "prc": 0.1471
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "009",
       "naz": "Gostilna Polanšek, Podvolovljek 35",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 186,
+        "gl": 30,
+        "prc": 0.1613
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "008",
       "naz": "Gostilna Struge, Raduha 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 205,
+        "gl": 39,
+        "prc": 0.1902
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "001",
       "naz": "KD Bočna, Bočna, Bočna 63",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 496,
+        "gl": 74,
+        "prc": 0.1492
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "005",
       "naz": "KD Radmirje, Radmirje 43",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 453,
+        "gl": 46,
+        "prc": 0.1015
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "003",
       "naz": "KD Šmiklavž, Nova Štifta, Šmiklavž 3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 484,
+        "gl": 47,
+        "prc": 0.0971
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "012",
       "naz": "Kmetija Levc, Loke pri Mozirju 19",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 453,
+        "gl": 63,
+        "prc": 0.1391
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "016",
       "naz": "Kmetija Žagar, Dobrovlje pri Mozirju 17",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 57,
+        "gl": 3,
+        "prc": 0.0526
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "017",
       "naz": "Medgeneracijski center, Rečica ob Savinji 61",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 961,
+        "gl": 118,
+        "prc": 0.1228
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "004",
       "naz": "OŠ Ljubno, Ljubno ob Savinji, Cesta v Rastke 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1384,
+        "gl": 163,
+        "prc": 0.1178
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "007",
       "naz": "OŠ Luče, Luče 77",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 814,
+        "gl": 119,
+        "prc": 0.1462
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "011",
       "naz": "OŠ Mozirje, Mozirje, Šolska ul. 23",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1045,
+        "gl": 156,
+        "prc": 0.1493
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "014",
       "naz": "Šola Lepa Njiva, Lepa Njiva 87",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 414,
+        "gl": 61,
+        "prc": 0.1473
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "022",
       "naz": "Šola Šmartno ob Dreti, Šmartno ob Dreti 27",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 574,
+        "gl": 59,
+        "prc": 0.1028
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "015",
       "naz": "Šola Šmihel, Šmihel nad Mozirjem 28",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 176,
+        "gl": 73,
+        "prc": 0.4148
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "019",
       "naz": "Tehnično pregledni center A.M. Miklavc, Nizka 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 396,
+        "gl": 50,
+        "prc": 0.1263
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "013",
       "naz": "Upravni center Mozirje, Mozirje, Šmihelska c. 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1365,
+        "gl": 140,
+        "prc": 0.1026
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -765,11 +861,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

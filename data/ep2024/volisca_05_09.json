@@ -11,7 +11,11 @@
       "rpeid": "007",
       "naz": "Bivši MKC, Celjska c. 22",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 993,
+        "gl": 136,
+        "prc": 0.137
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "019",
       "naz": "Bučinek Šmiklavž, Vodriž 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 290,
+        "gl": 27,
+        "prc": 0.0931
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "008",
       "naz": "DU Slovenj Gradec, Šolska ul. 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1349,
+        "gl": 125,
+        "prc": 0.0927
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "013",
       "naz": "Gradišče Prošt, Gradišče 38",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 263,
+        "gl": 25,
+        "prc": 0.0951
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "003",
       "naz": "KD Šentilj, Šentilj pod Turjakom 45",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 600,
+        "gl": 77,
+        "prc": 0.1283
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "011",
       "naz": "KD Stari Trg, Stari trg 32",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1168,
+        "gl": 110,
+        "prc": 0.0942
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "015",
       "naz": "Klančnik Sele, Sele 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 143,
+        "gl": 18,
+        "prc": 0.1259
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "006",
       "naz": "OŠ Dolič, Srednji Dolič 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 652,
+        "gl": 58,
+        "prc": 0.089
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "012",
       "naz": "OŠ Pameče, Pameče 134",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1355,
+        "gl": 124,
+        "prc": 0.0915
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "016",
       "naz": "OŠ Podgorje, Podgorje 172",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 811,
+        "gl": 64,
+        "prc": 0.0789
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "017",
       "naz": "OŠ Razbor, Zgornji Razbor 8",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 202,
+        "gl": 21,
+        "prc": 0.104
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "014",
       "naz": "OŠ Sele Vrhe, Sele 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 493,
+        "gl": 45,
+        "prc": 0.0913
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "004",
       "naz": "OŠ Završe, Završe 55",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 280,
+        "gl": 21,
+        "prc": 0.075
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "002",
       "naz": "PC Lopan, Šolska c. 55",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1410,
+        "gl": 193,
+        "prc": 0.1369
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "001",
       "naz": "PGD Dovže, Dovže 50",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 425,
+        "gl": 46,
+        "prc": 0.1082
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "022",
       "naz": "PGD Golavabuka, Tomaška vas 7",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 175,
+        "gl": 26,
+        "prc": 0.1486
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "023",
       "naz": "PGD Legen, Legen 126",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 783,
+        "gl": 67,
+        "prc": 0.0856
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "020",
       "naz": "PGD Šmartno, Šmartno pri Slov. Gradcu 70",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1274,
+        "gl": 146,
+        "prc": 0.1146
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "021",
       "naz": "PGD Turiška vas, Turiška vas 19B",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 989,
+        "gl": 88,
+        "prc": 0.089
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "018",
       "naz": "Praprotnik Rihter, Spodnji Razbor 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 43,
+        "gl": 11,
+        "prc": 0.2558
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "010",
       "naz": "Prva OŠ, Šercerjeva ul. 7",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1131,
+        "gl": 135,
+        "prc": 0.1194
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "005",
       "naz": "ŠD Dolič, Gornji Dolič 42A",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 445,
+        "gl": 42,
+        "prc": 0.0944
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "009",
       "naz": "VDC Slovenj Gradec, Prešernova ul. 3B",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 858,
+        "gl": 126,
+        "prc": 0.1469
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "024",
       "naz": "Vornšek Raduše, Raduše 36",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 195,
+        "gl": 20,
+        "prc": 0.1026
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "025",
       "naz": "Vrtec Slovenj Gradec, Maistrova ul. 2A",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 983,
+        "gl": 125,
+        "prc": 0.1272
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -781,11 +885,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

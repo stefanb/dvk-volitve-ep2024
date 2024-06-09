@@ -11,7 +11,11 @@
       "rpeid": "040",
       "naz": "Bregar Janez, Stehanja vas 14, 8213 Velik Gaber",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 120,
+        "gl": 13,
+        "prc": 0.1083
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "012",
       "naz": "Dom Partizan Mirna, Sokolska ulica 2, 8233 Mirna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 416,
+        "gl": 59,
+        "prc": 0.1418
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "036",
       "naz": "DSO Trebnje, Stari trg 63, 8210 Trebnje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 675,
+        "gl": 123,
+        "prc": 0.1822
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "019",
       "naz": "GD Beli Grič, Beli Grič 19, 8230 Mokronog",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 285,
+        "gl": 34,
+        "prc": 0.1193
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "001",
       "naz": "GD ČATEŽ, Čatež 19, 8212 VELIKA LOKA",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 451,
+        "gl": 66,
+        "prc": 0.1463
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "025",
       "naz": "GD Dol. Jesenice, Dol.Jesenice 17,8232 Šentrupert",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 232,
+        "gl": 17,
+        "prc": 0.0733
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "022",
       "naz": "GD Log, Log pri Žužemberku 6, 8360 Žužemberk",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 130,
+        "gl": 14,
+        "prc": 0.1077
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "018",
       "naz": "GD Mokronog, Florijanska c. 33, 8230 Mokronog",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 352,
+        "gl": 62,
+        "prc": 0.1761
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "020",
       "naz": "GD Račje selo, Račjo selo 20, 8210 Trebnje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 439,
+        "gl": 32,
+        "prc": 0.0729
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "021",
       "naz": "GD Sela Šumberk, Sela pri Šum. 32, 8360 Žužemberk",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 161,
+        "gl": 25,
+        "prc": 0.1553
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "014",
       "naz": "GD Selo pri Mirni, Sajenice 12, 8233 Mirna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 163,
+        "gl": 23,
+        "prc": 0.1411
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "009",
       "naz": "GD Ševnica, Ševnica 22, 8233 Mirna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 204,
+        "gl": 25,
+        "prc": 0.1225
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "032",
       "naz": "GD Štatenberk, Ornuška vas 11, 8231 Trebelno",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 332,
+        "gl": 40,
+        "prc": 0.1205
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "033",
       "naz": "GD Velika Strmica,Velika Strmica 16,8231 Trebelno",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 254,
+        "gl": 30,
+        "prc": 0.1181
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "038",
       "naz": "GD Vrhtrebnje, Vrhtrebnje 24, 8210 Trebnje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 176,
+        "gl": 30,
+        "prc": 0.1705
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "041",
       "naz": "GD Zagorica, Zagorica pri V. Gabru 13",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 377,
+        "gl": 46,
+        "prc": 0.122
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "002",
       "naz": "Glivar Darko, Korita 6, 8211 Dobrnič",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 177,
+        "gl": 41,
+        "prc": 0.2316
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "037",
       "naz": "Gostilna Meglič, Obrtniška ul. 2, 8210 Trebnje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 675,
+        "gl": 109,
+        "prc": 0.1615
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "029",
       "naz": "Gostilna Mišič,Štefan pri Trebnjem 10,8210Trebnje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 547,
+        "gl": 43,
+        "prc": 0.0786
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "026",
       "naz": "INFOTOČKA DEŽELE KOZOLCEV, Šentrupert 5",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 392,
+        "gl": 58,
+        "prc": 0.148
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "004",
       "naz": "KD Dobrnič, Dobrnič 9, 8211 Dobrnič",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 348,
+        "gl": 60,
+        "prc": 0.1724
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "017",
       "naz": "KD Mokronog, Pod gradom 2, 8230 Mokronog",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 566,
+        "gl": 83,
+        "prc": 0.1466
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "024",
       "naz": "KD Šentlovrenc, Šentlovrenc 15a, 8212 Velika Loka",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 584,
+        "gl": 67,
+        "prc": 0.1147
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "039",
       "naz": "KD Velika Loka, Velika Loka 6, 8212 Velika Loka",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 476,
+        "gl": 73,
+        "prc": 0.1534
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "044",
       "naz": "Končina Peter, Okrog 11a, 8232 Šentrupert",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 108,
+        "gl": 23,
+        "prc": 0.213
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "008",
       "naz": "KS Knežja vas (vaško središče), Dol. Selce 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 329,
+        "gl": 28,
+        "prc": 0.0851
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "042",
       "naz": "KS Veliki Gaber, Veliki Gaber 90,8213Veliki Gaber",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 617,
+        "gl": 75,
+        "prc": 0.1216
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "016",
       "naz": "KUČIČ DANIJEL, Gor. Laknice 15a, 8230 MOKRONOG",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 168,
+        "gl": 12,
+        "prc": 0.0714
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "034",
       "naz": "KULTURNI DOM TREBNJE I., Baragov trg 6, Trebnje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 833,
+        "gl": 108,
+        "prc": 0.1297
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "035",
       "naz": "KULTURNI DOM TREBNJE II., Baragov trg 6, Trebnje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 730,
+        "gl": 75,
+        "prc": 0.1027
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "007",
       "naz": "Novi GD Lukovek, Lukovek 52, 8210 Trebnje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 489,
+        "gl": 61,
+        "prc": 0.1247
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "005",
       "naz": "OŠ Dol. Nemška vas I.,Dol.Nem.vas 21,8210 Trebnje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 403,
+        "gl": 59,
+        "prc": 0.1464
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "006",
       "naz": "OŠ Dol.Nemška vas II.,Dol.Nem.vas 21, 8210Trebnje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 423,
+        "gl": 62,
+        "prc": 0.1466
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "011",
       "naz": "OŠ Mirna I., Cesta na Fužine 1, 8233 Mirna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 614,
+        "gl": 88,
+        "prc": 0.1433
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "013",
       "naz": "OŠ Mirna II., Cesta na Fužine 1, 8233 Mirna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 692,
+        "gl": 79,
+        "prc": 0.1142
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "027",
       "naz": "OŠ ŠENTRUPERT I., Šentrupert 57, 8232 Šentrupert",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 601,
+        "gl": 80,
+        "prc": 0.1331
+      },
       "prestetih_glasov": null
     },
     {
@@ -299,7 +443,11 @@
       "rpeid": "028",
       "naz": "OŠ ŠENTRUPERT II., Šentrupert 57, 8232 Šentrupert",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 674,
+        "gl": 83,
+        "prc": 0.1231
+      },
       "prestetih_glasov": null
     },
     {
@@ -307,7 +455,11 @@
       "rpeid": "043",
       "naz": "Peter Žibert, Sv. Vrh 3, 8230 Mokronog",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 112,
+        "gl": 19,
+        "prc": 0.1696
+      },
       "prestetih_glasov": null
     },
     {
@@ -315,7 +467,11 @@
       "rpeid": "023",
       "naz": "Prost. PGD Vrhe(bivša šola),Gor.Vrh 1,8211Dobrnič",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 303,
+        "gl": 28,
+        "prc": 0.0924
+      },
       "prestetih_glasov": null
     },
     {
@@ -323,7 +479,11 @@
       "rpeid": "003",
       "naz": "Smolič Pavle, Dobrava 22, 8211 Dobrnič",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 198,
+        "gl": 38,
+        "prc": 0.1919
+      },
       "prestetih_glasov": null
     },
     {
@@ -331,7 +491,11 @@
       "rpeid": "030",
       "naz": "Večnamenski dom Trebelno,Trebelno 19,8231Trebelno",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 275,
+        "gl": 27,
+        "prc": 0.0982
+      },
       "prestetih_glasov": null
     },
     {
@@ -339,7 +503,11 @@
       "rpeid": "031",
       "naz": "Žagar Štefan, Češnjice 35, 8231 Trebelno",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 204,
+        "gl": 26,
+        "prc": 0.1275
+      },
       "prestetih_glasov": null
     },
     {
@@ -347,7 +515,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -917,11 +1089,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

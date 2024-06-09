@@ -11,7 +11,11 @@
       "rpeid": "020",
       "naz": "Bakovci I, Vaški dom, Bakovci, Partizanska ul. 38",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 655,
+        "gl": 70,
+        "prc": 0.1069
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "021",
       "naz": "Bakovci II, Vaški dom,Bakovci,Partizanska ul. 38",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 573,
+        "gl": 72,
+        "prc": 0.1257
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "001",
       "naz": "Beltinci I, KD Beltinci, Ul.Štefana Kovača 1a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 817,
+        "gl": 97,
+        "prc": 0.1187
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "002",
       "naz": "Beltinci II, KD Belltinci, Ul. Štefana Kovača 1a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1207,
+        "gl": 127,
+        "prc": 0.1052
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "007",
       "naz": "Cimprana Iža Lipa, Lipa 78a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 480,
+        "gl": 62,
+        "prc": 0.1292
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "008",
       "naz": "Gasilski dom Lipovci, Lipovci 138",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 890,
+        "gl": 130,
+        "prc": 0.1461
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "025",
       "naz": "Gasilski dom Polana, Polana 12a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 161,
+        "gl": 25,
+        "prc": 0.1553
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "026",
       "naz": "Gasilski dom Veščica, Veščica 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 344,
+        "gl": 49,
+        "prc": 0.1424
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "010",
       "naz": "Kulturna dvorana VGD Bogojina, Bogojina 10a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 457,
+        "gl": 50,
+        "prc": 0.1094
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "009",
       "naz": "Kulturni dom Melinci, Melinci 134",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 626,
+        "gl": 46,
+        "prc": 0.0735
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "028",
       "naz": "MČ CENTER I, PIŠK M.Sobota, Zvezna ulica 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1033,
+        "gl": 102,
+        "prc": 0.0987
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "029",
       "naz": "MČ CENTER II, PIŠK M.Sobota, Zvezna ulica 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1189,
+        "gl": 143,
+        "prc": 0.1203
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "030",
       "naz": "MČ CENTER III, LU M.Sobota, Slomškova ulica 33",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1158,
+        "gl": 106,
+        "prc": 0.0915
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "031",
       "naz": "MČ CENTER IV, LU M.Sobota, Slomškova ulica 33",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 273,
+        "gl": 30,
+        "prc": 0.1099
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "032",
       "naz": "MČ Ledava I,Zavarovalnica Triglav,Lendavska ul.5 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 638,
+        "gl": 72,
+        "prc": 0.1129
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "033",
       "naz": "MČ Ledava II,Zavarovalnica Triglav,Lendavska ul.5",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 537,
+        "gl": 68,
+        "prc": 0.1266
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "034",
       "naz": "MČ PARK I, OŠ I M.Sobota, Ul. Štefana Kovača 32",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 818,
+        "gl": 84,
+        "prc": 0.1027
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "035",
       "naz": "MČ PARK II, OŠ I M.Sobota, Ul. Štefana Kovača 32",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 821,
+        "gl": 102,
+        "prc": 0.1242
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "036",
       "naz": "MČ PARTIZAN I,OŠ III M.Sobota,Trstenjakova u.73",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 778,
+        "gl": 95,
+        "prc": 0.1221
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "037",
       "naz": "MČ PARTIZAN II, OŠ III,M.Sobota,Trstenjakova u.73",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 624,
+        "gl": 78,
+        "prc": 0.125
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "038",
       "naz": "MČ TUROPOLJE I, OŠ II, M.Sobota,Cankarjeva ul. 91",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 525,
+        "gl": 88,
+        "prc": 0.1676
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "039",
       "naz": "MČ TUROPOLJE II, OŠ II M.Sobota,Cankarjeva ul. 91",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 665,
+        "gl": 80,
+        "prc": 0.1203
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "014",
       "naz": "Moravske Toplice I, Gasilski dom, Dolga ulica 63",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 561,
+        "gl": 67,
+        "prc": 0.1194
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "015",
       "naz": "Moravske Toplice II, Gasilski dom, Dolga ul. 223",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 122,
+        "gl": 17,
+        "prc": 0.1393
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "005",
       "naz": "ŠRC Gančani",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 851,
+        "gl": 90,
+        "prc": 0.1058
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "024",
       "naz": "Stara šola Kupšinci, Kupšinci 49",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 320,
+        "gl": 43,
+        "prc": 0.1344
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "003",
       "naz": "Turistična hiša Žlica Bratonci, Bratonci 81a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 553,
+        "gl": 64,
+        "prc": 0.1157
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "004",
       "naz": "Vaški dom Dokležovje, Glavna ulica 18",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 700,
+        "gl": 64,
+        "prc": 0.0914
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "006",
       "naz": "Vaški dom Ižakovci, Ižakovci 72a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 629,
+        "gl": 54,
+        "prc": 0.0859
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "027",
       "naz": "Vaški dom Rakičan, Rakičan, Zvezna ul. 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1120,
+        "gl": 150,
+        "prc": 0.1339
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "011",
       "naz": "Vaško gasilski dom Bukovnica, Bukovnica 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 34,
+        "gl": 7,
+        "prc": 0.2059
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "012",
       "naz": "Vaško gasilski dom Filovci, Filovci 13",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 401,
+        "gl": 53,
+        "prc": 0.1322
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "017",
       "naz": "Vaško gasilski dom Mlajtinci, Mlajtinci 35",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 209,
+        "gl": 42,
+        "prc": 0.201
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "018",
       "naz": "Vaško gasilski dom Suhi vrh, Suhi vrh 35",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 106,
+        "gl": 12,
+        "prc": 0.1132
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "016",
       "naz": "Vaško gasilski dom Tešanovci, Tešanovci 32b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 289,
+        "gl": 25,
+        "prc": 0.0865
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "019",
       "naz": "Vaško gasilski dom Vučja gomila, Vučja Gomila 91",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 226,
+        "gl": 20,
+        "prc": 0.0885
+      },
       "prestetih_glasov": null
     },
     {
@@ -299,7 +443,11 @@
       "rpeid": "013",
       "naz": "Večnamenska dvorana Ivanci, Ivanci 88",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 201,
+        "gl": 25,
+        "prc": 0.1244
+      },
       "prestetih_glasov": null
     },
     {
@@ -307,7 +455,11 @@
       "rpeid": "023",
       "naz": "Večnamenska dvorana Pušča, Ulica ob kapelici 63",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 404,
+        "gl": 13,
+        "prc": 0.0322
+      },
       "prestetih_glasov": null
     },
     {
@@ -315,7 +467,11 @@
       "rpeid": "022",
       "naz": "Zadružni dom Černelavci, Zadružna ul. 5",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1042,
+        "gl": 165,
+        "prc": 0.1583
+      },
       "prestetih_glasov": null
     },
     {
@@ -323,7 +479,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -893,11 +1053,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

@@ -11,7 +11,11 @@
       "rpeid": "045",
       "naz": "Benica,zadružni dom v Pince Marofu,Pince Marof 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 57,
+        "gl": 10,
+        "prc": 0.1754
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "001",
       "naz": "Center za zaščito in reševanje,Velika Polana 109a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 716,
+        "gl": 75,
+        "prc": 0.1047
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "004",
       "naz": "Črenšovci I,Kulturna dvorana, Ul. Prekm. čete 23",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 405,
+        "gl": 59,
+        "prc": 0.1457
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "046",
       "naz": "Črenšovci II,Kulturna dvorana, Ul. Prekm. čete 23",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 519,
+        "gl": 52,
+        "prc": 0.1002
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "030",
       "naz": "Dobrovnik I - kulturni dom, Dobrovnik 297",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 253,
+        "gl": 21,
+        "prc": 0.083
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "044",
       "naz": "Dobrovnik II, DOŠ Dobrovnik,Dobrovnik 266j",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 526,
+        "gl": 38,
+        "prc": 0.0722
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "032",
       "naz": "Dolnji Lakoš,prost. gostilne Baligač, Glavna ul.38",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 187,
+        "gl": 27,
+        "prc": 0.1444
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "025",
       "naz": "DOŠ Genterovci, Genterovci, Šolska ul.2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 143,
+        "gl": 6,
+        "prc": 0.042
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "009",
       "naz": "Gasilski dom Gor.Bistrica, Gor.Bistica 116a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 592,
+        "gl": 69,
+        "prc": 0.1166
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "012",
       "naz": "Gasilski dom Pince, Pince, Lendavska c.45",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 158,
+        "gl": 16,
+        "prc": 0.1013
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "028",
       "naz": "Gasilski dom Radmožanci, Radmožanci 39a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 177,
+        "gl": 15,
+        "prc": 0.0847
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "008",
       "naz": "Gasilski dom Sred.Bistrica, Sred.Bistrica 52a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 385,
+        "gl": 76,
+        "prc": 0.1974
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "021",
       "naz": "Lendava I - DOŠ I Lendava, Kranjčeva ulica 44",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 667,
+        "gl": 61,
+        "prc": 0.0915
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "022",
       "naz": "Lendava II-Center za zaš.in reševanje,Glavna u.96",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 651,
+        "gl": 75,
+        "prc": 0.1152
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "023",
       "naz": "Lendava III-Dvoj. srednja šola, Kolodvorska ul. 2e",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 811,
+        "gl": 81,
+        "prc": 0.0999
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "002",
       "naz": "Medgeneracijski center (Bukovje),Mala Polana 42",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 276,
+        "gl": 24,
+        "prc": 0.087
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "003",
       "naz": "Medgeneracijski center, Brezovica 47a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 171,
+        "gl": 14,
+        "prc": 0.0819
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "024",
       "naz": "Mostje - NK Mostje, Mostje bš",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 334,
+        "gl": 30,
+        "prc": 0.0898
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "037",
       "naz": "Odranci I, Vaški dom Odranci, Panonska ul.33",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 448,
+        "gl": 39,
+        "prc": 0.0871
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "038",
       "naz": "Odranci II, Vaški dom Odranci, Panonska ul.33",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 398,
+        "gl": 33,
+        "prc": 0.0829
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "039",
       "naz": "Odranci III, Vaški dom Odranci, Panonska ul.33",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 448,
+        "gl": 49,
+        "prc": 0.1094
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "015",
       "naz": "Petišovci I, Gasilski dom, Rudarska ul.24",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 477,
+        "gl": 36,
+        "prc": 0.0755
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "016",
       "naz": "Petišovci II, Vaški dom, Ulica 22. junija 29",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 147,
+        "gl": 15,
+        "prc": 0.102
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "010",
       "naz": "Športno medgeneracijski center, Kobilje 16a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 448,
+        "gl": 56,
+        "prc": 0.125
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "031",
       "naz": "Stara šola Gornji Lakoš, G.Lakoš,Glavna ul.61",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 306,
+        "gl": 46,
+        "prc": 0.1503
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "034",
       "naz": "Stara šola Kapca, Kapca, Glavna ul.6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 360,
+        "gl": 45,
+        "prc": 0.125
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "043",
       "naz": "Turnišče I, Občina Turnišče, Ul. Št. Kovača 73",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 623,
+        "gl": 63,
+        "prc": 0.1011
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "047",
       "naz": "Turnišče II,OŠ Turnišče,Turnišče,Prešernova ul.2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 576,
+        "gl": 55,
+        "prc": 0.0955
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "014",
       "naz": "Vaški dom Čentiba, Čentiba, Glavna ul.92",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 665,
+        "gl": 51,
+        "prc": 0.0767
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "019",
       "naz": "Vaški dom Dolga vas, Opekarniška c.2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 500,
+        "gl": 45,
+        "prc": 0.09
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "033",
       "naz": "Vaški dom Gaberje, Gaberje, Glavna ul.52",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 410,
+        "gl": 41,
+        "prc": 0.1
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "026",
       "naz": "Vaški dom Kamovci, Kamovci 53",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 82,
+        "gl": 6,
+        "prc": 0.0732
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "035",
       "naz": "Vaški dom Kot, Kot, Mlinska ulica 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 91,
+        "gl": 20,
+        "prc": 0.2198
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "020",
       "naz": "Vaški dom Trimlini, Trimlini 33",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 251,
+        "gl": 32,
+        "prc": 0.1275
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "005",
       "naz": "Vaški dom Trnje, Trnje 46",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 468,
+        "gl": 64,
+        "prc": 0.1368
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "006",
       "naz": "Vaški dom Žižki, Žižki 48b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 454,
+        "gl": 67,
+        "prc": 0.1476
+      },
       "prestetih_glasov": null
     },
     {
@@ -299,7 +443,11 @@
       "rpeid": "007",
       "naz": "Vaško gasilski dom Dol.Bistrica, Dol.Bistrica 76",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 468,
+        "gl": 59,
+        "prc": 0.1261
+      },
       "prestetih_glasov": null
     },
     {
@@ -307,7 +455,11 @@
       "rpeid": "041",
       "naz": "Vaško gasilski dom Nedelica, Nedelica 132",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 446,
+        "gl": 39,
+        "prc": 0.0874
+      },
       "prestetih_glasov": null
     },
     {
@@ -315,7 +467,11 @@
       "rpeid": "042",
       "naz": "Vaško gasilski dom Renkovci, Renkovci 68",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 508,
+        "gl": 95,
+        "prc": 0.187
+      },
       "prestetih_glasov": null
     },
     {
@@ -323,7 +479,11 @@
       "rpeid": "029",
       "naz": "Vaško gasilski dom Strehovci, Strehovci 29",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 182,
+        "gl": 51,
+        "prc": 0.2802
+      },
       "prestetih_glasov": null
     },
     {
@@ -331,7 +491,11 @@
       "rpeid": "027",
       "naz": "Vaško gasilski dom Žitkovci, Žitkovci 32",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 86,
+        "gl": 7,
+        "prc": 0.0814
+      },
       "prestetih_glasov": null
     },
     {
@@ -339,7 +503,11 @@
       "rpeid": "013",
       "naz": "Vaško-gasilski dom Dolina, Dolina,Glavna ul.29",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 274,
+        "gl": 28,
+        "prc": 0.1022
+      },
       "prestetih_glasov": null
     },
     {
@@ -347,7 +515,11 @@
       "rpeid": "040",
       "naz": "Vaško,kulturni in gasil.dom Gomilica, Gomilica 49",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 508,
+        "gl": 58,
+        "prc": 0.1142
+      },
       "prestetih_glasov": null
     },
     {
@@ -355,7 +527,11 @@
       "rpeid": "018",
       "naz": "Večnam. objekt v Lendav.Goricah,Lend. Gorice 222",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 270,
+        "gl": 25,
+        "prc": 0.0926
+      },
       "prestetih_glasov": null
     },
     {
@@ -363,7 +539,11 @@
       "rpeid": "017",
       "naz": "Večnamenski objekt, Lendavske Gorice 222",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 544,
+        "gl": 52,
+        "prc": 0.0956
+      },
       "prestetih_glasov": null
     },
     {
@@ -371,7 +551,11 @@
       "rpeid": "036",
       "naz": "Zadružni dom Hotiza, Hotiza, Petrova ul. 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 643,
+        "gl": 94,
+        "prc": 0.1462
+      },
       "prestetih_glasov": null
     },
     {
@@ -379,7 +563,11 @@
       "rpeid": "011",
       "naz": "Zadružni dom Pince-Marof, Pince-Marof 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 63,
+        "gl": 10,
+        "prc": 0.1587
+      },
       "prestetih_glasov": null
     },
     {
@@ -387,7 +575,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -957,11 +1149,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

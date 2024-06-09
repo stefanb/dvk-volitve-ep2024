@@ -11,7 +11,11 @@
       "rpeid": "014",
       "naz": "GD Orle, Orle 39, Škofljica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 193,
+        "gl": 41,
+        "prc": 0.2124
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "010",
       "naz": "OŠ Livada, Ul. Dušana Kraigherja 2, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 919,
+        "gl": 100,
+        "prc": 0.1088
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "012",
       "naz": "OŠ Livada, Ul. Dušana Kraigherja 2, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 723,
+        "gl": 55,
+        "prc": 0.0761
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "016",
       "naz": "OŠ Livada, Ul. Dušana Kraigherja 2, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1000,
+        "gl": 50,
+        "prc": 0.05
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "005",
       "naz": "OŠ Oskarja Kovačiča, Ob dolenjski železnici 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1192,
+        "gl": 187,
+        "prc": 0.1569
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "006",
       "naz": "OŠ Oskarja Kovačiča, Ob dolenjski železnici 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1627,
+        "gl": 232,
+        "prc": 0.1426
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "008",
       "naz": "OŠ Oskarja Kovačiča, Ob dolenjski železnici 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1314,
+        "gl": 144,
+        "prc": 0.1096
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "009",
       "naz": "OŠ Oskarja Kovačiča, Ob dolenjski železnici 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1884,
+        "gl": 221,
+        "prc": 0.1173
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "011",
       "naz": "OŠ Oskarja Kovačiča, Ob dolenjski železnici 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1289,
+        "gl": 194,
+        "prc": 0.1505
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "001",
       "naz": "OŠ Trnovo, Karunova ul. 14a, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 924,
+        "gl": 173,
+        "prc": 0.1872
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "002",
       "naz": "OŠ Trnovo, Karunova ul. 14a, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 855,
+        "gl": 106,
+        "prc": 0.124
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "003",
       "naz": "OŠ Trnovo, Karunova ul. 14a, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 827,
+        "gl": 100,
+        "prc": 0.1209
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "004",
       "naz": "OŠ Trnovo, Karunova ul. 14a, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 876,
+        "gl": 120,
+        "prc": 0.137
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "013",
       "naz": "Podružnična šola Lavrica, Kamnikarjeva ul. 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1205,
+        "gl": 146,
+        "prc": 0.1212
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "015",
       "naz": "Podružnična šola Lavrica, Kamnikarjeva ul. 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1133,
+        "gl": 106,
+        "prc": 0.0936
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -701,11 +765,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

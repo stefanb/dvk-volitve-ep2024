@@ -11,7 +11,11 @@
       "rpeid": "001",
       "naz": "DK Bevče, Bevče 24",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 297,
+        "gl": 54,
+        "prc": 0.1818
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "010",
       "naz": "DK Konovo, Konovska c. 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 813,
+        "gl": 120,
+        "prc": 0.1476
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "003",
       "naz": "DK Paka, Paka pri Velenju 68",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 637,
+        "gl": 61,
+        "prc": 0.0958
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "004",
       "naz": "DK Šentilj, Arnače 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 928,
+        "gl": 146,
+        "prc": 0.1573
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "017",
       "naz": "DK Šmartno, Šmarska c. 24 a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1108,
+        "gl": 119,
+        "prc": 0.1074
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "005",
       "naz": "GD Škale, Škale 85",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 973,
+        "gl": 122,
+        "prc": 0.1254
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "015",
       "naz": "KS Gorica, Goriška c. 46",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1392,
+        "gl": 185,
+        "prc": 0.1329
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "002",
       "naz": "OŠ Cirkovce, Škalske Cirkovce 11",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 203,
+        "gl": 24,
+        "prc": 0.1182
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "013",
       "naz": "OŠ Gorica I, Goriška c. 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 856,
+        "gl": 98,
+        "prc": 0.1145
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "014",
       "naz": "OŠ Gorica II, Goriška c. 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 960,
+        "gl": 121,
+        "prc": 0.126
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "021",
       "naz": "OŠ Šalek, Šalek 87",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1364,
+        "gl": 174,
+        "prc": 0.1276
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "018",
       "naz": "Prostor MČ LBV I, Kardeljev trg 7",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 769,
+        "gl": 92,
+        "prc": 0.1196
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "020",
       "naz": "Prostor MČ LBV II, Kardeljev trg 5",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 953,
+        "gl": 82,
+        "prc": 0.086
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "008",
       "naz": "Prostori MČ LBZ, Cesta F. Foita 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1173,
+        "gl": 149,
+        "prc": 0.127
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "007",
       "naz": "Sejna dvorana MO Velenje, Titov trg 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1103,
+        "gl": 129,
+        "prc": 0.117
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "011",
       "naz": "Selo, PE Jakopec, Kosovelova 16",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 817,
+        "gl": 109,
+        "prc": 0.1334
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "012",
       "naz": "Stara vas - Kom. podj. Velenje, Koroška 37b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 728,
+        "gl": 111,
+        "prc": 0.1525
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -717,11 +789,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

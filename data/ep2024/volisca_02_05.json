@@ -11,7 +11,11 @@
       "rpeid": "054",
       "naz": " Stara šola Podgorje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 120,
+        "gl": 29,
+        "prc": 0.2417
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "028",
       "naz": "Dom krajanov Brezovica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 162,
+        "gl": 23,
+        "prc": 0.142
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "033",
       "naz": "Dvorana Babiči ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 257,
+        "gl": 33,
+        "prc": 0.1284
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "016",
       "naz": "Dvorana Bezovica ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 62,
+        "gl": 4,
+        "prc": 0.0645
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "022",
       "naz": "Dvorana Kubed ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 149,
+        "gl": 20,
+        "prc": 0.1342
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "010",
       "naz": "Dvorana Osp ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 144,
+        "gl": 17,
+        "prc": 0.1181
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "008",
       "naz": "Dvorana Rižana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 357,
+        "gl": 31,
+        "prc": 0.0868
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "013",
       "naz": "Gasilski dom Dol ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 93,
+        "gl": 15,
+        "prc": 0.1613
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "023",
       "naz": "Gasilski dom Movraž ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 164,
+        "gl": 19,
+        "prc": 0.1159
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "004",
       "naz": "Krajevna skupnost Bertoki",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 627,
+        "gl": 74,
+        "prc": 0.118
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "006",
       "naz": "Krajevna skupnost Boršt ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 278,
+        "gl": 21,
+        "prc": 0.0755
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "007",
       "naz": "Krajevna skupnost Črni Kal ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 175,
+        "gl": 30,
+        "prc": 0.1714
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "055",
       "naz": "Krajevna skupnost Rakitovec ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 92,
+        "gl": 18,
+        "prc": 0.1957
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "053",
       "naz": "Krajevna skupnost Vanganel ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1155,
+        "gl": 123,
+        "prc": 0.1065
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "029",
       "naz": "Kulturni dom Božiči ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1160,
+        "gl": 103,
+        "prc": 0.0888
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "030",
       "naz": "Kulturni dom Božiči ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 638,
+        "gl": 62,
+        "prc": 0.0972
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "019",
       "naz": "Kulturni dom Dekani ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 634,
+        "gl": 71,
+        "prc": 0.112
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "020",
       "naz": "Kulturni dom Dekani ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 658,
+        "gl": 71,
+        "prc": 0.1079
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "021",
       "naz": "Kulturni dom Gračišče ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 441,
+        "gl": 36,
+        "prc": 0.0816
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "034",
       "naz": "Kulturni dom Lopar ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 102,
+        "gl": 11,
+        "prc": 0.1078
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "025",
       "naz": "Lovski dom Trebeše ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 42,
+        "gl": 4,
+        "prc": 0.0952
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "036",
       "naz": "Narodni dom  Pobegi",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 682,
+        "gl": 69,
+        "prc": 0.1012
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "038",
       "naz": "OŠ Elvire Vatovec - podružnica Sv. Anton",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 788,
+        "gl": 89,
+        "prc": 0.1129
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "057",
       "naz": "OŠ Elvire Vatovec - podružnica Sv. Anton",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 782,
+        "gl": 70,
+        "prc": 0.0895
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "005",
       "naz": "OŠ Elvire Vatovec Prade",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1041,
+        "gl": 110,
+        "prc": 0.1057
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "043",
       "naz": "OŠ Oskarja Kovačiča Škofije",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 411,
+        "gl": 52,
+        "prc": 0.1265
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "044",
       "naz": "OŠ Oskarja Kovačiča Škofije",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 975,
+        "gl": 90,
+        "prc": 0.0923
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "045",
       "naz": "OŠ Oskarja Kovačiča Škofije",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 564,
+        "gl": 56,
+        "prc": 0.0993
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "046",
       "naz": "OŠ Oskarja Kovačiča Škofije",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 671,
+        "gl": 70,
+        "prc": 0.1043
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "047",
       "naz": "OŠ Šmarje ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 856,
+        "gl": 71,
+        "prc": 0.0829
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "001",
       "naz": "OŠV Ankaran",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1082,
+        "gl": 110,
+        "prc": 0.1017
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "002",
       "naz": "OŠV Ankaran",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 771,
+        "gl": 92,
+        "prc": 0.1193
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "003",
       "naz": "OŠV Ankaran",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 674,
+        "gl": 82,
+        "prc": 0.1217
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "017",
       "naz": "Pomožni objekt Loka ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 85,
+        "gl": 7,
+        "prc": 0.0824
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "018",
       "naz": "Pomožni objekt Predloka",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 67,
+        "gl": 17,
+        "prc": 0.2537
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "015",
       "naz": "Prkičeva hiša Podpeč ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 45,
+        "gl": 9,
+        "prc": 0.2
+      },
       "prestetih_glasov": null
     },
     {
@@ -299,7 +443,11 @@
       "rpeid": "040",
       "naz": "Srednja tehniška šola Koper",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 879,
+        "gl": 90,
+        "prc": 0.1024
+      },
       "prestetih_glasov": null
     },
     {
@@ -307,7 +455,11 @@
       "rpeid": "041",
       "naz": "Srednja tehniška šola Koper",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1265,
+        "gl": 100,
+        "prc": 0.0791
+      },
       "prestetih_glasov": null
     },
     {
@@ -315,7 +467,11 @@
       "rpeid": "042",
       "naz": "Srednja tehniška šola Koper",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 645,
+        "gl": 68,
+        "prc": 0.1054
+      },
       "prestetih_glasov": null
     },
     {
@@ -323,7 +479,11 @@
       "rpeid": "012",
       "naz": "Stara šola Črnotiče ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 85,
+        "gl": 15,
+        "prc": 0.1765
+      },
       "prestetih_glasov": null
     },
     {
@@ -331,7 +491,11 @@
       "rpeid": "048",
       "naz": "Stara šola Gažon ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 621,
+        "gl": 64,
+        "prc": 0.1031
+      },
       "prestetih_glasov": null
     },
     {
@@ -339,7 +503,11 @@
       "rpeid": "027",
       "naz": "Stara šola Hrvoji ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 66,
+        "gl": 11,
+        "prc": 0.1667
+      },
       "prestetih_glasov": null
     },
     {
@@ -347,7 +515,11 @@
       "rpeid": "052",
       "naz": "Stara šola Koštabona ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 203,
+        "gl": 32,
+        "prc": 0.1576
+      },
       "prestetih_glasov": null
     },
     {
@@ -355,7 +527,11 @@
       "rpeid": "049",
       "naz": "Stara šola Pomjan ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 199,
+        "gl": 30,
+        "prc": 0.1508
+      },
       "prestetih_glasov": null
     },
     {
@@ -363,7 +539,11 @@
       "rpeid": "026",
       "naz": "Stara šola Pregara ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 129,
+        "gl": 13,
+        "prc": 0.1008
+      },
       "prestetih_glasov": null
     },
     {
@@ -371,7 +551,11 @@
       "rpeid": "051",
       "naz": "Stara šola Puče ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 221,
+        "gl": 23,
+        "prc": 0.1041
+      },
       "prestetih_glasov": null
     },
     {
@@ -379,7 +563,11 @@
       "rpeid": "035",
       "naz": "Stara šola Truške ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 125,
+        "gl": 22,
+        "prc": 0.176
+      },
       "prestetih_glasov": null
     },
     {
@@ -387,7 +575,11 @@
       "rpeid": "009",
       "naz": "Vaški dom Gabrovica ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 95,
+        "gl": 16,
+        "prc": 0.1684
+      },
       "prestetih_glasov": null
     },
     {
@@ -395,7 +587,11 @@
       "rpeid": "014",
       "naz": "Vaški dom Hrastovlje ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 116,
+        "gl": 25,
+        "prc": 0.2155
+      },
       "prestetih_glasov": null
     },
     {
@@ -403,7 +599,11 @@
       "rpeid": "011",
       "naz": "Vaški dom Kastelec ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 87,
+        "gl": 7,
+        "prc": 0.0805
+      },
       "prestetih_glasov": null
     },
     {
@@ -411,7 +611,11 @@
       "rpeid": "032",
       "naz": "Vaški dom Trsek ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 42,
+        "gl": 6,
+        "prc": 0.1429
+      },
       "prestetih_glasov": null
     },
     {
@@ -419,7 +623,11 @@
       "rpeid": "056",
       "naz": "Vaški dom Zazid ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 70,
+        "gl": 15,
+        "prc": 0.2143
+      },
       "prestetih_glasov": null
     },
     {
@@ -427,7 +635,11 @@
       "rpeid": "039",
       "naz": "Zadružni dom Kondor Vanganel ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 377,
+        "gl": 30,
+        "prc": 0.0796
+      },
       "prestetih_glasov": null
     },
     {
@@ -435,7 +647,11 @@
       "rpeid": "050",
       "naz": "Zadružni dom Krkavče ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 251,
+        "gl": 24,
+        "prc": 0.0956
+      },
       "prestetih_glasov": null
     },
     {
@@ -443,7 +659,11 @@
       "rpeid": "031",
       "naz": "Zadružni dom Marezige ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 520,
+        "gl": 68,
+        "prc": 0.1308
+      },
       "prestetih_glasov": null
     },
     {
@@ -451,7 +671,11 @@
       "rpeid": "037",
       "naz": "Zadružni dom Pobegi ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 765,
+        "gl": 72,
+        "prc": 0.0941
+      },
       "prestetih_glasov": null
     },
     {
@@ -459,7 +683,11 @@
       "rpeid": "024",
       "naz": "Zadružni dom Sočerga ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 151,
+        "gl": 13,
+        "prc": 0.0861
+      },
       "prestetih_glasov": null
     },
     {
@@ -467,7 +695,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -1037,11 +1269,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

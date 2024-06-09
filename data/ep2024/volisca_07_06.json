@@ -11,7 +11,11 @@
       "rpeid": "013",
       "naz": "AMD Orehova vas, Orehova c. 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 348,
+        "gl": 47,
+        "prc": 0.1351
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "026",
       "naz": "Bell Center, Ptujska c. 13",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1075,
+        "gl": 103,
+        "prc": 0.0958
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "030",
       "naz": "DK Brunšvik, Brunšvik 49b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 346,
+        "gl": 26,
+        "prc": 0.0751
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "017",
       "naz": "FKBV Pivola, Pivola 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 346,
+        "gl": 32,
+        "prc": 0.0925
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "005",
       "naz": "GD Trniče, Trniče 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 378,
+        "gl": 56,
+        "prc": 0.1481
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "008",
       "naz": "GD Zlatoličje, Zlatoličje 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 619,
+        "gl": 45,
+        "prc": 0.0727
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "014",
       "naz": "KC Hotinja vas, Hotinjska c. 127",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1125,
+        "gl": 136,
+        "prc": 0.1209
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "016",
       "naz": "KD Hoče, Pohorska c. 15",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 958,
+        "gl": 110,
+        "prc": 0.1148
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "020",
       "naz": "KD Hoče, Pohorska c. 15",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 298,
+        "gl": 49,
+        "prc": 0.1644
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "024",
       "naz": "KD Miklavž, Cesta v Rogozo 11",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1214,
+        "gl": 109,
+        "prc": 0.0898
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "025",
       "naz": "KD Miklavž, Cesta v Rogozo 11",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 969,
+        "gl": 113,
+        "prc": 0.1166
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "007",
       "naz": "KD Rošnja, Rošnja 40a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 319,
+        "gl": 24,
+        "prc": 0.0752
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "015",
       "naz": "Knjižnica Hoče, Sršakova ul. 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 961,
+        "gl": 109,
+        "prc": 0.1134
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "021",
       "naz": "KS Dravski Dvor, Kidričeva c. 9",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 571,
+        "gl": 65,
+        "prc": 0.1138
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "004",
       "naz": "KS Marjeta, Marjeta 57a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 380,
+        "gl": 30,
+        "prc": 0.0789
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "010",
       "naz": "KS Prepolje, Prepolje 62",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 441,
+        "gl": 37,
+        "prc": 0.0839
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "023",
       "naz": "KS Skoke, Uskoška ul. 58",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 874,
+        "gl": 85,
+        "prc": 0.0973
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "002",
       "naz": "MČ Tezno, Panonska ul. 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 756,
+        "gl": 81,
+        "prc": 0.1071
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "003",
       "naz": "MČ Tezno, Panonska ul. 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 892,
+        "gl": 130,
+        "prc": 0.1457
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "027",
       "naz": "MČ Tezno, Panonska ul. 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 914,
+        "gl": 101,
+        "prc": 0.1105
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "001",
       "naz": "OŠ M. Konšak, Prekmurska ul. 67",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1070,
+        "gl": 140,
+        "prc": 0.1308
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "022",
       "naz": "OŠ Miklavž-Dobrovce, Šolska ul. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 651,
+        "gl": 78,
+        "prc": 0.1198
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "011",
       "naz": "OŠ Slivnica, Mariborska c. 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 773,
+        "gl": 93,
+        "prc": 0.1203
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "012",
       "naz": "OŠ Slivnica, Mariborska c. 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1486,
+        "gl": 135,
+        "prc": 0.0908
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "006",
       "naz": "ŠD Loka Rošnja, Loka 23a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 238,
+        "gl": 30,
+        "prc": 0.1261
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "018",
       "naz": "VeGeC Rogoza, Rogoška c. 60",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1217,
+        "gl": 151,
+        "prc": 0.1241
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "019",
       "naz": "VO Bohova, Bohova 2a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 208,
+        "gl": 46,
+        "prc": 0.2212
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "009",
       "naz": "ZP Starše, Starše 78c",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 641,
+        "gl": 56,
+        "prc": 0.0874
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje - KD Hoče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "902",
       "naz": "Predčasno glasovanje - MČ Tezno",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -813,11 +933,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

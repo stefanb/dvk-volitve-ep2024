@@ -11,7 +11,11 @@
       "rpeid": "001",
       "naz": "MOL - DK Dravlje, Draveljska ul. 44",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1117,
+        "gl": 167,
+        "prc": 0.1495
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "002",
       "naz": "MOL - DK Dravlje, Draveljska ul. 44",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1075,
+        "gl": 93,
+        "prc": 0.0865
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "003",
       "naz": "MOL - DK Dravlje, Draveljska ul. 44",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 856,
+        "gl": 110,
+        "prc": 0.1285
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "009",
       "naz": "MOL - LD Šentvid, Prušnikova ul. 99",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 882,
+        "gl": 110,
+        "prc": 0.1247
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "015",
       "naz": "MOL - LD Šentvid, Prušnikova ul. 99",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 810,
+        "gl": 103,
+        "prc": 0.1272
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "016",
       "naz": "MOL - LD Šentvid, Prušnikova ul. 99",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 797,
+        "gl": 96,
+        "prc": 0.1205
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "014",
       "naz": "MOL - Služba za lokalno samoupravo, Kosijeva ul.1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1111,
+        "gl": 187,
+        "prc": 0.1683
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "004",
       "naz": "OŠ Koseze, Ledarska ul. 23",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 617,
+        "gl": 73,
+        "prc": 0.1183
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "005",
       "naz": "OŠ Miška Kranjca, Kamnogoriška c. 35",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1144,
+        "gl": 141,
+        "prc": 0.1233
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "006",
       "naz": "OŠ Miška Kranjca, Kamnogoriška c. 35",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 894,
+        "gl": 107,
+        "prc": 0.1197
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "007",
       "naz": "OŠ Miška Kranjca, Kamnogoriška c. 35",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 706,
+        "gl": 133,
+        "prc": 0.1884
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "013",
       "naz": "OŠ Vižmarje - Brod, Na gaju 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 585,
+        "gl": 79,
+        "prc": 0.135
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "017",
       "naz": "OŠ Vižmarje - Brod, Na gaju 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 581,
+        "gl": 71,
+        "prc": 0.1222
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "018",
       "naz": "OŠ Vižmarje - Brod, Na gaju 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 663,
+        "gl": 130,
+        "prc": 0.1961
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "008",
       "naz": "PGD Ljubljana - Šentvid, Prušnikova ul. 57",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1055,
+        "gl": 156,
+        "prc": 0.1479
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "010",
       "naz": "PGD Vižmarje - Brod, Vižmarska pot 9",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 921,
+        "gl": 140,
+        "prc": 0.152
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "011",
       "naz": "PGD Vižmarje - Brod, Vižmarska pot 9",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 649,
+        "gl": 97,
+        "prc": 0.1495
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "012",
       "naz": "Prostori MOL, Na gmajni 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1313,
+        "gl": 194,
+        "prc": 0.1478
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -725,11 +801,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

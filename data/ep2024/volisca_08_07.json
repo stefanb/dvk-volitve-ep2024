@@ -11,7 +11,11 @@
       "rpeid": "013",
       "naz": "Avla Občine Lenart, Trg osvobod. 7",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1457,
+        "gl": 179,
+        "prc": 0.1229
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "014",
       "naz": "Center Slovenskih goric, Trg osvobod. 9",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1007,
+        "gl": 113,
+        "prc": 0.1122
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "005",
       "naz": "Dom DRU Cerkvenjak, Cerkvenjak 13 b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 457,
+        "gl": 33,
+        "prc": 0.0722
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "025",
       "naz": "GD Gočova, Gočova 8a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 207,
+        "gl": 30,
+        "prc": 0.1449
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "024",
       "naz": "GD Osek, Osek 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 304,
+        "gl": 42,
+        "prc": 0.1382
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "006",
       "naz": "KD Cerkvenjak, Cerkvenjak 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 374,
+        "gl": 42,
+        "prc": 0.1123
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "008",
       "naz": "KD Jurovski Dol, Jurovski Dol 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 578,
+        "gl": 63,
+        "prc": 0.109
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "009",
       "naz": "KD Jurovski Dol, Jurovski Dol 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 581,
+        "gl": 57,
+        "prc": 0.0981
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "028",
       "naz": "KD Selce, Selce 11",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 559,
+        "gl": 56,
+        "prc": 0.1002
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "029",
       "naz": "KD Zavrh, Zavrh 42",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 609,
+        "gl": 97,
+        "prc": 0.1593
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "027",
       "naz": "KS Voličina, Sp. Voličina 81",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1049,
+        "gl": 130,
+        "prc": 0.1239
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "010",
       "naz": "LD Jurovski Dol, Malna 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 420,
+        "gl": 40,
+        "prc": 0.0952
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "011",
       "naz": "LD Jurovski Dol, Malna 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 207,
+        "gl": 20,
+        "prc": 0.0966
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "016",
       "naz": "LD Lenart, Sp. Porčič 22",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 676,
+        "gl": 83,
+        "prc": 0.1228
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "001",
       "naz": "OŠ Benedikt, Šolska ul. 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 834,
+        "gl": 93,
+        "prc": 0.1115
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "002",
       "naz": "OŠ Benedikt, Šolska ul. 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 571,
+        "gl": 87,
+        "prc": 0.1524
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "003",
       "naz": "OŠ Benedikt, Šolska ul. 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 710,
+        "gl": 72,
+        "prc": 0.1014
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "004",
       "naz": "OŠ Cerkvenjak, Cerkvenjak 24",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 599,
+        "gl": 80,
+        "prc": 0.1336
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "015",
       "naz": "OŠ Lenart, Ptujska c. 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 351,
+        "gl": 47,
+        "prc": 0.1339
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "018",
       "naz": "OŠ Lokavec, Lokavec 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 305,
+        "gl": 31,
+        "prc": 0.1016
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "019",
       "naz": "OŠ Sv. Ana, Sv. Ana 14",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 511,
+        "gl": 47,
+        "prc": 0.092
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "020",
       "naz": "OŠ Sv. Ana, Sv. Ana 14",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 589,
+        "gl": 70,
+        "prc": 0.1188
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "022",
       "naz": "OŠ Sv. Trojica, Meznaričeva ul. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 720,
+        "gl": 113,
+        "prc": 0.1569
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "026",
       "naz": "OŠ Sv. Trojica, Meznaričeva ul. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 307,
+        "gl": 46,
+        "prc": 0.1498
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "007",
       "naz": "Ploj, Smolinci 88",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 244,
+        "gl": 8,
+        "prc": 0.0328
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "023",
       "naz": "Prostori DRU Sv. Trojica, Trojiški trg 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 308,
+        "gl": 56,
+        "prc": 0.1818
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "021",
       "naz": "Sejna soba občine, Sv. Ana 17",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 480,
+        "gl": 67,
+        "prc": 0.1396
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "017",
       "naz": "Trgovina, Zamarkova 20",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 619,
+        "gl": 71,
+        "prc": 0.1147
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -805,11 +921,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

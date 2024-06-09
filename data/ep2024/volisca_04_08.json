@@ -11,7 +11,11 @@
       "rpeid": "002",
       "naz": "GD Beričevo, Beričevo 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 468,
+        "gl": 56,
+        "prc": 0.1197
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "004",
       "naz": "GD Nadgorica, Nadgoriška c. 18, Ljubljana Črnuče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1151,
+        "gl": 173,
+        "prc": 0.1503
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "011",
       "naz": "KD Savlje Kleče, Savlje 101, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 948,
+        "gl": 135,
+        "prc": 0.1424
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "010",
       "naz": "OŠ Danile Kumar, Gogalova ul. 15, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 804,
+        "gl": 106,
+        "prc": 0.1318
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "012",
       "naz": "OŠ Danile Kumar, Gogalova ul. 15, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 737,
+        "gl": 93,
+        "prc": 0.1262
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "013",
       "naz": "OŠ Danile Kumar, Gogalova ul. 15, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 712,
+        "gl": 77,
+        "prc": 0.1081
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "014",
       "naz": "OŠ Danile Kumar, Gogalova ul. 15, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 640,
+        "gl": 69,
+        "prc": 0.1078
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "015",
       "naz": "OŠ Danile Kumar, Gogalova ul. 15, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 726,
+        "gl": 86,
+        "prc": 0.1185
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "016",
       "naz": "OŠ Danile Kumar, Gogalova ul. 15, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 902,
+        "gl": 151,
+        "prc": 0.1674
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "017",
       "naz": "OŠ Danile Kumar, Gogalova ul. 15, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 894,
+        "gl": 153,
+        "prc": 0.1711
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "018",
       "naz": "OŠ Danile Kumar, Gogalova ul. 15, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 657,
+        "gl": 74,
+        "prc": 0.1126
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "019",
       "naz": "OŠ Franceta Bevka, Ul. Pohorskega bataljona 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 968,
+        "gl": 156,
+        "prc": 0.1612
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "020",
       "naz": "OŠ Franceta Bevka, Ul. Pohorskega bataljona 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 855,
+        "gl": 115,
+        "prc": 0.1345
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "001",
       "naz": "OŠ Janka Modra, Videm 17",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1914,
+        "gl": 262,
+        "prc": 0.1369
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "005",
       "naz": "OŠ Maksa Pečarja, Črnuška c. 9, Ljubljana Črnuče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1599,
+        "gl": 216,
+        "prc": 0.1351
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "006",
       "naz": "OŠ Maksa Pečarja, Črnuška c. 9, Ljubljana Črnuče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1194,
+        "gl": 136,
+        "prc": 0.1139
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "009",
       "naz": "OŠ Maksa Pečarja, Črnuška c. 9, Ljubljana Črnuče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1689,
+        "gl": 171,
+        "prc": 0.1012
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "022",
       "naz": "OŠ Milana Šuštaršiča, Štembalova ul. 2a, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1076,
+        "gl": 147,
+        "prc": 0.1366
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "007",
       "naz": "Prostori MOL, Dunajska c. 367, Ljubljana Črnuče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 982,
+        "gl": 150,
+        "prc": 0.1527
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "008",
       "naz": "Prostori MOL, Dunajska c. 367, Ljubljana Črnuče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1180,
+        "gl": 126,
+        "prc": 0.1068
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "021",
       "naz": "Prostori MOL, Vojkova c. 87, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1064,
+        "gl": 138,
+        "prc": 0.1297
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "003",
       "naz": "Prostori MOL, Zajčeva pot 34, Ljubljana Črnuče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1060,
+        "gl": 142,
+        "prc": 0.134
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -757,11 +849,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

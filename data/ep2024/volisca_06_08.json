@@ -11,7 +11,11 @@
       "rpeid": "032",
       "naz": " KS Vrhovo, Vrhovo 43a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 417,
+        "gl": 53,
+        "prc": 0.1271
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "019",
       "naz": "Anton Vresk, Polana 21 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 235,
+        "gl": 16,
+        "prc": 0.0681
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "018",
       "naz": "Bife Racman, Mrzlo Polje 8a ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 195,
+        "gl": 26,
+        "prc": 0.1333
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "001",
       "naz": "Center starejših, Savinjsko nabrežje 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1149,
+        "gl": 128,
+        "prc": 0.1114
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "023",
       "naz": "Dom kulture, Gledališka pot 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 400,
+        "gl": 45,
+        "prc": 0.1125
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "030",
       "naz": "Gasilski dom, Jagnjenica 14 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 341,
+        "gl": 47,
+        "prc": 0.1378
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "009",
       "naz": "Gasilski dom, Vrh nad Laškim 9a ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 631,
+        "gl": 59,
+        "prc": 0.0935
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "022",
       "naz": "Gasilski dom, Zidani Most 12 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 222,
+        "gl": 30,
+        "prc": 0.1351
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "028",
       "naz": "Gostilna Strnad, Hotemež 6 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 183,
+        "gl": 28,
+        "prc": 0.153
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "015",
       "naz": "Karel Veber, Brodnice 12 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 194,
+        "gl": 9,
+        "prc": 0.0464
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "024",
       "naz": "Knjižnica Radeče, Ul. OF 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 478,
+        "gl": 67,
+        "prc": 0.1402
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "002",
       "naz": "Kulturni center, Trg svobode 6 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 918,
+        "gl": 92,
+        "prc": 0.1002
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "006",
       "naz": "Kulturni dom, Marija Gradec 29",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 749,
+        "gl": 85,
+        "prc": 0.1135
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "012",
       "naz": "Kulturni dom, Trobni dol 38a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 145,
+        "gl": 17,
+        "prc": 0.1172
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "016",
       "naz": "Matevž Deželak, Lože 1 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 134,
+        "gl": 12,
+        "prc": 0.0896
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "008",
       "naz": "Na Slogah, Tevče 2 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 545,
+        "gl": 50,
+        "prc": 0.0917
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "013",
       "naz": "OŠ A. Aškerc, Aškerčeva c. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 978,
+        "gl": 144,
+        "prc": 0.1472
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "003",
       "naz": "OŠ Debro, Poženelova ul. 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1269,
+        "gl": 143,
+        "prc": 0.1127
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "017",
       "naz": "OŠ Jurklošter, Jurklošter 23",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 185,
+        "gl": 25,
+        "prc": 0.1351
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "020",
       "naz": "OŠ Sedraž, Sedraž 21 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 550,
+        "gl": 66,
+        "prc": 0.12
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "010",
       "naz": "OŠ Šentrupert, Šentrupert 89",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 334,
+        "gl": 27,
+        "prc": 0.0808
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "021",
       "naz": "OŠ Zidani Most, Zidani Most 34",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 323,
+        "gl": 32,
+        "prc": 0.0991
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "031",
       "naz": "PGD Svibno, Svibno 18a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 295,
+        "gl": 35,
+        "prc": 0.1186
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "029",
       "naz": "Plaznik Leopold,  Jelovo 7 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 142,
+        "gl": 27,
+        "prc": 0.1901
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "025",
       "naz": "Prostor društva inv., Titova ul. 107",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 534,
+        "gl": 86,
+        "prc": 0.161
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "027",
       "naz": "Ribič Rado, Obrežje 21 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 113,
+        "gl": 16,
+        "prc": 0.1416
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "005",
       "naz": "Sindikalni dom, Huda Jama 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 621,
+        "gl": 69,
+        "prc": 0.1111
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "014",
       "naz": "Šola Lažiše, Laziše 27 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 146,
+        "gl": 25,
+        "prc": 0.1712
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "011",
       "naz": "Strelski dom, Mala Breza 37c ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 169,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "026",
       "naz": "Vrtec Radeče, Kolenov graben 6 ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 528,
+        "gl": 68,
+        "prc": 0.1288
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "004",
       "naz": "ZASTOR d.o.o., Sp. Rečica 80D",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 501,
+        "gl": 60,
+        "prc": 0.1198
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "007",
       "naz": "Zvonka Dečman, Lahomšek 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 321,
+        "gl": 35,
+        "prc": 0.109
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "902",
       "naz": "Predčasno glasovanje Radeče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -845,11 +981,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

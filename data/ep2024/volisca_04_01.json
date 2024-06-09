@@ -11,7 +11,11 @@
       "rpeid": "005",
       "naz": "Avla gimnazije, Ljubljanska c. 12, Kočevje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 813,
+        "gl": 84,
+        "prc": 0.1033
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "039",
       "naz": "Banja Loka.7 - prostori Občine Kostel",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 131,
+        "gl": 21,
+        "prc": 0.1603
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "048",
       "naz": "Belica 7 - pri Miklič",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 43,
+        "gl": 5,
+        "prc": 0.1163
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "049",
       "naz": "Bosljiva Loka 15a - pri Rugole",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 60,
+        "gl": 15,
+        "prc": 0.25
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "020",
       "naz": "Cvišlerji bš - VD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 208,
+        "gl": 27,
+        "prc": 0.1298
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "027",
       "naz": "Dolga vas, Kočevska cesta 30 - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 684,
+        "gl": 97,
+        "prc": 0.1418
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "024",
       "naz": "Dolnje Ložine 1a - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 277,
+        "gl": 38,
+        "prc": 0.1372
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "019",
       "naz": "Klinja vas 46 - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 174,
+        "gl": 26,
+        "prc": 0.1494
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "023",
       "naz": "Koblarji bš - VD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 266,
+        "gl": 45,
+        "prc": 0.1692
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "035",
       "naz": "Kočevska Reka 5 - KD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 290,
+        "gl": 41,
+        "prc": 0.1414
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "021",
       "naz": "Koprivnik 31 - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 85,
+        "gl": 9,
+        "prc": 0.1059
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "042",
       "naz": "Kuželj 24a - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 44,
+        "gl": 9,
+        "prc": 0.2045
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "028",
       "naz": "Livold 18d - PD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 357,
+        "gl": 40,
+        "prc": 0.112
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "015",
       "naz": "Mahovnik 37 - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 265,
+        "gl": 33,
+        "prc": 0.1245
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "025",
       "naz": "Mlaka bš - VD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 520,
+        "gl": 62,
+        "prc": 0.1192
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "038",
       "naz": "Morava 14a - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 114,
+        "gl": 21,
+        "prc": 0.1842
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "030",
       "naz": "Mozelj 4a - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 228,
+        "gl": 19,
+        "prc": 0.0833
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "047",
       "naz": "Osilnica 11b - bivši obrat Tekstilane",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 211,
+        "gl": 45,
+        "prc": 0.2133
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "001",
       "naz": "Polom, Polom bš - VD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 46,
+        "gl": 3,
+        "prc": 0.0652
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "033",
       "naz": "Predgrad 41 - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 253,
+        "gl": 40,
+        "prc": 0.1581
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "008",
       "naz": "Prostori Komunale Kočevje, Tesarska ul. 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 381,
+        "gl": 54,
+        "prc": 0.1417
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "010",
       "naz": "Prostori KS Kočevje mesto, Trg svetega Jerneja 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 665,
+        "gl": 62,
+        "prc": 0.0932
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "003",
       "naz": "Prostori občine Kočevje, Ljubljanska c. 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1449,
+        "gl": 105,
+        "prc": 0.0725
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "011",
       "naz": "Reška c. 16 - GŠ, Kočevje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 335,
+        "gl": 38,
+        "prc": 0.1134
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "017",
       "naz": "Šalka vas 50b - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1130,
+        "gl": 148,
+        "prc": 0.131
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "013",
       "naz": "Šeškov dom , Prešernova ul. 11, Kočevje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1103,
+        "gl": 143,
+        "prc": 0.1296
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "037",
       "naz": "Štalcerji 10a - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 239,
+        "gl": 38,
+        "prc": 0.159
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "022",
       "naz": "Stara Cerkev 21 - OŠ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 829,
+        "gl": 101,
+        "prc": 0.1218
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "026",
       "naz": "Stari log bš - VD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 120,
+        "gl": 8,
+        "prc": 0.0667
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "014",
       "naz": "Trata XIV 6a-prostori Podjetniškega inkubatorja",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 661,
+        "gl": 86,
+        "prc": 0.1301
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "029",
       "naz": "v Črnem Potoku, Črni potok pri Kočevju 1 - VD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 151,
+        "gl": 24,
+        "prc": 0.1589
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "009",
       "naz": "v Kočevju, Roška cesta 10 - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 267,
+        "gl": 45,
+        "prc": 0.1685
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "041",
       "naz": "Vas 1 - GD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 246,
+        "gl": 38,
+        "prc": 0.1545
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "040",
       "naz": "Vrh pri Fari 1 - Lukčeva domačija",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 100,
+        "gl": 20,
+        "prc": 0.2
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "018",
       "naz": "Željne 12b - VD",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 436,
+        "gl": 51,
+        "prc": 0.117
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -861,11 +1005,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

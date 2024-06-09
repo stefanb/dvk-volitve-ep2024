@@ -11,7 +11,11 @@
       "rpeid": "011",
       "naz": "DK Bezena, Bezena 17",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 475,
+        "gl": 61,
+        "prc": 0.1284
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "001",
       "naz": "DK Bistrica ob Dravi, Ul. 27.decembra 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1157,
+        "gl": 136,
+        "prc": 0.1175
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "024",
       "naz": "DK Smolnik, Glazerjeva ul. 29",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 515,
+        "gl": 71,
+        "prc": 0.1379
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "022",
       "naz": "DLO Duh, Sv. Duh na Ostr. vrhu 47",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 184,
+        "gl": 19,
+        "prc": 0.1033
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "017",
       "naz": "GD Slemen, Sp. Slemen 27",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 515,
+        "gl": 39,
+        "prc": 0.0757
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "023",
       "naz": "GD Smolnik, Gasilska ul. 7",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 711,
+        "gl": 93,
+        "prc": 0.1308
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "026",
       "naz": "Gostilna Drozg, Fala 18",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 57,
+        "gl": 14,
+        "prc": 0.2456
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "020",
       "naz": "Gostilna Hojnik, Janževa gora 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1029,
+        "gl": 95,
+        "prc": 0.0923
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "003",
       "naz": "Gostilna Koper, Log 84",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 331,
+        "gl": 47,
+        "prc": 0.142
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "016",
       "naz": "Knjižnica J.G. Ruše, Falska c. 18",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1023,
+        "gl": 148,
+        "prc": 0.1447
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "018",
       "naz": "KZ Zadružnik, Sp.Selnica 5",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 593,
+        "gl": 84,
+        "prc": 0.1417
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "012",
       "naz": "LD Lobnica, Lobnica 20 c",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 116,
+        "gl": 10,
+        "prc": 0.0862
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "005",
       "naz": "Občina Lovrenc, Spodnji trg 8",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 954,
+        "gl": 78,
+        "prc": 0.0818
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "021",
       "naz": "OŠ Gradišče, Gradišče na Kozjaku 39",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 135,
+        "gl": 16,
+        "prc": 0.1185
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "007",
       "naz": "OŠ Lovrenc, Šolska ul. 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 457,
+        "gl": 36,
+        "prc": 0.0788
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "019",
       "naz": "OŠ Selnica, Mariborska c.30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1219,
+        "gl": 125,
+        "prc": 0.1025
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "008",
       "naz": "PC Lovrenc, Gornji trg 62",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 709,
+        "gl": 85,
+        "prc": 0.1199
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "010",
       "naz": "Pošta Činžat, Činžat 28",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 353,
+        "gl": 36,
+        "prc": 0.102
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "014",
       "naz": "RO Ruše, Mariborska c. 5",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1368,
+        "gl": 130,
+        "prc": 0.095
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -733,11 +813,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

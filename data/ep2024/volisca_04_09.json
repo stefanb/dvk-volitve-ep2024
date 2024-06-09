@@ -11,7 +11,11 @@
       "rpeid": "007",
       "naz": "Društvo distrofikov Slovenije, Linhartova c. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 785,
+        "gl": 100,
+        "prc": 0.1274
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "005",
       "naz": "Knjižnica Bežigrad, Einspielerjeva ul. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1369,
+        "gl": 170,
+        "prc": 0.1242
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "022",
       "naz": "Objekt - okrepčevalnica, Šifrerjeva 3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1013,
+        "gl": 90,
+        "prc": 0.0888
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "023",
       "naz": "Objekt - okrepčevalnica, Šifrerjeva 3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 767,
+        "gl": 52,
+        "prc": 0.0678
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "001",
       "naz": "OŠ Bežigrad, Črtomirova ul. 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 993,
+        "gl": 111,
+        "prc": 0.1118
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "002",
       "naz": "OŠ Bežigrad, Črtomirova ul. 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 991,
+        "gl": 113,
+        "prc": 0.114
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "003",
       "naz": "OŠ Bežigrad, Črtomirova ul. 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 801,
+        "gl": 110,
+        "prc": 0.1373
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "004",
       "naz": "OŠ Bežigrad, Črtomirova ul. 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 696,
+        "gl": 89,
+        "prc": 0.1279
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "019",
       "naz": "OŠ Milana Šuštaršiča, Štembalova ul. 2a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 676,
+        "gl": 96,
+        "prc": 0.142
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "020",
       "naz": "OŠ Milana Šuštaršiča, Štembalova ul. 2a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 700,
+        "gl": 119,
+        "prc": 0.17
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "008",
       "naz": "OŠ Mirana Jarca, Ipavčeva ul. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 600,
+        "gl": 67,
+        "prc": 0.1117
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "009",
       "naz": "OŠ Mirana Jarca, Ipavčeva ul. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1238,
+        "gl": 124,
+        "prc": 0.1002
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "015",
       "naz": "OŠ Mirana Jarca, Ipavčeva ul. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 712,
+        "gl": 93,
+        "prc": 0.1306
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "016",
       "naz": "OŠ Savsko naselje, Matjaževa ul. 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 688,
+        "gl": 94,
+        "prc": 0.1366
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "017",
       "naz": "OŠ Savsko naselje, Matjaževa ul. 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 967,
+        "gl": 106,
+        "prc": 0.1096
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "018",
       "naz": "OŠ Savsko naselje, Matjaževa ul. 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1031,
+        "gl": 100,
+        "prc": 0.097
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "010",
       "naz": "OŠ Vita Kraigherja, Trg 9. maja 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 813,
+        "gl": 108,
+        "prc": 0.1328
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "012",
       "naz": "OŠ Vita Kraigherja, Trg 9. maja 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 567,
+        "gl": 90,
+        "prc": 0.1587
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "014",
       "naz": "OŠ Vita Kraigherja, Trg 9. maja 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 828,
+        "gl": 105,
+        "prc": 0.1268
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "011",
       "naz": "Prostori MOL, Dunajska c. 101",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 628,
+        "gl": 65,
+        "prc": 0.1035
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "013",
       "naz": "Prostori MOL, Dunajska c. 101",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 921,
+        "gl": 125,
+        "prc": 0.1357
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "021",
       "naz": "Prostori MOL, Vojkova c. 73",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 470,
+        "gl": 70,
+        "prc": 0.1489
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "006",
       "naz": "Zavod RS za zaposlovanje, Parmova 32",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 816,
+        "gl": 110,
+        "prc": 0.1348
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -765,11 +861,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

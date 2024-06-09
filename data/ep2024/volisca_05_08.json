@@ -11,7 +11,11 @@
       "rpeid": "007",
       "naz": "Avto Korelc, Podkraj pri Velenju 10r",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 717,
+        "gl": 112,
+        "prc": 0.1562
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "024",
       "naz": "DK Pesje, Podgorska c. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 904,
+        "gl": 122,
+        "prc": 0.135
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "018",
       "naz": "DK Topolšica, Topolšica 81a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 782,
+        "gl": 92,
+        "prc": 0.1176
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "005",
       "naz": "DKS Lokovica, Lokovica 144",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 766,
+        "gl": 107,
+        "prc": 0.1397
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "002",
       "naz": "GD Gaberke, Gaberke 100",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 573,
+        "gl": 65,
+        "prc": 0.1134
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "003",
       "naz": "GD Paška vas, Paška vas 9b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 617,
+        "gl": 83,
+        "prc": 0.1345
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "012",
       "naz": "Gostišče Acman, Skorno pri Š. 62a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 632,
+        "gl": 66,
+        "prc": 0.1044
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "004",
       "naz": "KD Gorenje, Gorenje 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 358,
+        "gl": 51,
+        "prc": 0.1425
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "013",
       "naz": "KD Šmartno ob Paki, Šmartno ob P. 69",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 673,
+        "gl": 78,
+        "prc": 0.1159
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "008",
       "naz": "KS Kavče, Kavče 15",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 423,
+        "gl": 71,
+        "prc": 0.1678
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "011",
       "naz": "KS Skorno-Florjan, Skorno pri Š. 11",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 328,
+        "gl": 39,
+        "prc": 0.1189
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "019",
       "naz": "Letališče Lajše, Topolšica 207d",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 230,
+        "gl": 25,
+        "prc": 0.1087
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "014",
       "naz": "MC Šmartno ob Paki, Šmartno ob P. 13",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 550,
+        "gl": 70,
+        "prc": 0.1273
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "010",
       "naz": "ND REKS, Ravne 82",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 842,
+        "gl": 125,
+        "prc": 0.1485
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "001",
       "naz": "OŠ Bele Vode, Bele Vode 18a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 211,
+        "gl": 41,
+        "prc": 0.1943
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "015",
       "naz": "OŠ Bratov Letonja, Šmartno ob P. 117",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 523,
+        "gl": 58,
+        "prc": 0.1109
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "020",
       "naz": "OŠ MPT I., Kidričeva c. 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1481,
+        "gl": 160,
+        "prc": 0.108
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "021",
       "naz": "OŠ MPT II., Kidričeva c. 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 804,
+        "gl": 87,
+        "prc": 0.1082
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "006",
       "naz": "OŠ Plešivec, Plešivec 32",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 344,
+        "gl": 38,
+        "prc": 0.1105
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "016",
       "naz": "OŠ Šoštanj I., Koroška c. 7",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 969,
+        "gl": 123,
+        "prc": 0.1269
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "017",
       "naz": "OŠ Šoštanj II., Koroška c. 7",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 889,
+        "gl": 94,
+        "prc": 0.1057
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "022",
       "naz": "Prostori MČ DB I., Kersnikova 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 866,
+        "gl": 102,
+        "prc": 0.1178
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "023",
       "naz": "Prostori MČ DB II, Kersnikova 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 824,
+        "gl": 90,
+        "prc": 0.1092
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "026",
       "naz": "VD Zavodnje, Zavodnje 27a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 283,
+        "gl": 43,
+        "prc": 0.1519
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "025",
       "naz": "Vila Bianca, Stari trg 3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 889,
+        "gl": 111,
+        "prc": 0.1249
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -781,11 +885,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

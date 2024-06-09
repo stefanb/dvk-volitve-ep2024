@@ -11,7 +11,11 @@
       "rpeid": "015",
       "naz": "Bohinjska hiša, Mencingerjeva ulica 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 502,
+        "gl": 72,
+        "prc": 0.1434
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "016",
       "naz": "Dom Joža Ažmana, Triglavska c. 16, Boh. Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 898,
+        "gl": 141,
+        "prc": 0.157
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "010",
       "naz": "Dom upokojencev Spodnje Gorje, Sp. Gorje 208",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 769,
+        "gl": 92,
+        "prc": 0.1196
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "017",
       "naz": "Gasilski dom Bitnje, Bitnje 13, Boh. Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 88,
+        "gl": 28,
+        "prc": 0.3182
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "025",
       "naz": "Gasilski dom Bohinj. Češnjica, Bohin. Češnjica 79",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 450,
+        "gl": 66,
+        "prc": 0.1467
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "023",
       "naz": "Gasilski dom Gorjuše, Gorjuše 36 a, Boh.Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 124,
+        "gl": 25,
+        "prc": 0.2016
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "020",
       "naz": "Gasilski dom Kamnje, Kamnje 26 a, Boh.Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 507,
+        "gl": 99,
+        "prc": 0.1953
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "022",
       "naz": "Gasilski dom Koprivnik, Koprivnik 3 b, B.Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 181,
+        "gl": 16,
+        "prc": 0.0884
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "001",
       "naz": "Gasilski dom Mlino, Mlinska cesta 26, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 283,
+        "gl": 54,
+        "prc": 0.1908
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "021",
       "naz": "Gasilski dom Nemški rovt,Nemški rovt18,B.Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 93,
+        "gl": 25,
+        "prc": 0.2688
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "018",
       "naz": "Gasilski dom Nomenj, Nomenj 23, Boh. Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 130,
+        "gl": 19,
+        "prc": 0.1462
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "011",
       "naz": "Gasilski dom Podhom, Podhom 15, Zg. Gorje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 243,
+        "gl": 37,
+        "prc": 0.1523
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "002",
       "naz": "Gasilski dom Rečica, Rečiška cesta 4, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 720,
+        "gl": 125,
+        "prc": 0.1736
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "024",
       "naz": "Gasilski dom Srednja vas, Srednja vas 83",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 365,
+        "gl": 65,
+        "prc": 0.1781
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "005",
       "naz": "INFOCENTER TRIGLAVSKA ROŽA BLED, Ljubljanska c.27",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1392,
+        "gl": 237,
+        "prc": 0.1703
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "006",
       "naz": "Kulturni dom Bohinjska Bela, Bohinjska Bela  37",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 520,
+        "gl": 77,
+        "prc": 0.1481
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "027",
       "naz": "Kulturni dom Stara Fužina,Stara Fužina 53b,B.jez.",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 525,
+        "gl": 69,
+        "prc": 0.1314
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "014",
       "naz": "Kulturni dom Zasip, Sebenje 6, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 828,
+        "gl": 171,
+        "prc": 0.2065
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "013",
       "naz": "Natura hotel LUKANC, Selo pri Bledu 8",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 173,
+        "gl": 26,
+        "prc": 0.1503
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "003",
       "naz": "Občina Bled, Cesta svobode 13, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 847,
+        "gl": 88,
+        "prc": 0.1039
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "004",
       "naz": "Osnovna šola Bled, Seliška cesta 3, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 725,
+        "gl": 144,
+        "prc": 0.1986
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "008",
       "naz": "Osnovna šola Gorje, Zg. Gorje 44 a, Zg. Gorje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 403,
+        "gl": 48,
+        "prc": 0.1191
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "009",
       "naz": "Osnovna šola Gorje, Zg. Gorje 44a, Zg. Gorje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 380,
+        "gl": 44,
+        "prc": 0.1158
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "007",
       "naz": "Pri Kunavc, Krnica 21, Zg. Gorje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 422,
+        "gl": 47,
+        "prc": 0.1114
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "028",
       "naz": "Pri Milanu Talerju,Studor v Bohinju 5a,Sr.vas v B",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 95,
+        "gl": 11,
+        "prc": 0.1158
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "026",
       "naz": "Pri Zdenki Platiša,Podjelje 15 a,Sr.vas v Bohinju",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 60,
+        "gl": 7,
+        "prc": 0.1167
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "019",
       "naz": "Turistično društvo Bohinj,Ribčev Laz 48, B.jezero",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 162,
+        "gl": 30,
+        "prc": 0.1852
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "012",
       "naz": "Zadružni dom Ribno, Izletniška ul.11, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 802,
+        "gl": 125,
+        "prc": 0.1559
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "902",
       "naz": "Predčasno glasovanje Dom Joža Ažmana, Triglavska 16, Boh. Bistrica  ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,15 +359,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje, Občina Bled, Cesta svobode 13, Bled",
       "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 903,
-      "rpeid": "903",
-      "naz": "Volišče za glasovanje izven okraja - OMNIA, Gorenjska cesta 19",
-      "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -821,11 +933,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

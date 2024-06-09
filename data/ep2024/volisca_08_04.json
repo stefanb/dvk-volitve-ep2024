@@ -11,7 +11,11 @@
       "rpeid": "098",
       "naz": "Gasilski dom Beznovci, Beznovci 8a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 125,
+        "gl": 14,
+        "prc": 0.112
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "095",
       "naz": "Gasilski dom Bodonci, Bodonci 77",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 367,
+        "gl": 42,
+        "prc": 0.1144
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "087",
       "naz": "Gasilski dom Bokrači, Bokrači 13a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 61,
+        "gl": 10,
+        "prc": 0.1639
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "092",
       "naz": "Gasilski dom Brezovci, Brezovci 50",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 201,
+        "gl": 43,
+        "prc": 0.2139
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "079",
       "naz": "Gasilski dom Dankovci, Dankovci 24",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 115,
+        "gl": 21,
+        "prc": 0.1826
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "088",
       "naz": "Gasilski dom Dolina, Dolina 22",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 154,
+        "gl": 10,
+        "prc": 0.0649
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "053",
       "naz": "Gasilski dom Gornji Slaveči, Gornji Slaveči 18",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 355,
+        "gl": 31,
+        "prc": 0.0873
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "044",
       "naz": "Gasilski dom Grad, Grad 170",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 507,
+        "gl": 59,
+        "prc": 0.1164
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "080",
       "naz": "Gasilski dom Kuštanovci, Kuštanovci 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 136,
+        "gl": 13,
+        "prc": 0.0956
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "093",
       "naz": "Gasilski dom Lemerje, Lemerje 56",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 218,
+        "gl": 37,
+        "prc": 0.1697
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "078",
       "naz": "Gasilski dom Mačkovci, Mačkovci 48a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 177,
+        "gl": 21,
+        "prc": 0.1186
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "077",
       "naz": "Gasilski dom Markišavci, Markišavci 18a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 165,
+        "gl": 24,
+        "prc": 0.1455
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "054",
       "naz": "Gasilski dom Matjaševci, Matjaševci 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 141,
+        "gl": 14,
+        "prc": 0.0993
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "081",
       "naz": "Gasilski dom Moščanci, Moščanci 36a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 214,
+        "gl": 21,
+        "prc": 0.0981
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "082",
       "naz": "Gasilski dom Otovci, Otovci 59",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 191,
+        "gl": 14,
+        "prc": 0.0733
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "083",
       "naz": "Gasilski dom Pečarovci, Pečarovci 91a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 328,
+        "gl": 27,
+        "prc": 0.0823
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "084",
       "naz": "Gasilski dom Poznanovci, Poznanovci 19",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 141,
+        "gl": 22,
+        "prc": 0.156
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "094",
       "naz": "Gasilski dom Predanovci, Predanovci 43",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 154,
+        "gl": 17,
+        "prc": 0.1104
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "085",
       "naz": "Gasilski dom Prosečka vas, Prosečka vas 15",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 100,
+        "gl": 15,
+        "prc": 0.15
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "099",
       "naz": "Gasilski dom Puževci, Puževci 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 137,
+        "gl": 14,
+        "prc": 0.1022
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "049",
       "naz": "Gasilski dom Radovci, Radovci 27",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 150,
+        "gl": 21,
+        "prc": 0.14
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "090",
       "naz": "Gasilski dom Šalamenci, Šalamenci 34",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 244,
+        "gl": 31,
+        "prc": 0.127
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "075",
       "naz": "Gasilski dom Satahovci, Satahovci 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 229,
+        "gl": 30,
+        "prc": 0.131
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "067",
       "naz": "Gasilski dom Središče, Središče 11",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 34,
+        "gl": 5,
+        "prc": 0.1471
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "100",
       "naz": "Gasilski dom Strukovci, Strukovci 26b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 145,
+        "gl": 10,
+        "prc": 0.069
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "055",
       "naz": "Gasilski dom Trdkova, Trdkova 22",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 157,
+        "gl": 20,
+        "prc": 0.1274
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "096",
       "naz": "Gasilski dom Vadarci, Vadarci 41",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 268,
+        "gl": 22,
+        "prc": 0.0821
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "091",
       "naz": "Gasilski dom Vaneča, Vaneča 58",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 421,
+        "gl": 35,
+        "prc": 0.0831
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "097",
       "naz": "Gasilski dom Zenkovci, Zenkovci 51a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 265,
+        "gl": 13,
+        "prc": 0.0491
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "005",
       "naz": "Gasilsko-vaški dom Krašči, Krašči 69",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 208,
+        "gl": 25,
+        "prc": 0.1202
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "048",
       "naz": "Gasilsko-vaški dom Motovilci, Motovilci 38",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 232,
+        "gl": 17,
+        "prc": 0.0733
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "007",
       "naz": "Gasilsko-vaški dom Skakovci, Skakovci 47",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 171,
+        "gl": 15,
+        "prc": 0.0877
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "051",
       "naz": "Krajevna dvorana Kuzma, Kuzma 24",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 318,
+        "gl": 28,
+        "prc": 0.0881
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "073",
       "naz": "Osnovna šola Fokovci, Fokovci 32",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 167,
+        "gl": 17,
+        "prc": 0.1018
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "086",
       "naz": "Osnovna šola Puconci, Puconci 178",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 513,
+        "gl": 63,
+        "prc": 0.1228
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "074",
       "naz": "Podružnična šola Krog, Trubarjeva ul. 77",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 980,
+        "gl": 117,
+        "prc": 0.1194
+      },
       "prestetih_glasov": null
     },
     {
@@ -299,7 +443,11 @@
       "rpeid": "022",
       "naz": "Športni center Košarovci, Košarovci b.š.",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 51,
+        "gl": 1,
+        "prc": 0.0196
+      },
       "prestetih_glasov": null
     },
     {
@@ -307,7 +455,11 @@
       "rpeid": "011",
       "naz": "Športno rekreacijski center Gradišče,Gradišče 62b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 260,
+        "gl": 26,
+        "prc": 0.1
+      },
       "prestetih_glasov": null
     },
     {
@@ -315,7 +467,11 @@
       "rpeid": "061",
       "naz": "Stari gasilski dom Prosenjakovci,Prosenjakovci 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 129,
+        "gl": 20,
+        "prc": 0.155
+      },
       "prestetih_glasov": null
     },
     {
@@ -323,7 +479,11 @@
       "rpeid": "025",
       "naz": "Vaška dvorana Gornji Petrovci, Gornji Petrovci 32",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 338,
+        "gl": 50,
+        "prc": 0.1479
+      },
       "prestetih_glasov": null
     },
     {
@@ -331,7 +491,11 @@
       "rpeid": "040",
       "naz": "Vaški dom Budinci, Budinci 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 89,
+        "gl": 16,
+        "prc": 0.1798
+      },
       "prestetih_glasov": null
     },
     {
@@ -339,7 +503,11 @@
       "rpeid": "038",
       "naz": "Vaški dom Dolenci, Dolenci 31",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 140,
+        "gl": 22,
+        "prc": 0.1571
+      },
       "prestetih_glasov": null
     },
     {
@@ -347,7 +515,11 @@
       "rpeid": "056",
       "naz": "Vaški dom Martjanci, Martjanci 19",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 424,
+        "gl": 80,
+        "prc": 0.1887
+      },
       "prestetih_glasov": null
     },
     {
@@ -355,7 +527,11 @@
       "rpeid": "065",
       "naz": "Vaški dom Motvarjevci, Motvarjevci 47",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 117,
+        "gl": 19,
+        "prc": 0.1624
+      },
       "prestetih_glasov": null
     },
     {
@@ -363,7 +539,11 @@
       "rpeid": "105",
       "naz": "Vaški dom Ocinje, Ocinje 29",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 42,
+        "gl": 5,
+        "prc": 0.119
+      },
       "prestetih_glasov": null
     },
     {
@@ -371,7 +551,11 @@
       "rpeid": "066",
       "naz": "Vaški dom Pordašinci, Pordašinci 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 34,
+        "gl": 6,
+        "prc": 0.1765
+      },
       "prestetih_glasov": null
     },
     {
@@ -379,7 +563,11 @@
       "rpeid": "045",
       "naz": "Vaško gasilski dom Dol.Slaveči, Dol. Slaveči 50",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 342,
+        "gl": 37,
+        "prc": 0.1082
+      },
       "prestetih_glasov": null
     },
     {
@@ -387,7 +575,11 @@
       "rpeid": "026",
       "naz": "Vaško gasilski dom Peskovci, Peskovci 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 57,
+        "gl": 7,
+        "prc": 0.1228
+      },
       "prestetih_glasov": null
     },
     {
@@ -395,7 +587,11 @@
       "rpeid": "028",
       "naz": "Vaško-gasilski dom Adrijanci, Adrijanci 53",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 108,
+        "gl": 14,
+        "prc": 0.1296
+      },
       "prestetih_glasov": null
     },
     {
@@ -403,7 +599,11 @@
       "rpeid": "057",
       "naz": "Vaško-gasilski dom Andrejci, Andrejci 17",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 173,
+        "gl": 21,
+        "prc": 0.1214
+      },
       "prestetih_glasov": null
     },
     {
@@ -411,7 +611,11 @@
       "rpeid": "062",
       "naz": "Vaško-gasilski dom Berkovci, Berkovci 13",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 38,
+        "gl": 8,
+        "prc": 0.2105
+      },
       "prestetih_glasov": null
     },
     {
@@ -419,7 +623,11 @@
       "rpeid": "029",
       "naz": "Vaško-gasilski dom Boreča, Boreča 31",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 75,
+        "gl": 14,
+        "prc": 0.1867
+      },
       "prestetih_glasov": null
     },
     {
@@ -427,7 +635,11 @@
       "rpeid": "010",
       "naz": "Vaško-gasilski dom Borejci, Borejci 49",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 192,
+        "gl": 20,
+        "prc": 0.1042
+      },
       "prestetih_glasov": null
     },
     {
@@ -435,7 +647,11 @@
       "rpeid": "001",
       "naz": "Vaško-gasilski dom Cankova, Cankova 30a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 382,
+        "gl": 37,
+        "prc": 0.0969
+      },
       "prestetih_glasov": null
     },
     {
@@ -443,7 +659,11 @@
       "rpeid": "063",
       "naz": "Vaško-gasilski dom Čikečka vas,Čikečka vas 20",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 75,
+        "gl": 12,
+        "prc": 0.16
+      },
       "prestetih_glasov": null
     },
     {
@@ -451,7 +671,11 @@
       "rpeid": "002",
       "naz": "Vaško-gasilski dom Domajinci, Domajinci 19a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 174,
+        "gl": 19,
+        "prc": 0.1092
+      },
       "prestetih_glasov": null
     },
     {
@@ -459,7 +683,11 @@
       "rpeid": "035",
       "naz": "Vaško-gasilski dom Domanjševci, Domanjševci 67",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 213,
+        "gl": 13,
+        "prc": 0.061
+      },
       "prestetih_glasov": null
     },
     {
@@ -467,7 +695,11 @@
       "rpeid": "109",
       "naz": "Vaško-gasilski dom Fikšinci, Fikšinci 28",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 127,
+        "gl": 13,
+        "prc": 0.1024
+      },
       "prestetih_glasov": null
     },
     {
@@ -475,7 +707,11 @@
       "rpeid": "017",
       "naz": "Vaško-gasilski dom Gederovci, Gederovci b.š.",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 148,
+        "gl": 10,
+        "prc": 0.0676
+      },
       "prestetih_glasov": null
     },
     {
@@ -483,7 +719,11 @@
       "rpeid": "003",
       "naz": "Vaško-gasilski dom Gerlinci, Gerlinci 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 264,
+        "gl": 32,
+        "prc": 0.1212
+      },
       "prestetih_glasov": null
     },
     {
@@ -491,7 +731,11 @@
       "rpeid": "006",
       "naz": "Vaško-gasilski dom Gornji Črnci, Gornji Črnci 11",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 108,
+        "gl": 12,
+        "prc": 0.1111
+      },
       "prestetih_glasov": null
     },
     {
@@ -499,7 +743,11 @@
       "rpeid": "064",
       "naz": "Vaško-gasilski dom Ivanjševci, Ivanjševci 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 35,
+        "gl": 4,
+        "prc": 0.1143
+      },
       "prestetih_glasov": null
     },
     {
@@ -507,7 +755,11 @@
       "rpeid": "069",
       "naz": "Vaško-gasilski dom Ivanovci, Ivanovci 26a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 120,
+        "gl": 15,
+        "prc": 0.125
+      },
       "prestetih_glasov": null
     },
     {
@@ -515,7 +767,11 @@
       "rpeid": "070",
       "naz": "Vaško-gasilski dom Kančevci, Kančevci 8a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 54,
+        "gl": 9,
+        "prc": 0.1667
+      },
       "prestetih_glasov": null
     },
     {
@@ -523,7 +779,11 @@
       "rpeid": "004",
       "naz": "Vaško-gasilski dom Korovci, Korovci 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 155,
+        "gl": 24,
+        "prc": 0.1548
+      },
       "prestetih_glasov": null
     },
     {
@@ -531,7 +791,11 @@
       "rpeid": "046",
       "naz": "Vaško-gasilski dom Kovačevci, Kovačevci 6a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 77,
+        "gl": 6,
+        "prc": 0.0779
+      },
       "prestetih_glasov": null
     },
     {
@@ -539,7 +803,11 @@
       "rpeid": "018",
       "naz": "Vaško-gasilski dom Krajna, Krajna 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 229,
+        "gl": 23,
+        "prc": 0.1004
+      },
       "prestetih_glasov": null
     },
     {
@@ -547,7 +815,11 @@
       "rpeid": "103",
       "naz": "Vaško-gasilski dom Kramarovci, Kramarovci 14a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 28,
+        "gl": 2,
+        "prc": 0.0714
+      },
       "prestetih_glasov": null
     },
     {
@@ -555,7 +827,11 @@
       "rpeid": "021",
       "naz": "Vaško-gasilski dom Križevci, Križevci 153b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 317,
+        "gl": 28,
+        "prc": 0.0883
+      },
       "prestetih_glasov": null
     },
     {
@@ -563,7 +839,11 @@
       "rpeid": "058",
       "naz": "Vaško-gasilski dom Krnci, Krnci 20a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 51,
+        "gl": 11,
+        "prc": 0.2157
+      },
       "prestetih_glasov": null
     },
     {
@@ -571,7 +851,11 @@
       "rpeid": "043",
       "naz": "Vaško-gasilski dom Krplivnik, Krplivnik 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 63,
+        "gl": 11,
+        "prc": 0.1746
+      },
       "prestetih_glasov": null
     },
     {
@@ -579,7 +863,11 @@
       "rpeid": "047",
       "naz": "Vaško-gasilski dom Kruplivnik, Kruplivnik 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 156,
+        "gl": 14,
+        "prc": 0.0897
+      },
       "prestetih_glasov": null
     },
     {
@@ -587,7 +875,11 @@
       "rpeid": "023",
       "naz": "Vaško-gasilski dom Kukeč, Kukeč 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 45,
+        "gl": 5,
+        "prc": 0.1111
+      },
       "prestetih_glasov": null
     },
     {
@@ -595,7 +887,11 @@
       "rpeid": "071",
       "naz": "Vaško-gasilski dom Lončarovci,Lončarovci 39a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 45,
+        "gl": 12,
+        "prc": 0.2667
+      },
       "prestetih_glasov": null
     },
     {
@@ -603,7 +899,11 @@
       "rpeid": "030",
       "naz": "Vaško-gasilski dom Lucova, Lucova 44",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 105,
+        "gl": 12,
+        "prc": 0.1143
+      },
       "prestetih_glasov": null
     },
     {
@@ -611,7 +911,11 @@
       "rpeid": "041",
       "naz": "Vaško-gasilski dom Markovci, Markovci 11a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 204,
+        "gl": 41,
+        "prc": 0.201
+      },
       "prestetih_glasov": null
     },
     {
@@ -619,7 +923,11 @@
       "rpeid": "031",
       "naz": "Vaško-gasilski dom Martinje, Martinje 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 82,
+        "gl": 8,
+        "prc": 0.0976
+      },
       "prestetih_glasov": null
     },
     {
@@ -627,7 +935,11 @@
       "rpeid": "019",
       "naz": "Vaško-gasilski dom Mur.Petrovci, Mur. Petrovci 24",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 112,
+        "gl": 16,
+        "prc": 0.1429
+      },
       "prestetih_glasov": null
     },
     {
@@ -635,7 +947,11 @@
       "rpeid": "012",
       "naz": "Vaško-gasilski dom Murski Črnci, Murski Črnci 43",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 377,
+        "gl": 38,
+        "prc": 0.1008
+      },
       "prestetih_glasov": null
     },
     {
@@ -643,7 +959,11 @@
       "rpeid": "076",
       "naz": "Vaško-gasilski dom Nemčavci, Nemčavci 39d",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 213,
+        "gl": 42,
+        "prc": 0.1972
+      },
       "prestetih_glasov": null
     },
     {
@@ -651,7 +971,11 @@
       "rpeid": "032",
       "naz": "Vaško-gasilski dom Neradnovci, Neradnovci 63a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 121,
+        "gl": 25,
+        "prc": 0.2066
+      },
       "prestetih_glasov": null
     },
     {
@@ -659,7 +983,11 @@
       "rpeid": "059",
       "naz": "Vaško-gasilski dom Noršinci, Noršinci 3b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 205,
+        "gl": 30,
+        "prc": 0.1463
+      },
       "prestetih_glasov": null
     },
     {
@@ -667,7 +995,11 @@
       "rpeid": "104",
       "naz": "Vaško-gasilski dom Nuskova, Nuskova 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 232,
+        "gl": 21,
+        "prc": 0.0905
+      },
       "prestetih_glasov": null
     },
     {
@@ -675,7 +1007,11 @@
       "rpeid": "024",
       "naz": "Vaško-gasilski dom Panovci, Panovci 31",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 34,
+        "gl": 7,
+        "prc": 0.2059
+      },
       "prestetih_glasov": null
     },
     {
@@ -683,7 +1019,11 @@
       "rpeid": "108",
       "naz": "Vaško-gasilski dom Pertoča, Pertoča 55",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 336,
+        "gl": 35,
+        "prc": 0.1042
+      },
       "prestetih_glasov": null
     },
     {
@@ -691,7 +1031,11 @@
       "rpeid": "013",
       "naz": "Vaško-gasilski dom Petanjci, Petanjci 65",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 538,
+        "gl": 47,
+        "prc": 0.0874
+      },
       "prestetih_glasov": null
     },
     {
@@ -699,7 +1043,11 @@
       "rpeid": "014",
       "naz": "Vaško-gasilski dom Rankovci, Rankovci 33",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 209,
+        "gl": 25,
+        "prc": 0.1196
+      },
       "prestetih_glasov": null
     },
     {
@@ -707,7 +1055,11 @@
       "rpeid": "068",
       "naz": "Vaško-gasilski dom Ratkovci, Ratkovci 20a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 47,
+        "gl": 7,
+        "prc": 0.1489
+      },
       "prestetih_glasov": null
     },
     {
@@ -715,7 +1067,11 @@
       "rpeid": "101",
       "naz": "Vaško-gasilski dom Rogašovci,Rogašovci 14b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 226,
+        "gl": 35,
+        "prc": 0.1549
+      },
       "prestetih_glasov": null
     },
     {
@@ -723,7 +1079,11 @@
       "rpeid": "110",
       "naz": "Vaško-gasilski dom Ropoča, spodaj, Ropoča 5a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 171,
+        "gl": 6,
+        "prc": 0.0351
+      },
       "prestetih_glasov": null
     },
     {
@@ -731,7 +1091,11 @@
       "rpeid": "060",
       "naz": "Vaško-gasilski dom Sebeborci, Sebeborci 45",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 425,
+        "gl": 56,
+        "prc": 0.1318
+      },
       "prestetih_glasov": null
     },
     {
@@ -739,7 +1103,11 @@
       "rpeid": "072",
       "naz": "Vaško-gasilski dom Selo, Selo 32b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 225,
+        "gl": 11,
+        "prc": 0.0489
+      },
       "prestetih_glasov": null
     },
     {
@@ -747,7 +1115,11 @@
       "rpeid": "106",
       "naz": "Vaško-gasilski dom Serdica, Serdica 3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 438,
+        "gl": 46,
+        "prc": 0.105
+      },
       "prestetih_glasov": null
     },
     {
@@ -755,7 +1127,11 @@
       "rpeid": "020",
       "naz": "Vaško-gasilski dom Sodišinci, Sodišinci b.š.",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 180,
+        "gl": 20,
+        "prc": 0.1111
+      },
       "prestetih_glasov": null
     },
     {
@@ -763,7 +1139,11 @@
       "rpeid": "107",
       "naz": "Vaško-gasilski dom Sotina, Sotina 40",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 283,
+        "gl": 7,
+        "prc": 0.0247
+      },
       "prestetih_glasov": null
     },
     {
@@ -771,7 +1151,11 @@
       "rpeid": "033",
       "naz": "Vaško-gasilski dom Stanjevci, Stanjevci 36a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 151,
+        "gl": 13,
+        "prc": 0.0861
+      },
       "prestetih_glasov": null
     },
     {
@@ -779,7 +1163,11 @@
       "rpeid": "027",
       "naz": "Vaško-gasilski dom Šulinci, Šulinci 44",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 139,
+        "gl": 9,
+        "prc": 0.0647
+      },
       "prestetih_glasov": null
     },
     {
@@ -787,7 +1175,11 @@
       "rpeid": "102",
       "naz": "Vaško-gasilski dom Sveti Jurij, Sveti Jurij 11",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 356,
+        "gl": 31,
+        "prc": 0.0871
+      },
       "prestetih_glasov": null
     },
     {
@@ -795,7 +1187,11 @@
       "rpeid": "009",
       "naz": "Vaško-gasilski dom Tišina, Tišina 47",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 359,
+        "gl": 64,
+        "prc": 0.1783
+      },
       "prestetih_glasov": null
     },
     {
@@ -803,7 +1199,11 @@
       "rpeid": "015",
       "naz": "Vaško-gasilski dom Tropovci, Kolesarska ulica 64",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 382,
+        "gl": 67,
+        "prc": 0.1754
+      },
       "prestetih_glasov": null
     },
     {
@@ -811,7 +1211,11 @@
       "rpeid": "016",
       "naz": "Vaško-gasilski dom Vanča vas, Vanča vas 43b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 383,
+        "gl": 30,
+        "prc": 0.0783
+      },
       "prestetih_glasov": null
     },
     {
@@ -819,7 +1223,11 @@
       "rpeid": "111",
       "naz": "Vaško-gasilski dom Večeslavci,Večeslavci 46",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 315,
+        "gl": 41,
+        "prc": 0.1302
+      },
       "prestetih_glasov": null
     },
     {
@@ -827,7 +1235,11 @@
       "rpeid": "050",
       "naz": "Vaško-gasilski dom Vidonci, Vidonci 82",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 252,
+        "gl": 55,
+        "prc": 0.2183
+      },
       "prestetih_glasov": null
     },
     {
@@ -835,7 +1247,11 @@
       "rpeid": "034",
       "naz": "Vaško-gasilski dom Ženavlje, Ženavlje 14",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 78,
+        "gl": 10,
+        "prc": 0.1282
+      },
       "prestetih_glasov": null
     },
     {
@@ -843,7 +1259,11 @@
       "rpeid": "042",
       "naz": "Vaško-kulturni dom Hodoš, Hodoš 52",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 168,
+        "gl": 23,
+        "prc": 0.1369
+      },
       "prestetih_glasov": null
     },
     {
@@ -851,7 +1271,11 @@
       "rpeid": "008",
       "naz": "Vaško-kulturni dom Topolovci, Topolovci b.š.",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 51,
+        "gl": 6,
+        "prc": 0.1176
+      },
       "prestetih_glasov": null
     },
     {
@@ -859,7 +1283,11 @@
       "rpeid": "089",
       "naz": "Večnamenski objekt pri igrišču, Gorica b.š.",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 235,
+        "gl": 13,
+        "prc": 0.0553
+      },
       "prestetih_glasov": null
     },
     {
@@ -867,7 +1295,11 @@
       "rpeid": "039",
       "naz": "Zadružni dom Čepinci, Čepinci 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 210,
+        "gl": 25,
+        "prc": 0.119
+      },
       "prestetih_glasov": null
     },
     {
@@ -875,7 +1307,11 @@
       "rpeid": "052",
       "naz": "Zadružni dom Dolič, Dolič 22",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 296,
+        "gl": 42,
+        "prc": 0.1419
+      },
       "prestetih_glasov": null
     },
     {
@@ -883,7 +1319,11 @@
       "rpeid": "036",
       "naz": "Zadružni dom Šalovci, Šalovci 162",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 324,
+        "gl": 36,
+        "prc": 0.1111
+      },
       "prestetih_glasov": null
     },
     {
@@ -891,7 +1331,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -1461,11 +1905,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

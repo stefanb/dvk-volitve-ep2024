@@ -11,7 +11,11 @@
       "rpeid": "005",
       "naz": "Avditorij Portorož",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 835,
+        "gl": 106,
+        "prc": 0.1269
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "004",
       "naz": "Center starejših  občanov Lucija II",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1326,
+        "gl": 109,
+        "prc": 0.0822
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "003",
       "naz": "Center starejših občanov Lucija I",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 987,
+        "gl": 108,
+        "prc": 0.1094
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "006",
       "naz": "Dom družbenih organizacij ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1595,
+        "gl": 180,
+        "prc": 0.1129
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "012",
       "naz": "Dom Zmaga",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 197,
+        "gl": 18,
+        "prc": 0.0914
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "007",
       "naz": "Glasbena šola Piran",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1358,
+        "gl": 132,
+        "prc": 0.0972
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "013",
       "naz": "KD B. Jakca ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 158,
+        "gl": 13,
+        "prc": 0.0823
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "009",
       "naz": "KS Strunjan",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 515,
+        "gl": 44,
+        "prc": 0.0854
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "001",
       "naz": "OŠ Lucija I",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1663,
+        "gl": 165,
+        "prc": 0.0992
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "002",
       "naz": "OŠ Lucija II, Fazan 1, 6320 Portorož",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1323,
+        "gl": 126,
+        "prc": 0.0952
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "010",
       "naz": "OŠ Sečovlje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1717,
+        "gl": 156,
+        "prc": 0.0909
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "011",
       "naz": "OŠ Sv. Peter",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 327,
+        "gl": 49,
+        "prc": 0.1498
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "008",
       "naz": "ZD Piran",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1318,
+        "gl": 162,
+        "prc": 0.1229
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -685,11 +741,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

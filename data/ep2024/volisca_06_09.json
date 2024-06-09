@@ -11,7 +11,11 @@
       "rpeid": "035",
       "naz": "Černe Franc, Gozd Reka 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 123,
+        "gl": 22,
+        "prc": 0.1789
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "030",
       "naz": "DK Gradišče, Gradišče-K. o. Št. Lovrenc 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 95,
+        "gl": 14,
+        "prc": 0.1474
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "017",
       "naz": "DK Konjšica, Konjšica - del 14",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 116,
+        "gl": 19,
+        "prc": 0.1638
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "034",
       "naz": "DK Velika Štanga, Velika Štanga 9",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 182,
+        "gl": 45,
+        "prc": 0.2473
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "027",
       "naz": "Dom KS Ribče, Ribče 14",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 199,
+        "gl": 27,
+        "prc": 0.1357
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "023",
       "naz": "Dom Tisje, Črni potok 13",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 438,
+        "gl": 59,
+        "prc": 0.1347
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "004",
       "naz": "Dvorana TNS, Trg na Stavbah 8",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 677,
+        "gl": 60,
+        "prc": 0.0886
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "015",
       "naz": "Dvorana v OŠ Polšnik, Polšnik 25c",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 451,
+        "gl": 34,
+        "prc": 0.0754
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "018",
       "naz": "GD Breg pri Litiji, Tenetiše 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 317,
+        "gl": 44,
+        "prc": 0.1388
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "024",
       "naz": "GD Javorje, Javorje 14a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 152,
+        "gl": 20,
+        "prc": 0.1316
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "026",
       "naz": "GD Liberga, Liberga 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 227,
+        "gl": 29,
+        "prc": 0.1278
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "001",
       "naz": "GD SOBRAČE, Sobrače 16",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 192,
+        "gl": 35,
+        "prc": 0.1823
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "009",
       "naz": "GD Sp. Hotič, Sp. Hotič 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 307,
+        "gl": 49,
+        "prc": 0.1596
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "022",
       "naz": "GD Štangarske Poljane, Štang. Poljane 1a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 245,
+        "gl": 39,
+        "prc": 0.1592
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "032",
       "naz": "GD Tihaboj, Tihaboj 32",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 138,
+        "gl": 19,
+        "prc": 0.1377
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "025",
       "naz": "GD Velika Kostrevnica, Velika Kostrevnica 38",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 557,
+        "gl": 94,
+        "prc": 0.1688
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "021",
       "naz": "GD Zavrstnik, Zavrstnik 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 304,
+        "gl": 45,
+        "prc": 0.148
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "019",
       "naz": "GD Zg. Jablanica, Zg. Jablanica 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 593,
+        "gl": 60,
+        "prc": 0.1012
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "020",
       "naz": "KD Šmartno, Za povrtmi 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 551,
+        "gl": 82,
+        "prc": 0.1488
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "005",
       "naz": "Občina Litija, Jerebova  ul. 14",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 471,
+        "gl": 47,
+        "prc": 0.0998
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "031",
       "naz": "OŠ Gabrovka, Gabrovka 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 511,
+        "gl": 77,
+        "prc": 0.1507
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "003",
       "naz": "OŠ Gradec, Bevkova ul.3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 790,
+        "gl": 120,
+        "prc": 0.1519
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "013",
       "naz": "OŠ Kresnice, Kresnice 26a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 773,
+        "gl": 150,
+        "prc": 0.194
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "006",
       "naz": "OŠ Litija, Ul. Mire Pregljeve 3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 815,
+        "gl": 92,
+        "prc": 0.1129
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "028",
       "naz": "OŠ Primskovo, Gradišče 28",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 416,
+        "gl": 75,
+        "prc": 0.1803
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "014",
       "naz": "OŠ Sava, Sava 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 439,
+        "gl": 44,
+        "prc": 0.1002
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "037",
       "naz": "OŠ Šmartno pri Litiji, Pungrt 9",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 633,
+        "gl": 121,
+        "prc": 0.1912
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "011",
       "naz": "OŠ Vače, Vače 24",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 812,
+        "gl": 86,
+        "prc": 0.1059
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "010",
       "naz": "OŠ Zg. Hotič, Zg. Hotič 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 396,
+        "gl": 59,
+        "prc": 0.149
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "002",
       "naz": "Pri Kovaču, Graška c. 64",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 797,
+        "gl": 140,
+        "prc": 0.1757
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "033",
       "naz": "Resnik D. - st. hiša, Moravče pri Gabrovki 16",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 537,
+        "gl": 78,
+        "prc": 0.1453
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "007",
       "naz": "ŠD Litija, Ul. Mire Pregljeve 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 562,
+        "gl": 53,
+        "prc": 0.0943
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "036",
       "naz": "Sp. Log-brunarica pri igrišču, Sp. Log 16",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 183,
+        "gl": 48,
+        "prc": 0.2623
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "029",
       "naz": "TIC-bivša pošta, Dole pri Litiji 8a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 478,
+        "gl": 70,
+        "prc": 0.1464
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "016",
       "naz": "Verbajs Jože in Klara, Mamolj 20a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 135,
+        "gl": 13,
+        "prc": 0.0963
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "008",
       "naz": "ZD Litija, Partizanska p. 8a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1057,
+        "gl": 118,
+        "prc": 0.1116
+      },
       "prestetih_glasov": null
     },
     {
@@ -299,7 +443,11 @@
       "rpeid": "012",
       "naz": "ZDD Jevnica, Jevnica 36",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 887,
+        "gl": 125,
+        "prc": 0.1409
+      },
       "prestetih_glasov": null
     },
     {
@@ -307,7 +455,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -877,11 +1029,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

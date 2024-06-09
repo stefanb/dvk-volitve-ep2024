@@ -11,7 +11,11 @@
       "rpeid": "017",
       "naz": "DC KRKA, Krka 1d",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1103,
+        "gl": 139,
+        "prc": 0.126
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "014",
       "naz": "DK TEMENICA, Temenica 2a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 601,
+        "gl": 60,
+        "prc": 0.0998
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "012",
       "naz": "GD DOB, Dob pri Šentvidu 8",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 465,
+        "gl": 80,
+        "prc": 0.172
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "008",
       "naz": "GD KRIŠKA VAS, Kriška vas 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 426,
+        "gl": 71,
+        "prc": 0.1667
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "006",
       "naz": "GD METNAJ, Metnaj 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 457,
+        "gl": 57,
+        "prc": 0.1247
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "005",
       "naz": "GD STIČNA, Stična 144",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1257,
+        "gl": 178,
+        "prc": 0.1416
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "009",
       "naz": "GD VRH PRI VIŠNJI GORI, Vrh pri Višnji Gori 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 293,
+        "gl": 63,
+        "prc": 0.215
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "002",
       "naz": "KD  IVANČNA GORICA I., Sokolska ul. 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1505,
+        "gl": 177,
+        "prc": 0.1176
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "015",
       "naz": "KD AMBRUS, Ambrus 56",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 593,
+        "gl": 76,
+        "prc": 0.1282
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "003",
       "naz": "KD IVANČNA GORICA II., Sokolska ul. 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 764,
+        "gl": 89,
+        "prc": 0.1165
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "004",
       "naz": "KD MULJAVA, Muljava 20",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 733,
+        "gl": 107,
+        "prc": 0.146
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "010",
       "naz": "KD ŠENTVID I., Šentvid pri Stični 70",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1061,
+        "gl": 130,
+        "prc": 0.1225
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "011",
       "naz": "KD ŠENTVID II., Šentvid pri Stični 70",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 992,
+        "gl": 145,
+        "prc": 0.1462
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "007",
       "naz": "MH VIŠNJA GORA, Mestni trg 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1438,
+        "gl": 169,
+        "prc": 0.1175
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "016",
       "naz": "OŠ ZAGRADEC, Zagradec 33",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1041,
+        "gl": 123,
+        "prc": 0.1182
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "013",
       "naz": "VO HRASTOV DOL, Hrastov Dol 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 166,
+        "gl": 16,
+        "prc": 0.0964
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -709,11 +777,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

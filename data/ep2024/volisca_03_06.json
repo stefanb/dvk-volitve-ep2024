@@ -11,7 +11,11 @@
       "rpeid": "029",
       "naz": "BTF, Rožna dolina c. VIII 34, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1292,
+        "gl": 185,
+        "prc": 0.1432
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "030",
       "naz": "BTF, Rožna dolina c. VIII 34, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1390,
+        "gl": 200,
+        "prc": 0.1439
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "016",
       "naz": "Dom Ivana Cankarja, Šentjošt 13, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 360,
+        "gl": 97,
+        "prc": 0.2694
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "022",
       "naz": "Dom krajanov, Črni vrh 37a, Polhov Gradec",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 486,
+        "gl": 76,
+        "prc": 0.1564
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "024",
       "naz": "Fakulteta za elek., Tržaška c. 25, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 973,
+        "gl": 165,
+        "prc": 0.1696
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "025",
       "naz": "Fakulteta za elek., Tržaška c. 25, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1091,
+        "gl": 120,
+        "prc": 0.11
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "027",
       "naz": "Obrtna zbornica Vič, Tržaška c. 207, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 916,
+        "gl": 109,
+        "prc": 0.119
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "031",
       "naz": "Obrtna zbornica Vič, Tržaška c. 207, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1120,
+        "gl": 125,
+        "prc": 0.1116
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "001",
       "naz": "OŠ Brezovica pri Lj., Šolska ul. 15, Brezovica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1269,
+        "gl": 153,
+        "prc": 0.1206
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "002",
       "naz": "OŠ Brezovica pri Lj., Šolska ul. 15, Brezovica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1129,
+        "gl": 140,
+        "prc": 0.124
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "003",
       "naz": "OŠ Dobrova, Cesta 7.maja 20, Dobrova",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1048,
+        "gl": 172,
+        "prc": 0.1641
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "014",
       "naz": "OŠ Horjul, Šolska ul. 44, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 681,
+        "gl": 128,
+        "prc": 0.188
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "015",
       "naz": "OŠ Horjul, Šolska ul. 44, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 556,
+        "gl": 103,
+        "prc": 0.1853
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "019",
       "naz": "OŠ Polh. Gradec, Polhov Gradec 95, Polhov Gradec",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1199,
+        "gl": 173,
+        "prc": 0.1443
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "017",
       "naz": "PGD Butajnova-Planina, Butajnova 20g, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 262,
+        "gl": 29,
+        "prc": 0.1107
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "020",
       "naz": "PGD Dvor, Dvor pri Polh. Grad. 23, Polhov Gradec",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 569,
+        "gl": 53,
+        "prc": 0.0931
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "007",
       "naz": "PGD Hruševo, Hruševo 2a, Dobrova",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 416,
+        "gl": 56,
+        "prc": 0.1346
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "028",
       "naz": "PGD Kozarje, Cesta na Ključ 56, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1244,
+        "gl": 153,
+        "prc": 0.123
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "012",
       "naz": "PGD Podolnica, Zaklanec 2c, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 292,
+        "gl": 80,
+        "prc": 0.274
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "009",
       "naz": "PGD Podsmreka, Podsmreka 58, Dobrova",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 494,
+        "gl": 99,
+        "prc": 0.2004
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "010",
       "naz": "PGD Vrzdenec, Vrzdenec 101, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 412,
+        "gl": 61,
+        "prc": 0.1481
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "013",
       "naz": "PGD Zaklanec, Zaklanec 2c, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 158,
+        "gl": 31,
+        "prc": 0.1962
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "021",
       "naz": "PGD Zalog, Setnik 5 b, Polhov Gradec",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 136,
+        "gl": 34,
+        "prc": 0.25
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "011",
       "naz": "PGD Žažar, Žažar 24, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 154,
+        "gl": 46,
+        "prc": 0.2987
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "004",
       "naz": "Poslovni prostor Koprivec, Brezje 10, Dobrova",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 350,
+        "gl": 75,
+        "prc": 0.2143
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "006",
       "naz": "Športni center Gabrje, Gabrje bš, Dobrova",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 908,
+        "gl": 142,
+        "prc": 0.1564
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "023",
       "naz": "Tehnološki park LJ, Tehnološki park 19 (stavba B)",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1001,
+        "gl": 123,
+        "prc": 0.1229
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "026",
       "naz": "Tehnološki park LJ, Tehnološki park 19 (stavba B)",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 891,
+        "gl": 119,
+        "prc": 0.1336
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -805,11 +921,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

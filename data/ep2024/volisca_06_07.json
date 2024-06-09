@@ -11,7 +11,11 @@
       "rpeid": "017",
       "naz": "DK Razbor, Razbor 11 A",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 205,
+        "gl": 22,
+        "prc": 0.1073
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "021",
       "naz": "Drožanje - Ivan Jazbec, Drožanje 13",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 217,
+        "gl": 21,
+        "prc": 0.0968
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "042",
       "naz": "Dvorana Metelkovega doma Škocjan, Škocjan 35",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 765,
+        "gl": 89,
+        "prc": 0.1163
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "015",
       "naz": "GD Breg, Šentjur na Polju 18 A",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 182,
+        "gl": 16,
+        "prc": 0.0879
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "044",
       "naz": "GD Dobrava pri Škocjanu, Dobrava pri Škocjanu 59",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 185,
+        "gl": 32,
+        "prc": 0.173
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "041",
       "naz": "GD Dolenje Dole, Dolenje Dole 24b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 177,
+        "gl": 23,
+        "prc": 0.1299
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "043",
       "naz": "GD Grmovlje, Grmovlje 28",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 504,
+        "gl": 57,
+        "prc": 0.1131
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "016",
       "naz": "GD Loka pri ZM, Loka pri Zidanem Mostu 40",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 566,
+        "gl": 73,
+        "prc": 0.129
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "022",
       "naz": "GD Orešje nad Sevnico, Orešje nad Sevnico 12 B",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 266,
+        "gl": 38,
+        "prc": 0.1429
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "002",
       "naz": "GD Poklek nad Blanco, Poklek nad Blanco 2 B",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 232,
+        "gl": 20,
+        "prc": 0.0862
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "018",
       "naz": "GD Primož, Primož 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 241,
+        "gl": 29,
+        "prc": 0.1203
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "023",
       "naz": "GD Sevnica, Kvedrova c. 25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 381,
+        "gl": 45,
+        "prc": 0.1181
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "027",
       "naz": "GD Studenec, Studenec 43",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 501,
+        "gl": 65,
+        "prc": 0.1297
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "035",
       "naz": "GD Telče, Telče 12 B",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 323,
+        "gl": 45,
+        "prc": 0.1393
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "045",
       "naz": "GD Tomažja vas, Tomažja vas 35",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 162,
+        "gl": 19,
+        "prc": 0.1173
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "037",
       "naz": "GD Trnovec, Trnovec 3 A",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 342,
+        "gl": 40,
+        "prc": 0.117
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "031",
       "naz": "GD Veliki Cirnik, Veliki Cirnik 1 A",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 93,
+        "gl": 13,
+        "prc": 0.1398
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "036",
       "naz": "GD Zabukovje nad Sevnico, Zabukovje nad S. 16 D",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 240,
+        "gl": 32,
+        "prc": 0.1333
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "040",
       "naz": "GD Zagrad, Zagrad 36",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 361,
+        "gl": 43,
+        "prc": 0.1191
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "019",
       "naz": "Gostilna Kregl, Gornje Brezovo 3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 596,
+        "gl": 73,
+        "prc": 0.1225
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "006",
       "naz": "Gostišče Vrh pri Boštanju, Vrh pri Boštanju 23",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 197,
+        "gl": 19,
+        "prc": 0.0964
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "001",
       "naz": "KD Blanca, Blanca 24",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 652,
+        "gl": 66,
+        "prc": 0.1012
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "012",
       "naz": "KD Lukovec, Lukovec 38",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 157,
+        "gl": 26,
+        "prc": 0.1656
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "030",
       "naz": "KD Šentjanž, Šentjanž 22",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 942,
+        "gl": 109,
+        "prc": 0.1157
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "029",
       "naz": "Kladje pri K.-Žan Bunderšek,Kladje pri Krmelju 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 102,
+        "gl": 13,
+        "prc": 0.1275
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "026",
       "naz": "Komunala Sevnica, Naselje heroja Maroka 17",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1000,
+        "gl": 172,
+        "prc": 0.172
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "011",
       "naz": "Konjsko - Jože Mervič, Konjsko 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 88,
+        "gl": 11,
+        "prc": 0.125
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "032",
       "naz": "LD Tržišče, Tržišče 23",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 436,
+        "gl": 69,
+        "prc": 0.1583
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "020",
       "naz": "Ledina - Stanislav Možič, Ledina 80",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 169,
+        "gl": 23,
+        "prc": 0.1361
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "039",
       "naz": "OŠ Bučka, Bučka 27",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 499,
+        "gl": 56,
+        "prc": 0.1122
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "014",
       "naz": "OŠ Krmelj, Krmelj  25",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 739,
+        "gl": 109,
+        "prc": 0.1475
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "025",
       "naz": "OŠ Sava Kladnika, Trg svobode 42",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 423,
+        "gl": 83,
+        "prc": 0.1962
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "033",
       "naz": "Pijavice - Henrik Hočevar, Pijavice 3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 300,
+        "gl": 42,
+        "prc": 0.14
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "009",
       "naz": "Pod vaškim kozolcem na Jablanici, Jablanica 24 A",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 187,
+        "gl": 17,
+        "prc": 0.0909
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "038",
       "naz": "Podgorje - Janez Podlesnik, Podgorje ob S. 17 B",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 95,
+        "gl": 14,
+        "prc": 0.1474
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "013",
       "naz": "Sejna soba Občine Sevnica, Glavni trg 19 A",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 782,
+        "gl": 141,
+        "prc": 0.1803
+      },
       "prestetih_glasov": null
     },
     {
@@ -299,7 +443,11 @@
       "rpeid": "003",
       "naz": "TVD Partizan, Boštanj 31",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 877,
+        "gl": 112,
+        "prc": 0.1277
+      },
       "prestetih_glasov": null
     },
     {
@@ -307,7 +455,11 @@
       "rpeid": "004",
       "naz": "VD Kompolje, Kompolje bš",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 123,
+        "gl": 20,
+        "prc": 0.1626
+      },
       "prestetih_glasov": null
     },
     {
@@ -315,7 +467,11 @@
       "rpeid": "005",
       "naz": "VD Šmarčna, Šmarčna 4 B",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 74,
+        "gl": 13,
+        "prc": 0.1757
+      },
       "prestetih_glasov": null
     },
     {
@@ -323,7 +479,11 @@
       "rpeid": "034",
       "naz": "Vinski dvor Malkovec, Malkovec 11",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 318,
+        "gl": 31,
+        "prc": 0.0975
+      },
       "prestetih_glasov": null
     },
     {
@@ -331,7 +491,11 @@
       "rpeid": "007",
       "naz": "VO Log, Log 59",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 240,
+        "gl": 47,
+        "prc": 0.1958
+      },
       "prestetih_glasov": null
     },
     {
@@ -339,7 +503,11 @@
       "rpeid": "024",
       "naz": "VVO Ciciban Sevnica, Naselje heroja Maroka 22",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 693,
+        "gl": 118,
+        "prc": 0.1703
+      },
       "prestetih_glasov": null
     },
     {
@@ -347,7 +515,11 @@
       "rpeid": "008",
       "naz": "Zavetišče pod Sv. Rokom, Taborniška ul. 14",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 347,
+        "gl": 48,
+        "prc": 0.1383
+      },
       "prestetih_glasov": null
     },
     {
@@ -355,7 +527,11 @@
       "rpeid": "028",
       "naz": "Zavratec - Marko Rupar, Zavratec 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 124,
+        "gl": 18,
+        "prc": 0.1452
+      },
       "prestetih_glasov": null
     },
     {
@@ -363,7 +539,11 @@
       "rpeid": "010",
       "naz": "ŽP Jelovec, Jelovec 5",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 127,
+        "gl": 20,
+        "prc": 0.1575
+      },
       "prestetih_glasov": null
     },
     {
@@ -371,7 +551,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -941,11 +1125,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

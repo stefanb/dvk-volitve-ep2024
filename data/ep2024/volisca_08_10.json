@@ -11,7 +11,11 @@
       "rpeid": "009",
       "naz": "Avla ŠC Ptuj, Volkmerjeva c. 19",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 515,
+        "gl": 57,
+        "prc": 0.1107
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "010",
       "naz": "Avla ŠC Ptuj, Volkmerjeva c. 19",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 606,
+        "gl": 65,
+        "prc": 0.1073
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "012",
       "naz": "Dijaški dom Ptuj, Arbajterjeva  ul. 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 669,
+        "gl": 70,
+        "prc": 0.1046
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "013",
       "naz": "DK Bratje Reš, Volkmerjeva c. 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 635,
+        "gl": 58,
+        "prc": 0.0913
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "014",
       "naz": "DK Bratje Reš, Volkmerjeva c. 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 403,
+        "gl": 36,
+        "prc": 0.0893
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "017",
       "naz": "DK MČ Jezero, Belšakova ul. 20a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 490,
+        "gl": 61,
+        "prc": 0.1245
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "018",
       "naz": "DK MČ Jezero, Belšakova ul. 20a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 380,
+        "gl": 40,
+        "prc": 0.1053
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "015",
       "naz": "DK MČ Panorama, Vičava 46",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 739,
+        "gl": 110,
+        "prc": 0.1488
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "028",
       "naz": "DK Skorba, Skorba 36a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 301,
+        "gl": 32,
+        "prc": 0.1063
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "023",
       "naz": "DK Turnišče, Selska c. 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 583,
+        "gl": 62,
+        "prc": 0.1063
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "024",
       "naz": "DK Turnišče, Selska c. 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 534,
+        "gl": 59,
+        "prc": 0.1105
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "022",
       "naz": "DRU Ivan Rudolf Breg-Ptuj, Zadružni trg 12a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 693,
+        "gl": 70,
+        "prc": 0.101
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "030",
       "naz": "DU Hajdina, Zgornja Hajdina 45",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 658,
+        "gl": 70,
+        "prc": 0.1064
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "025",
       "naz": "DV Draženci, Draženci 74b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 471,
+        "gl": 58,
+        "prc": 0.1231
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "026",
       "naz": "GD Gerečja vas, Gerečja vas 14a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 457,
+        "gl": 37,
+        "prc": 0.081
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "027",
       "naz": "GD Hajdoše, Hajdoše 41b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 554,
+        "gl": 65,
+        "prc": 0.1173
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "031",
       "naz": "Igrišče Sp. Hajdina, Spodnja Hajdina bš",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 187,
+        "gl": 19,
+        "prc": 0.1016
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "001",
       "naz": "Magistrat, Spr. pisarna, Mestni trg 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 538,
+        "gl": 58,
+        "prc": 0.1078
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "020",
       "naz": "OŠ Breg, Rogaška c. 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 526,
+        "gl": 60,
+        "prc": 0.1141
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "021",
       "naz": "OŠ Breg, Rogaška c. 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 436,
+        "gl": 47,
+        "prc": 0.1078
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "006",
       "naz": "OŠ Ljudski vrt, Župančičeva ul. 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 509,
+        "gl": 70,
+        "prc": 0.1375
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "007",
       "naz": "OŠ Ljudski vrt, Župančičeva ul. 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 538,
+        "gl": 65,
+        "prc": 0.1208
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "008",
       "naz": "OŠ Ljudski vrt, Župančičeva ul. 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 434,
+        "gl": 69,
+        "prc": 0.159
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "002",
       "naz": "OŠ Olge Meglič, Telovadnica, Prešernova ul. 29",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 409,
+        "gl": 33,
+        "prc": 0.0807
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "016",
       "naz": "ŠD Mladika, Čučkova ul. 8",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 319,
+        "gl": 35,
+        "prc": 0.1097
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "029",
       "naz": "ŠO NK Slovenja vas, Slovenja vas 54",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 447,
+        "gl": 47,
+        "prc": 0.1051
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "019",
       "naz": "Večnamenska dvorana Spuhlja, Spuhlja 12a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 711,
+        "gl": 58,
+        "prc": 0.0816
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "003",
       "naz": "Vrtec Ptuj, Enota Mačice, Potrčeva c. 9a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 534,
+        "gl": 52,
+        "prc": 0.0974
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "004",
       "naz": "Vrtec Ptuj, Enota Mačice, Potrčeva c. 9a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 543,
+        "gl": 53,
+        "prc": 0.0976
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "011",
       "naz": "Vrtec Ptuj, Enota Mačice, Potrčeva c. 9a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 508,
+        "gl": 95,
+        "prc": 0.187
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "005",
       "naz": "Vrtec Ptuj, Enota Tulipan,  Med vrti 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 316,
+        "gl": 30,
+        "prc": 0.0949
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -829,11 +957,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

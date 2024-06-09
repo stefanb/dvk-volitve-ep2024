@@ -11,7 +11,11 @@
       "rpeid": "017",
       "naz": "Avla Inšt. za razis. Krasa ZRC SAZU, Titov trg 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 512,
+        "gl": 44,
+        "prc": 0.0859
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "036",
       "naz": "Bar Nanos, Razdrto 27",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 136,
+        "gl": 22,
+        "prc": 0.1618
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "037",
       "naz": "Dom krajanov Bolk",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 382,
+        "gl": 63,
+        "prc": 0.1649
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "044",
       "naz": "Dom krajanov Koče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 238,
+        "gl": 40,
+        "prc": 0.1681
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "027",
       "naz": "Dom upokojencev Postojna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 675,
+        "gl": 101,
+        "prc": 0.1496
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "005",
       "naz": "Gasilski dom Palčje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 179,
+        "gl": 35,
+        "prc": 0.1955
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "007",
       "naz": "Gasilski dom Zagorje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 511,
+        "gl": 65,
+        "prc": 0.1272
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "020",
       "naz": "Gostilna \"Brne\"",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 985,
+        "gl": 92,
+        "prc": 0.0934
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "039",
       "naz": "Gostilna Černač, Rakitnik 39",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 472,
+        "gl": 86,
+        "prc": 0.1822
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "015",
       "naz": "Gostilna Miranda, Selce",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 191,
+        "gl": 45,
+        "prc": 0.2356
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "012",
       "naz": "Hiša Biščak Anton, Buje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 39,
+        "gl": 12,
+        "prc": 0.3077
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "043",
       "naz": "Hiša Čič, Zagon 3a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 163,
+        "gl": 22,
+        "prc": 0.135
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "010",
       "naz": "Hiša Požar, Čepno 15",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 42,
+        "gl": 17,
+        "prc": 0.4048
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "011",
       "naz": "Kontejner na otroškem igrišču Volče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 50,
+        "gl": 10,
+        "prc": 0.2
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "033",
       "naz": "Kult. dom, Šmihel pod Nanosom",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 156,
+        "gl": 14,
+        "prc": 0.0897
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "031",
       "naz": "Kulturni dom Bukovje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 485,
+        "gl": 59,
+        "prc": 0.1216
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "038",
       "naz": "Kulturni dom Hrašče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 426,
+        "gl": 72,
+        "prc": 0.169
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "006",
       "naz": "Kulturni dom Juršče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 123,
+        "gl": 12,
+        "prc": 0.0976
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "032",
       "naz": "Kulturni dom Landol",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 144,
+        "gl": 31,
+        "prc": 0.2153
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "029",
       "naz": "Kulturni dom Miroslava Vilharja Planina",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 617,
+        "gl": 96,
+        "prc": 0.1556
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "042",
       "naz": "Kulturni dom Orehek",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 168,
+        "gl": 37,
+        "prc": 0.2202
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "030",
       "naz": "Kulturni dom Studeno",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 346,
+        "gl": 40,
+        "prc": 0.1156
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "035",
       "naz": "Kulturni dom Veliko Ubeljsko",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 218,
+        "gl": 31,
+        "prc": 0.1422
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "041",
       "naz": "Kulturni dom, Slavina 31",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 197,
+        "gl": 39,
+        "prc": 0.198
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "019",
       "naz": "Mala dvorana kulturnega doma Postojna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 570,
+        "gl": 61,
+        "prc": 0.107
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "018",
       "naz": "Mala dvorana Kulturnega doma Postojna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 309,
+        "gl": 30,
+        "prc": 0.0971
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "021",
       "naz": "O.Š. \"A. Globočnika\", Postojna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 599,
+        "gl": 60,
+        "prc": 0.1002
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "022",
       "naz": "O.Š. \"A. Globočnika\", Postojna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 516,
+        "gl": 41,
+        "prc": 0.0795
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "023",
       "naz": "O.Š. \"A. Globočnika\", Postojna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 676,
+        "gl": 42,
+        "prc": 0.0621
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "009",
       "naz": "O.Š. Dolnja Košana 61",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 604,
+        "gl": 68,
+        "prc": 0.1126
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "034",
       "naz": "O.Š. Hruševje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 384,
+        "gl": 73,
+        "prc": 0.1901
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "024",
       "naz": "O.Š.\"A. Globočnika\", Postojna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 493,
+        "gl": 51,
+        "prc": 0.1034
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "025",
       "naz": "O.Š.\"A. Globočnika\", Postojna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 427,
+        "gl": 54,
+        "prc": 0.1265
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "040",
       "naz": "OŠ Prestranek",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 565,
+        "gl": 78,
+        "prc": 0.1381
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "001",
       "naz": "Osnovna šola Pivka",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 746,
+        "gl": 79,
+        "prc": 0.1059
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "002",
       "naz": "Osnovna šola Pivka",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 618,
+        "gl": 71,
+        "prc": 0.1149
+      },
       "prestetih_glasov": null
     },
     {
@@ -299,7 +443,11 @@
       "rpeid": "003",
       "naz": "Osnovna šola Pivka",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 864,
+        "gl": 122,
+        "prc": 0.1412
+      },
       "prestetih_glasov": null
     },
     {
@@ -307,7 +455,11 @@
       "rpeid": "008",
       "naz": "Osnovna šola Šmihel",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 475,
+        "gl": 40,
+        "prc": 0.0842
+      },
       "prestetih_glasov": null
     },
     {
@@ -315,7 +467,11 @@
       "rpeid": "028",
       "naz": "Podjetniški inkubator, Veliki otok 44b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 150,
+        "gl": 28,
+        "prc": 0.1867
+      },
       "prestetih_glasov": null
     },
     {
@@ -323,7 +479,11 @@
       "rpeid": "016",
       "naz": "Srednja gozdarska in lesarska šola Postojna",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 849,
+        "gl": 122,
+        "prc": 0.1437
+      },
       "prestetih_glasov": null
     },
     {
@@ -331,7 +491,11 @@
       "rpeid": "014",
       "naz": "Stara  o.š., Kal 90",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 284,
+        "gl": 44,
+        "prc": 0.1549
+      },
       "prestetih_glasov": null
     },
     {
@@ -339,7 +503,11 @@
       "rpeid": "013",
       "naz": "Vaška hiša, Suhorje 23a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 52,
+        "gl": 14,
+        "prc": 0.2692
+      },
       "prestetih_glasov": null
     },
     {
@@ -347,7 +515,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -917,11 +1089,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

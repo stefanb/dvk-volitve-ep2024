@@ -11,7 +11,11 @@
       "rpeid": "023",
       "naz": "AMZS d.d., PE Celje,  Ljubljanska cesta 35, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 983,
+        "gl": 108,
+        "prc": 0.1099
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "021",
       "naz": "Dijaški dom, Ljubljanska cesta 21, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1520,
+        "gl": 144,
+        "prc": 0.0947
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "008",
       "naz": "Dom krajanov, Zagrad 90, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1494,
+        "gl": 213,
+        "prc": 0.1426
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "015",
       "naz": "Don Boskov center, Don Boskov trg 1, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1443,
+        "gl": 160,
+        "prc": 0.1109
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "026",
       "naz": "Družbeni prostori, Ul.V.prekomor.brigade 4, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 719,
+        "gl": 145,
+        "prc": 0.2017
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "004",
       "naz": "Franc Draksler, Tremerje 13, Tremerje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 652,
+        "gl": 70,
+        "prc": 0.1074
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "027",
       "naz": "I.OŠ Celje, Disloc.enota, Kosovelova 14, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 552,
+        "gl": 65,
+        "prc": 0.1178
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "010",
       "naz": "III.OŠ Celje - telovadnica, Vodnikova  4, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 976,
+        "gl": 91,
+        "prc": 0.0932
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "011",
       "naz": "III.OŠ Celje - telovadnica, Vodnikova 4, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1110,
+        "gl": 114,
+        "prc": 0.1027
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "019",
       "naz": "KS Trnovlje pri Celju, Trnoveljska  82, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 562,
+        "gl": 79,
+        "prc": 0.1406
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "017",
       "naz": "Plava laguna, Ljubljanska  cesta 58, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 821,
+        "gl": 87,
+        "prc": 0.106
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "014",
       "naz": "Rdeči križ; OZ Celje, Delavska ulica 21, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 740,
+        "gl": 71,
+        "prc": 0.0959
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "016",
       "naz": "Sedež KS Medlog, Babno 3a, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 570,
+        "gl": 77,
+        "prc": 0.1351
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "002",
       "naz": "Sedež KS, Velika dvorana, Teharska cesta 2a,Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1430,
+        "gl": 152,
+        "prc": 0.1063
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "031",
       "naz": "Sedež MČ, Ulica bratov Vošnjakov 1, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1496,
+        "gl": 192,
+        "prc": 0.1283
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "032",
       "naz": "Sedež MČ, Ulica bratov Vošnjakov 1, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1389,
+        "gl": 181,
+        "prc": 0.1303
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "025",
       "naz": "Šolski center Celje, Pot na Lavo 22, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1187,
+        "gl": 160,
+        "prc": 0.1348
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "028",
       "naz": "Vrtec Zarja, Enota Ringa raja, Nušičeva 2c, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1456,
+        "gl": 143,
+        "prc": 0.0982
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "018",
       "naz": "Zarja Trnovlje, Kulturniška ulica 4, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 425,
+        "gl": 66,
+        "prc": 0.1553
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "007",
       "naz": "Župnija Celje; Sv. Cecilija, Breg 18, Celje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 321,
+        "gl": 39,
+        "prc": 0.1215
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -741,11 +825,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2024-06-09T12:37:09.694Z",
+    "datum": "2024-06-09T12:35:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }
