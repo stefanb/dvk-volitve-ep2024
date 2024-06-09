@@ -135,14 +135,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 58,
-      "rpeid": "058",
-      "naz": "Gril Margareta, Pečke 23",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 66,
       "rpeid": "066",
       "naz": "Hohler Zalka, Božje 19a",
@@ -154,6 +146,14 @@
       "st": 40,
       "rpeid": "040",
       "naz": "Ilić Ivana, Vrhloga 29",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 58,
+      "rpeid": "058",
+      "naz": "Jančič Robert, Pečke 22B, 2321 Makole",
       "rez": null,
       "udel": null,
       "prestetih_glasov": null

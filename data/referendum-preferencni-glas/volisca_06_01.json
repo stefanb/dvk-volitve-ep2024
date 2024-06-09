@@ -489,7 +489,15 @@
     {
       "st": 901,
       "rpeid": "901",
-      "naz": "Predčasno glasovanje",
+      "naz": "Predčasno glasovanje UE Črnomelj",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 902,
+      "rpeid": "902",
+      "naz": "Predčasno glasovanje UE Metlika",
       "rez": null,
       "udel": null,
       "prestetih_glasov": null

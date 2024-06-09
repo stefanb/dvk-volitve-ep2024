@@ -415,9 +415,17 @@
       "prestetih_glasov": null
     },
     {
+      "st": 902,
+      "rpeid": "902",
+      "naz": "Predčasno glasovanje - Jakličev dom",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 901,
       "rpeid": "901",
-      "naz": "Predčasno glasovanje",
+      "naz": "Predčasno glasovanje - Upravna enota Ribnica",
       "rez": null,
       "udel": null,
       "prestetih_glasov": null
