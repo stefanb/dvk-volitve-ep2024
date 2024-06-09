@@ -37,8 +37,8 @@
       "rez": null,
       "udel": {
         "upr": 65,
-        "gl": 22,
-        "prc": 0.3385
+        "gl": 27,
+        "prc": 0.4154
       },
       "prestetih_glasov": null
     },
@@ -61,8 +61,8 @@
       "rez": null,
       "udel": {
         "upr": 47,
-        "gl": 15,
-        "prc": 0.3191
+        "gl": 23,
+        "prc": 0.4894
       },
       "prestetih_glasov": null
     },
@@ -396,9 +396,9 @@
       "naz": "GD Prvenci, Prvenci 9a",
       "rez": null,
       "udel": {
-        "upr": 197,
-        "gl": 63,
-        "prc": 0.3198
+        "upr": 198,
+        "gl": 94,
+        "prc": 0.4747
       },
       "prestetih_glasov": null
     },
@@ -421,8 +421,8 @@
       "rez": null,
       "udel": {
         "upr": 368,
-        "gl": 125,
-        "prc": 0.3397
+        "gl": 161,
+        "prc": 0.4375
       },
       "prestetih_glasov": null
     },
@@ -505,8 +505,8 @@
       "rez": null,
       "udel": {
         "upr": 83,
-        "gl": 30,
-        "prc": 0.3614
+        "gl": 44,
+        "prc": 0.5301
       },
       "prestetih_glasov": null
     },
@@ -541,8 +541,8 @@
       "rez": null,
       "udel": {
         "upr": 132,
-        "gl": 36,
-        "prc": 0.2727
+        "gl": 54,
+        "prc": 0.4091
       },
       "prestetih_glasov": null
     },
@@ -565,8 +565,8 @@
       "rez": null,
       "udel": {
         "upr": 182,
-        "gl": 54,
-        "prc": 0.2967
+        "gl": 88,
+        "prc": 0.4835
       },
       "prestetih_glasov": null
     },
@@ -577,8 +577,8 @@
       "rez": null,
       "udel": {
         "upr": 61,
-        "gl": 19,
-        "prc": 0.3115
+        "gl": 32,
+        "prc": 0.5246
       },
       "prestetih_glasov": null
     },
@@ -589,8 +589,8 @@
       "rez": null,
       "udel": {
         "upr": 133,
-        "gl": 54,
-        "prc": 0.406
+        "gl": 68,
+        "prc": 0.5113
       },
       "prestetih_glasov": null
     },
@@ -601,8 +601,8 @@
       "rez": null,
       "udel": {
         "upr": 131,
-        "gl": 26,
-        "prc": 0.1985
+        "gl": 44,
+        "prc": 0.3359
       },
       "prestetih_glasov": null
     },
@@ -636,9 +636,9 @@
       "naz": "OŠ Destrnik, Janežovski Vrh 45 ",
       "rez": null,
       "udel": {
-        "upr": 211,
-        "gl": 70,
-        "prc": 0.3318
+        "upr": 210,
+        "gl": 91,
+        "prc": 0.4333
       },
       "prestetih_glasov": null
     },
@@ -649,8 +649,8 @@
       "rez": null,
       "udel": {
         "upr": 44,
-        "gl": 12,
-        "prc": 0.2727
+        "gl": 17,
+        "prc": 0.3864
       },
       "prestetih_glasov": null
     },
@@ -661,8 +661,8 @@
       "rez": null,
       "udel": {
         "upr": 99,
-        "gl": 17,
-        "prc": 0.1717
+        "gl": 30,
+        "prc": 0.303
       },
       "prestetih_glasov": null
     },
@@ -673,8 +673,8 @@
       "rez": null,
       "udel": {
         "upr": 80,
-        "gl": 26,
-        "prc": 0.325
+        "gl": 42,
+        "prc": 0.525
       },
       "prestetih_glasov": null
     },
@@ -697,8 +697,8 @@
       "rez": null,
       "udel": {
         "upr": 164,
-        "gl": 47,
-        "prc": 0.2866
+        "gl": 75,
+        "prc": 0.4573
       },
       "prestetih_glasov": null
     },
@@ -709,8 +709,8 @@
       "rez": null,
       "udel": {
         "upr": 69,
-        "gl": 25,
-        "prc": 0.3623
+        "gl": 35,
+        "prc": 0.5072
       },
       "prestetih_glasov": null
     },
@@ -853,8 +853,8 @@
       "rez": null,
       "udel": {
         "upr": 155,
-        "gl": 59,
-        "prc": 0.3806
+        "gl": 73,
+        "prc": 0.471
       },
       "prestetih_glasov": null
     },
@@ -1449,9 +1449,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T17:20:10.715Z",
-    "datum": "2024-06-09T17:30:00Z",
-    "cas_udelezba": "16:00",
+    "timestamp": "2024-06-09T21:10:15.886Z",
+    "datum": "2024-06-09T21:10:00Z",
+    "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,

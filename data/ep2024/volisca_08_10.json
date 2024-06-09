@@ -109,8 +109,8 @@
       "rez": null,
       "udel": {
         "upr": 301,
-        "gl": 95,
-        "prc": 0.3156
+        "gl": 137,
+        "prc": 0.4551
       },
       "prestetih_glasov": null
     },
@@ -169,8 +169,8 @@
       "rez": null,
       "udel": {
         "upr": 471,
-        "gl": 120,
-        "prc": 0.2548
+        "gl": 168,
+        "prc": 0.3567
       },
       "prestetih_glasov": null
     },
@@ -181,8 +181,8 @@
       "rez": null,
       "udel": {
         "upr": 457,
-        "gl": 114,
-        "prc": 0.2495
+        "gl": 151,
+        "prc": 0.3304
       },
       "prestetih_glasov": null
     },
@@ -205,8 +205,8 @@
       "rez": null,
       "udel": {
         "upr": 187,
-        "gl": 54,
-        "prc": 0.2888
+        "gl": 68,
+        "prc": 0.3636
       },
       "prestetih_glasov": null
     },
@@ -217,8 +217,8 @@
       "rez": null,
       "udel": {
         "upr": 538,
-        "gl": 135,
-        "prc": 0.2509
+        "gl": 178,
+        "prc": 0.3309
       },
       "prestetih_glasov": null
     },
@@ -277,8 +277,8 @@
       "rez": null,
       "udel": {
         "upr": 434,
-        "gl": 114,
-        "prc": 0.2627
+        "gl": 184,
+        "prc": 0.424
       },
       "prestetih_glasov": null
     },
@@ -289,8 +289,8 @@
       "rez": null,
       "udel": {
         "upr": 410,
-        "gl": 82,
-        "prc": 0.2
+        "gl": 109,
+        "prc": 0.2659
       },
       "prestetih_glasov": null
     },
@@ -337,8 +337,8 @@
       "rez": null,
       "udel": {
         "upr": 534,
-        "gl": 128,
-        "prc": 0.2397
+        "gl": 186,
+        "prc": 0.3483
       },
       "prestetih_glasov": null
     },
@@ -373,8 +373,8 @@
       "rez": null,
       "udel": {
         "upr": 316,
-        "gl": 87,
-        "prc": 0.2753
+        "gl": 112,
+        "prc": 0.3544
       },
       "prestetih_glasov": null
     },
@@ -957,9 +957,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T17:20:10.715Z",
-    "datum": "2024-06-09T17:30:00Z",
-    "cas_udelezba": "16:00",
+    "timestamp": "2024-06-09T21:10:15.886Z",
+    "datum": "2024-06-09T21:10:00Z",
+    "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,

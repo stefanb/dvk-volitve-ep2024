@@ -25,8 +25,8 @@
       "rez": null,
       "udel": {
         "upr": 155,
-        "gl": 62,
-        "prc": 0.4
+        "gl": 83,
+        "prc": 0.5355
       },
       "prestetih_glasov": null
     },
@@ -61,8 +61,8 @@
       "rez": null,
       "udel": {
         "upr": 363,
-        "gl": 76,
-        "prc": 0.2094
+        "gl": 99,
+        "prc": 0.2727
       },
       "prestetih_glasov": null
     },
@@ -85,8 +85,8 @@
       "rez": null,
       "udel": {
         "upr": 301,
-        "gl": 62,
-        "prc": 0.206
+        "gl": 94,
+        "prc": 0.3123
       },
       "prestetih_glasov": null
     },
@@ -97,8 +97,8 @@
       "rez": null,
       "udel": {
         "upr": 391,
-        "gl": 99,
-        "prc": 0.2532
+        "gl": 146,
+        "prc": 0.3734
       },
       "prestetih_glasov": null
     },
@@ -157,8 +157,8 @@
       "rez": null,
       "udel": {
         "upr": 250,
-        "gl": 59,
-        "prc": 0.236
+        "gl": 91,
+        "prc": 0.364
       },
       "prestetih_glasov": null
     },
@@ -168,9 +168,9 @@
       "naz": "Gasilski dom SOVJAK, Sovjak 33a",
       "rez": null,
       "udel": {
-        "upr": 469,
-        "gl": 125,
-        "prc": 0.2665
+        "upr": 470,
+        "gl": 171,
+        "prc": 0.3638
       },
       "prestetih_glasov": null
     },
@@ -193,8 +193,8 @@
       "rez": null,
       "udel": {
         "upr": 305,
-        "gl": 95,
-        "prc": 0.3115
+        "gl": 125,
+        "prc": 0.4098
       },
       "prestetih_glasov": null
     },
@@ -217,8 +217,8 @@
       "rez": null,
       "udel": {
         "upr": 395,
-        "gl": 107,
-        "prc": 0.2709
+        "gl": 136,
+        "prc": 0.3443
       },
       "prestetih_glasov": null
     },
@@ -373,7 +373,7 @@
       "rez": null,
       "udel": {
         "upr": 0,
-        "gl": 0,
+        "gl": 418,
         "prc": 0
       },
       "prestetih_glasov": null
@@ -945,9 +945,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T17:20:10.715Z",
-    "datum": "2024-06-09T17:30:00Z",
-    "cas_udelezba": "16:00",
+    "timestamp": "2024-06-09T21:10:15.886Z",
+    "datum": "2024-06-09T21:10:00Z",
+    "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,

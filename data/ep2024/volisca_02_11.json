@@ -48,9 +48,9 @@
       "naz": "DK Gojače - Malovše, Gojače 48",
       "rez": null,
       "udel": {
-        "upr": 247,
-        "gl": 72,
-        "prc": 0.2915
+        "upr": 248,
+        "gl": 107,
+        "prc": 0.4315
       },
       "prestetih_glasov": null
     },
@@ -97,8 +97,8 @@
       "rez": null,
       "udel": {
         "upr": 238,
-        "gl": 88,
-        "prc": 0.3697
+        "gl": 121,
+        "prc": 0.5084
       },
       "prestetih_glasov": null
     },
@@ -109,8 +109,8 @@
       "rez": null,
       "udel": {
         "upr": 363,
-        "gl": 122,
-        "prc": 0.3361
+        "gl": 174,
+        "prc": 0.4793
       },
       "prestetih_glasov": null
     },
@@ -121,8 +121,8 @@
       "rez": null,
       "udel": {
         "upr": 99,
-        "gl": 47,
-        "prc": 0.4747
+        "gl": 61,
+        "prc": 0.6162
       },
       "prestetih_glasov": null
     },
@@ -277,8 +277,8 @@
       "rez": null,
       "udel": {
         "upr": 72,
-        "gl": 32,
-        "prc": 0.4444
+        "gl": 42,
+        "prc": 0.5833
       },
       "prestetih_glasov": null
     },
@@ -313,8 +313,8 @@
       "rez": null,
       "udel": {
         "upr": 146,
-        "gl": 37,
-        "prc": 0.2534
+        "gl": 59,
+        "prc": 0.4041
       },
       "prestetih_glasov": null
     },
@@ -457,8 +457,8 @@
       "rez": null,
       "udel": {
         "upr": 255,
-        "gl": 77,
-        "prc": 0.302
+        "gl": 121,
+        "prc": 0.4745
       },
       "prestetih_glasov": null
     },
@@ -1137,9 +1137,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T17:20:10.715Z",
-    "datum": "2024-06-09T17:30:00Z",
-    "cas_udelezba": "16:00",
+    "timestamp": "2024-06-09T21:10:15.886Z",
+    "datum": "2024-06-09T21:10:00Z",
+    "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,

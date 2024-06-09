@@ -109,8 +109,8 @@
       "rez": null,
       "udel": {
         "upr": 136,
-        "gl": 34,
-        "prc": 0.25
+        "gl": 47,
+        "prc": 0.3456
       },
       "prestetih_glasov": null
     },
@@ -205,8 +205,8 @@
       "rez": null,
       "udel": {
         "upr": 141,
-        "gl": 48,
-        "prc": 0.3404
+        "gl": 57,
+        "prc": 0.4043
       },
       "prestetih_glasov": null
     },
@@ -289,8 +289,8 @@
       "rez": null,
       "udel": {
         "upr": 34,
-        "gl": 21,
-        "prc": 0.6176
+        "gl": 26,
+        "prc": 0.7647
       },
       "prestetih_glasov": null
     },
@@ -445,8 +445,8 @@
       "rez": null,
       "udel": {
         "upr": 51,
-        "gl": 15,
-        "prc": 0.2941
+        "gl": 20,
+        "prc": 0.3922
       },
       "prestetih_glasov": null
     },
@@ -469,8 +469,8 @@
       "rez": null,
       "udel": {
         "upr": 129,
-        "gl": 39,
-        "prc": 0.3023
+        "gl": 57,
+        "prc": 0.4419
       },
       "prestetih_glasov": null
     },
@@ -541,8 +541,8 @@
       "rez": null,
       "udel": {
         "upr": 42,
-        "gl": 9,
-        "prc": 0.2143
+        "gl": 10,
+        "prc": 0.2381
       },
       "prestetih_glasov": null
     },
@@ -553,8 +553,8 @@
       "rez": null,
       "udel": {
         "upr": 34,
-        "gl": 14,
-        "prc": 0.4118
+        "gl": 20,
+        "prc": 0.5882
       },
       "prestetih_glasov": null
     },
@@ -577,8 +577,8 @@
       "rez": null,
       "udel": {
         "upr": 57,
-        "gl": 16,
-        "prc": 0.2807
+        "gl": 23,
+        "prc": 0.4035
       },
       "prestetih_glasov": null
     },
@@ -697,8 +697,8 @@
       "rez": null,
       "udel": {
         "upr": 127,
-        "gl": 33,
-        "prc": 0.2598
+        "gl": 52,
+        "prc": 0.4094
       },
       "prestetih_glasov": null
     },
@@ -709,8 +709,8 @@
       "rez": null,
       "udel": {
         "upr": 148,
-        "gl": 31,
-        "prc": 0.2095
+        "gl": 43,
+        "prc": 0.2905
       },
       "prestetih_glasov": null
     },
@@ -733,8 +733,8 @@
       "rez": null,
       "udel": {
         "upr": 108,
-        "gl": 26,
-        "prc": 0.2407
+        "gl": 38,
+        "prc": 0.3519
       },
       "prestetih_glasov": null
     },
@@ -745,8 +745,8 @@
       "rez": null,
       "udel": {
         "upr": 35,
-        "gl": 14,
-        "prc": 0.4
+        "gl": 17,
+        "prc": 0.4857
       },
       "prestetih_glasov": null
     },
@@ -793,8 +793,8 @@
       "rez": null,
       "udel": {
         "upr": 77,
-        "gl": 22,
-        "prc": 0.2857
+        "gl": 27,
+        "prc": 0.3506
       },
       "prestetih_glasov": null
     },
@@ -841,8 +841,8 @@
       "rez": null,
       "udel": {
         "upr": 51,
-        "gl": 22,
-        "prc": 0.4314
+        "gl": 29,
+        "prc": 0.5686
       },
       "prestetih_glasov": null
     },
@@ -924,9 +924,9 @@
       "naz": "Vaško-gasilski dom Martinje, Martinje 25",
       "rez": null,
       "udel": {
-        "upr": 82,
-        "gl": 38,
-        "prc": 0.4634
+        "upr": 83,
+        "gl": 49,
+        "prc": 0.5904
       },
       "prestetih_glasov": null
     },
@@ -1057,8 +1057,8 @@
       "rez": null,
       "udel": {
         "upr": 47,
-        "gl": 15,
-        "prc": 0.3191
+        "gl": 24,
+        "prc": 0.5106
       },
       "prestetih_glasov": null
     },
@@ -1237,8 +1237,8 @@
       "rez": null,
       "udel": {
         "upr": 252,
-        "gl": 83,
-        "prc": 0.3294
+        "gl": 115,
+        "prc": 0.4563
       },
       "prestetih_glasov": null
     },
@@ -1273,8 +1273,8 @@
       "rez": null,
       "udel": {
         "upr": 51,
-        "gl": 15,
-        "prc": 0.2941
+        "gl": 23,
+        "prc": 0.451
       },
       "prestetih_glasov": null
     },
@@ -1905,9 +1905,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T17:20:10.715Z",
-    "datum": "2024-06-09T17:30:00Z",
-    "cas_udelezba": "16:00",
+    "timestamp": "2024-06-09T21:10:15.886Z",
+    "datum": "2024-06-09T21:10:00Z",
+    "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
