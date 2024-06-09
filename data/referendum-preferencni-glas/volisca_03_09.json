@@ -154,25 +154,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 217,
+            "prc": 0.841085
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 41,
+            "prc": 0.158915
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 268,
+        "velj": 258,
+        "nev": 10
       },
       "udel": {
         "upr": 646,
-        "gl": 80,
-        "prc": 0.1238
+        "gl": 268,
+        "prc": 0.4149
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 9,
@@ -596,8 +596,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T22:35:39.108Z",
-    "datum": "2024-06-09T22:35:00Z",
+    "timestamp": "2024-06-09T22:40:15.241Z",
+    "datum": "2024-06-09T22:40:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

@@ -493,8 +493,8 @@
       "rez": null,
       "udel": {
         "upr": 277,
-        "gl": 72,
-        "prc": 0.2599
+        "gl": 90,
+        "prc": 0.3249
       },
       "prestetih_glasov": null
     },
@@ -1161,8 +1161,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T22:35:32.736Z",
-    "datum": "2024-06-09T22:35:00Z",
+    "timestamp": "2024-06-09T22:40:24.463Z",
+    "datum": "2024-06-09T22:40:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": false,
