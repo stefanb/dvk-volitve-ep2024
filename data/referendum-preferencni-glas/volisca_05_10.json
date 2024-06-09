@@ -10,305 +10,1048 @@
       "st": 23,
       "rpeid": "023",
       "naz": "\"KMETIJA LIZI\",  Zelen breg 8, Ravne na Koroškem",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 149,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "rpeid": "014",
       "naz": "Brdinje-Podvratnik, Brdinje 78, Ravne na Koroškem",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 422,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "rpeid": "021",
       "naz": "Čistilna naprava Ravne, Dobrije 9a, Ravne na Kor.",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 336,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "rpeid": "025",
       "naz": "Dobja vas - MPIK1, Dobja vas 185, Ravne na Kor.",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 649,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "rpeid": "028",
       "naz": "Družbeni dom Prevalje 1, Trg 2a, Prevalje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 570,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "rpeid": "029",
       "naz": "Družbeni dom Prevalje 2, Trg 2a, Prevalje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 555,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "rpeid": "030",
       "naz": "Družbeni dom Prevalje 3, Trg 2a, Prevalje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 779,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "rpeid": "031",
       "naz": "Družbeni dom Prevalje 4, Trg 2a, Prevalje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 426,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "rpeid": "036",
       "naz": "Gasilski dom Kotlje, Kotlje 4a, Kotlje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 603,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "rpeid": "006",
       "naz": "Helena-Pisarna Vaške Skupnosti, Podpeca 21, Črna",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 82,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "rpeid": "009",
       "naz": "Knjižnica Žerjav, Žerjav 21, Črna na Koroškem",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 287,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "rpeid": "002",
       "naz": "Koroška kmetijska zadruga, Rudarjevo 5a, Črna ",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 664,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "rpeid": "012",
       "naz": "Narodni dom Mežica , Trg 4.aprila 4, Mežica",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1250,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "rpeid": "001",
       "naz": "Občina Črna na Koroškem, Center 101",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1063,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "rpeid": "011",
       "naz": "Občina Mežica, Trg svobode 1, Mežica",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1464,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "rpeid": "019",
       "naz": "Občina Ravne na Koroškem 1, Gačnikova pot 5, Ravne",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 936,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "rpeid": "020",
       "naz": "Občina Ravne na Koroškem 2, Gačnikova pot 5, Ravne",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 252,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "rpeid": "035",
       "naz": "OŠ Holmec, Dolga brda 37a, Prevalje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 367,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "rpeid": "004",
       "naz": "OŠ Koprivna, Koprivna 10, Črna na Koroškem",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 115,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "rpeid": "015",
       "naz": "Oš Koroški jeklarji 1, Javornik 35, Ravne na K.",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1062,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "rpeid": "016",
       "naz": "Oš Koroški jeklarji 2, Javornik 35, Ravne na K.",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1042,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "rpeid": "034",
       "naz": "OŠ Leše, Leše 30, Prevalje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 459,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "rpeid": "026",
       "naz": "Oš Prevalje 1, Polje 4, Prevalje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 591,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "rpeid": "027",
       "naz": "Oš Prevalje 2, Polje 4, Prevalje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 964,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "rpeid": "017",
       "naz": "OŠ Prežihovega Voranca 1, Gozdarska pot 11, Ravne",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 795,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "rpeid": "018",
       "naz": "OŠ Prežihovega Voranca 2, Gozdarska pot 11, Ravne",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 812,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "rpeid": "033",
       "naz": "OŠ Šentanel, Šentanel 13, Prevalje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 285,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "rpeid": "024",
       "naz": "OŠ Strojna, Strojna 22, Ravne na Koroškem",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 97,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "rpeid": "032",
       "naz": "Poljana - Bistro kocka, Poljana 20a, Prevalje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 151,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "rpeid": "005",
       "naz": "Prhanija-Ludranski Vrh, Ludranski vrh 13a, Črna ",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 54,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "rpeid": "008",
       "naz": "Pri Juvanu, Javorje 24, Črna na Koroškem",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 67,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "rpeid": "010",
       "naz": "Pri Karničniku v Jazbini, Jazbina 13, Črna na K.",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 32,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "rpeid": "003",
       "naz": "Pri Plazniku V Bistri, Bistra 14, Črna na Koroškem",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 70,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "rpeid": "022",
       "naz": "Strojnska Reka - Mladinski dom, Stražišče 15",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 690,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "rpeid": "007",
       "naz": "TIC Topla, Podpeca 78, Črna na Koroškem",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 70,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "rpeid": "013",
       "naz": "Večnamenska dvorana Kotlje, Kotlje 7k, Kotlje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 953,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
-    "has_rezultat": false,
+    "timestamp": "2024-06-09T20:55:29.937Z",
+    "datum": "2024-06-09T20:55:00Z",
+    "cas_udelezba": "19:00",
+    "has_udelezba": true,
+    "has_rezultat": true,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

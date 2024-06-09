@@ -10,177 +10,600 @@
       "st": 15,
       "rpeid": "015",
       "naz": "Dom občanov Fužine, Preglov trg 15",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 895,
+        "gl": 120,
+        "prc": 0.1341
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 16,
       "rpeid": "016",
       "naz": "Dom občanov Fužine, Preglov trg 15",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 793,
+        "gl": 89,
+        "prc": 0.1122
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 5,
       "rpeid": "005",
       "naz": "OŠ Božidarja Jakca, Nusdorferjeva ul. 10",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 638,
+        "gl": 80,
+        "prc": 0.1254
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 7,
       "rpeid": "007",
       "naz": "OŠ Božidarja Jakca, Nusdorferjeva ul. 10",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 678,
+        "gl": 76,
+        "prc": 0.1121
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 8,
       "rpeid": "008",
       "naz": "OŠ Božidarja Jakca, Nusdorferjeva ul. 10",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 607,
+        "gl": 63,
+        "prc": 0.1038
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 10,
       "rpeid": "010",
       "naz": "OŠ Božidarja Jakca, Nusdorferjeva ul. 10",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 925,
+        "gl": 139,
+        "prc": 0.1503
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 11,
       "rpeid": "011",
       "naz": "OŠ Božidarja Jakca, Nusdorferjeva ul. 10",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 499,
+        "gl": 55,
+        "prc": 0.1102
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 12,
       "rpeid": "012",
       "naz": "OŠ Božidarja Jakca, Nusdorferjeva ul. 10",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 348,
+        "gl": 61,
+        "prc": 0.1753
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 1,
       "rpeid": "001",
       "naz": "OŠ Karla Destovnika Kajuha, Jakčeva ul. 42",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 478,
+        "gl": 59,
+        "prc": 0.1234
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 2,
       "rpeid": "002",
       "naz": "OŠ Karla Destovnika Kajuha, Jakčeva ul. 42",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 449,
+        "gl": 48,
+        "prc": 0.1069
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 3,
       "rpeid": "003",
       "naz": "OŠ Karla Destovnika Kajuha, Jakčeva ul. 42",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 526,
+        "gl": 58,
+        "prc": 0.1103
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 4,
       "rpeid": "004",
       "naz": "OŠ Karla Destovnika Kajuha, Jakčeva ul. 42",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 539,
+        "gl": 67,
+        "prc": 0.1243
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 13,
       "rpeid": "013",
       "naz": "OŠ Martina Krpana, Gašperšičeva ul. 10",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 788,
+        "gl": 91,
+        "prc": 0.1155
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 14,
       "rpeid": "014",
       "naz": "OŠ Martina Krpana, Gašperšičeva ul. 10",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 762,
+        "gl": 105,
+        "prc": 0.1378
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 17,
       "rpeid": "017",
       "naz": "OŠ Nove Fužine, Preglov trg 8",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 665,
+        "gl": 60,
+        "prc": 0.0902
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 18,
       "rpeid": "018",
       "naz": "OŠ Nove Fužine, Preglov trg 8",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 977,
+        "gl": 230,
+        "prc": 0.2354
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 19,
       "rpeid": "019",
       "naz": "OŠ Nove Fužine, Preglov trg 8",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1004,
+        "gl": 116,
+        "prc": 0.1155
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 21,
       "rpeid": "021",
       "naz": "OŠ Nove Fužine, Preglov trg 8",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 924,
+        "gl": 115,
+        "prc": 0.1245
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 20,
       "rpeid": "020",
       "naz": "SŠ za Gastronomijo in turizem Lj., Preglov trg 9",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 775,
+        "gl": 75,
+        "prc": 0.0968
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 22,
       "rpeid": "022",
       "naz": "SŠ za Gastronomijo in turizem Lj., Preglov trg 9",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 744,
+        "gl": 22,
+        "prc": 0.0296
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 901,
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
-    "has_rezultat": false,
+    "timestamp": "2024-06-09T20:55:26.833Z",
+    "datum": "2024-06-09T20:55:00Z",
+    "cas_udelezba": "19:00",
+    "has_udelezba": true,
+    "has_rezultat": true,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

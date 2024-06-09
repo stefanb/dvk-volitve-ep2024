@@ -10,337 +10,1188 @@
       "st": 17,
       "rpeid": "017",
       "naz": "BIVŠA OSNOVNA ŠOLA PODKRAJ",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 102,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "rpeid": "013",
       "naz": "BIVŠA OSNOVNA ŠOLA TURJE",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 366,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "rpeid": "036",
       "naz": "CEMENTARNA HOLCIM d.o.o., KOLODVORSKA C. 5",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 328,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "rpeid": "022",
       "naz": "Delavski Dom Trbovlje, Trg svobode 11a, avla doma",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 927,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "rpeid": "023",
       "naz": "DKD Svoboda Dobrna, Ribnik 17",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 260,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "rpeid": "039",
       "naz": "Dom Tončke Čeč, Klek 32",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 381,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "rpeid": "025",
       "naz": "Dom upokojencev Franc Salamon, Kol.1.maja 21",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1047,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "rpeid": "002",
       "naz": "DRUŠTVO UPOKOJENCEV HRASTNIK, N.A. Kaple 6a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 413,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "rpeid": "003",
       "naz": "GALERIJA DELAVSKEGA DOMA HRASTNIK",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 510,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "rpeid": "037",
       "naz": "Gasilski dom Čeče, Čeče 4/a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 438,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "rpeid": "031",
       "naz": "Gasilsko društvoTrbovlje, Savinjska cesta 35",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 529,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "rpeid": "006",
       "naz": "GLASBENA ŠOLA HRASTNIK",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 279,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "rpeid": "030",
       "naz": "JP Komunala Trbovlje, Savinjska cesta 11a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 621,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "rpeid": "029",
       "naz": "KD Svoboda Trbovlje, Trg Franca Fakina 4",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 671,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "rpeid": "001",
       "naz": "KNJIŽNICA ANTONA SOVRETA , Trg Franca Kozarja 7",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 644,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "rpeid": "014",
       "naz": "KRAJEVNA SKUPNOST KOVK",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 96,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "rpeid": "021",
       "naz": "OŠ ALOJZA HOHKRAUTA, TRG REVOLUCIJE 19, TRBOVLJE",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 901,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "rpeid": "009",
       "naz": "OŠ NH RAJKA HRASTNIK, PODRUŽNICA DOL PRI HRASTNIK",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 609,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "rpeid": "010",
       "naz": "OŠ NH RAJKA HRASTNIK, PODRUŽNICA DOL PRI HRASTNIKU",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 721,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "rpeid": "020",
       "naz": "Osnovna šola Alojza Hohkrauta, Trg  revolucije 19",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1037,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "rpeid": "004",
       "naz": "OSNOVNA ŠOLA NARODNEGA HEROJA RAJKA HRASTNIK",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 845,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "rpeid": "005",
       "naz": "OSNOVNA ŠOLA NARODNEGA HEROJA RAJKA HRASTNIK",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 693,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "rpeid": "026",
       "naz": "Osnovna šola Tončke Čeč, Keršičeva cesta 50",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 76,
+            "prc": 0.76
+          },
+          {
+            "st": 0,
+            "gl": 24,
+            "prc": 0.24
+          }
+        ],
+        "glas": 101,
+        "velj": 100,
+        "nev": 1
+      },
+      "udel": {
+        "upr": 313,
+        "gl": 101,
+        "prc": 0.3227
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 34,
       "rpeid": "034",
       "naz": "Osnovna šola Trbovlje, Mestni trg 6, telovadnica",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 538,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "rpeid": "015",
       "naz": "prostori DRUŽINE MEJAČ, ŠAVNA PEČ 5",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 76,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "rpeid": "012",
       "naz": "prostori KRAJEVNE SKUPNOSTI MARNO, MARNO 44 A",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 455,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "rpeid": "011",
       "naz": "prostori PLANINSKEGA DOMA NA KALU",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 33,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "rpeid": "016",
       "naz": "prostori STANOVANJSKE HIŠE KMETIČ, KRNICE 15b",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 114,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "rpeid": "038",
       "naz": "Prostovoljno gasilsko društvo Dobovec, Dobovec 24",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 396,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "rpeid": "032",
       "naz": "ŠD Rudar, Rudarska cesta 6, vhod spodaj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 522,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "rpeid": "028",
       "naz": "Sejna dvorana Občine Trbovlje, Mestni trg 4",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 946,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "rpeid": "033",
       "naz": "Sejna dvorana Občine Trbovlje, Mestni trg 4",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 680,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "rpeid": "035",
       "naz": "Sejna soba KS Franc Salamon, Gabrsko 40/a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 472,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "rpeid": "040",
       "naz": "Šola na Sveti Planini, Sveta Planina 28",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 102,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "rpeid": "027",
       "naz": "Srednja tehniška in poklicna šola, Novi dom 60",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 787,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "rpeid": "024",
       "naz": "Srednja tehniška in poklicna šola, Šuštarjeva 7a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 630,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "rpeid": "008",
       "naz": "VEČNAMENSKI OBJEKT PODKRAJ 91 A",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 382,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "rpeid": "019",
       "naz": "ZADRUŽNI DOM ČEČE",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 410,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "rpeid": "018",
       "naz": "ZADRUŽNI DOM PRAPRETNO",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 191,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "rpeid": "007",
       "naz": "ZB ZA VREDNOTE NOB HRASTNIK, Cesta 1. maja 52",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 208,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
+      "prestetih_glasov": null
+    },
+    {
+      "st": 902,
+      "rpeid": "902",
+      "naz": "Predčasno glasovanje - Hrastnik",
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
-    "has_rezultat": false,
+    "timestamp": "2024-06-09T20:56:09.465Z",
+    "datum": "2024-06-09T20:55:00Z",
+    "cas_udelezba": "19:00",
+    "has_udelezba": true,
+    "has_rezultat": true,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

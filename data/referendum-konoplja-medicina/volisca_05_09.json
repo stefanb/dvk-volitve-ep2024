@@ -10,217 +10,740 @@
       "st": 7,
       "rpeid": "007",
       "naz": "Bivši MKC, Celjska c. 22",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 992,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "rpeid": "019",
       "naz": "Bučinek Šmiklavž, Vodriž 6",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 290,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "rpeid": "008",
       "naz": "DU Slovenj Gradec, Šolska ul. 10",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1350,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "rpeid": "013",
       "naz": "Gradišče Prošt, Gradišče 38",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 263,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "rpeid": "003",
       "naz": "KD Šentilj, Šentilj pod Turjakom 45",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 600,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "rpeid": "011",
       "naz": "KD Stari Trg, Stari trg 32",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1169,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "rpeid": "015",
       "naz": "Klančnik Sele, Sele 21",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 39,
+            "prc": 0.696429
+          },
+          {
+            "st": 0,
+            "gl": 17,
+            "prc": 0.303571
+          }
+        ],
+        "glas": 56,
+        "velj": 56,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 143,
+        "gl": 56,
+        "prc": 0.3916
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 6,
       "rpeid": "006",
       "naz": "OŠ Dolič, Srednji Dolič 4",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 652,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "rpeid": "012",
       "naz": "OŠ Pameče, Pameče 134",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1355,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "rpeid": "016",
       "naz": "OŠ Podgorje, Podgorje 172",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 811,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "rpeid": "017",
       "naz": "OŠ Razbor, Zgornji Razbor 8",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 202,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "rpeid": "014",
       "naz": "OŠ Sele Vrhe, Sele 1",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 493,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "rpeid": "004",
       "naz": "OŠ Završe, Završe 55",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 280,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "rpeid": "002",
       "naz": "PC Lopan, Šolska c. 55",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1410,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "rpeid": "001",
       "naz": "PGD Dovže, Dovže 50",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 425,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "rpeid": "022",
       "naz": "PGD Golavabuka, Tomaška vas 7",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 175,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "rpeid": "023",
       "naz": "PGD Legen, Legen 126",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 783,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "rpeid": "020",
       "naz": "PGD Šmartno, Šmartno pri Slov. Gradcu 70",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1275,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "rpeid": "021",
       "naz": "PGD Turiška vas, Turiška vas 19B",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 989,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "rpeid": "018",
       "naz": "Praprotnik Rihter, Spodnji Razbor 48",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 43,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "rpeid": "010",
       "naz": "Prva OŠ, Šercerjeva ul. 7",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1131,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "rpeid": "005",
       "naz": "ŠD Dolič, Gornji Dolič 42A",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 445,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "rpeid": "009",
       "naz": "VDC Slovenj Gradec, Prešernova ul. 3B",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 857,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "rpeid": "024",
       "naz": "Vornšek Raduše, Raduše 36",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 195,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "rpeid": "025",
       "naz": "Vrtec Slovenj Gradec, Maistrova ul. 2A",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 986,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
-    "has_rezultat": false,
+    "timestamp": "2024-06-09T20:56:09.465Z",
+    "datum": "2024-06-09T20:55:00Z",
+    "cas_udelezba": "19:00",
+    "has_udelezba": true,
+    "has_rezultat": true,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

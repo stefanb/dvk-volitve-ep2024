@@ -10,249 +10,852 @@
       "st": 16,
       "rpeid": "016",
       "naz": "Babinci/Noršinci-Gasilski dom Babinci, Babinci 20",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 400,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "rpeid": "009",
       "naz": "Bučečovci-Gasilski dom, Bučečovci 19",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 257,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "rpeid": "001",
       "naz": "Cezanjevci-Gasilski dom, Cezanjevci 46a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 319,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "rpeid": "003",
       "naz": "Cven-Gasilski dom, Cven 49a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 481,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "rpeid": "005",
       "naz": "Krapje-Gasilski dom Sp. Krapje, Krapje 43",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 247,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "rpeid": "007",
       "naz": "Kulturni dom Križevci pri Ljutomeru 11",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 844,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "rpeid": "013",
       "naz": "Ljutomer-Dom kulture, Prešernova ulica 20",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 938,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "rpeid": "015",
       "naz": "Ljutomer-Dom upokojencev, Ormoška cesta 33",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1070,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "rpeid": "014",
       "naz": "Ljutomer-Gimnazija F.Miklošiča, Prešernova ul. 34",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 533,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "rpeid": "018",
       "naz": "Logarovci-bivša KS, Logarovci 22",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 479,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "rpeid": "012",
       "naz": "Lukavci-Gasilski dom, Lukavci 8",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 322,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "rpeid": "019",
       "naz": "Mala Nedelja-Kulturni dom, Mala Nedelja 21",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 626,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "rpeid": "020",
       "naz": "Moravci v Sl.gor.-Bioterme, Moravci v Sl. gor.34b",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 303,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "rpeid": "004",
       "naz": "Mota-Gasilski dom, Mota 16b",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 280,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "rpeid": "028",
       "naz": "Podgradje-Gasilski dom, Podgradje 17",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 508,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "rpeid": "027",
       "naz": "Pristava-Gasilski dom, Pristava 30d",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 195,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "rpeid": "022",
       "naz": "Radomerje-Gasilski dom, Radomerje 2",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 560,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "rpeid": "021",
       "naz": "Radoslavci-Gasilski dom, Radoslavci 15c",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 450,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "rpeid": "023",
       "naz": "Šafarsko-Dom kulture, Šafarsko 42",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 613,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "rpeid": "006",
       "naz": "Šalinci-Gasilski dom, Šalinci 29",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 294,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "rpeid": "011",
       "naz": "SKZ Ljutomer-Križevci,Ključarovci pri Ljutomeru 6",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 375,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "rpeid": "017",
       "naz": "Sp. Kamenščak-Gasillski dom, Sp. Kamenščak 35f",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 322,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "rpeid": "025",
       "naz": "Stara cesta-Gasilski dom Mekotnjak, Mekotnjak 29",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 520,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "rpeid": "008",
       "naz": "Stara Nova vas-Gasilski dom, Stara Nova vas 27a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 318,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "rpeid": "026",
       "naz": "Stročja vas-Osnovna šola, Stročja vas 101",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 785,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "rpeid": "029",
       "naz": "Veržej-Občina Veržej, Ul. bratstva in enotnosti 8",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1121,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "rpeid": "024",
       "naz": "Veščica-Gostilna Marinka,Veščica 5",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 378,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "rpeid": "002",
       "naz": "Vogričevci-Gasilski dom,Vogričevci 13a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 71,
+            "prc": 0.70297
+          },
+          {
+            "st": 0,
+            "gl": 30,
+            "prc": 0.29703
+          }
+        ],
+        "glas": 103,
+        "velj": 101,
+        "nev": 2
+      },
+      "udel": {
+        "upr": 256,
+        "gl": 103,
+        "prc": 0.4023
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 10,
       "rpeid": "010",
       "naz": "Vučja vas-Gasilski dom, Vučja vas 2",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 41,
+            "prc": 0.683333
+          },
+          {
+            "st": 0,
+            "gl": 19,
+            "prc": 0.316667
+          }
+        ],
+        "glas": 61,
+        "velj": 60,
+        "nev": 1
+      },
+      "udel": {
+        "upr": 182,
+        "gl": 61,
+        "prc": 0.3352
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 901,
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
-    "has_rezultat": false,
+    "timestamp": "2024-06-09T20:56:09.465Z",
+    "datum": "2024-06-09T20:55:00Z",
+    "cas_udelezba": "19:00",
+    "has_udelezba": true,
+    "has_rezultat": true,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

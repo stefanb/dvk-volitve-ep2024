@@ -10,505 +10,1748 @@
       "st": 80,
       "rpeid": "080",
       "naz": "Črnomelj trgovina NINA,Prečna ul.4, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 91,
+            "prc": 0.654676
+          },
+          {
+            "st": 0,
+            "gl": 48,
+            "prc": 0.345324
+          }
+        ],
+        "glas": 140,
+        "velj": 139,
+        "nev": 1
+      },
+      "udel": {
+        "upr": 336,
+        "gl": 140,
+        "prc": 0.4167
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 38,
       "rpeid": "038",
       "naz": "Desinec pri S. Sedlarju, Desinec 1a,8340 Črnomelj",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 30,
+            "prc": 0.789474
+          },
+          {
+            "st": 0,
+            "gl": 8,
+            "prc": 0.210526
+          }
+        ],
+        "glas": 40,
+        "velj": 38,
+        "nev": 2
+      },
+      "udel": {
+        "upr": 129,
+        "gl": 40,
+        "prc": 0.3101
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 47,
       "rpeid": "047",
       "naz": "DK Božakovo, Božakovo 24, 8330 Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 175,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "rpeid": "043",
       "naz": "DK Vinica, Vinica 44, 8344 Vinica ",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 682,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "rpeid": "007",
       "naz": "DO Črnomelj, Ulica 21.oktobra 10, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 976,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "rpeid": "045",
       "naz": "GD Bojanci, Bojanci 1, 8344 Vinica",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 70,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "rpeid": "016",
       "naz": "GD Butoraj, Butoraj 29, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 66,
+            "prc": 0.758621
+          },
+          {
+            "st": 0,
+            "gl": 21,
+            "prc": 0.241379
+          }
+        ],
+        "glas": 91,
+        "velj": 87,
+        "nev": 4
+      },
+      "udel": {
+        "upr": 165,
+        "gl": 91,
+        "prc": 0.5515
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 69,
       "rpeid": "069",
       "naz": "GD Cerovec pri Črešnjevcu,Cerov. pri Črešnjevcu 4",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 203,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 68,
       "rpeid": "068",
       "naz": "GD Črmošnjice, Črmošnjice 24, 8333 Semič",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 45,
+            "prc": 0.75
+          },
+          {
+            "st": 0,
+            "gl": 15,
+            "prc": 0.25
+          }
+        ],
+        "glas": 60,
+        "velj": 60,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 228,
+        "gl": 60,
+        "prc": 0.2632
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 67,
       "rpeid": "067",
       "naz": "GD D. Suhor pri Metliki, D. Suhor pri Metliki 25",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 760,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "rpeid": "017",
       "naz": "GD Dobliče, Dobliče 22, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 396,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 53,
       "rpeid": "053",
       "naz": "GD Dolnja Lokvica, Do. Lokvica 2a, 8330 Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 308,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 49,
       "rpeid": "049",
       "naz": "GD Drašiči, Drašiči 35, 8330 Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 229,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 50,
       "rpeid": "050",
       "naz": "GD Grabrovec, Grabrovec 3, 8330 Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 136,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 51,
       "rpeid": "051",
       "naz": "GD Gradac, Gradac 142, 8332 Gradac",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 376,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "rpeid": "039",
       "naz": "GD Hrast pri Vinici, H. pri Vinici 18,8344 Vinica",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 169,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 62,
       "rpeid": "062",
       "naz": "GD Krasinec, Krasinec 3b, 8332 Gradac",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 150,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 48,
       "rpeid": "048",
       "naz": "GD Krivoglavice, Krivoglavice 10, 8332 Gradac",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 177,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "rpeid": "036",
       "naz": "GD Mavrlen, Mavrlen 2a, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 386,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 55,
       "rpeid": "055",
       "naz": "GD Metlika, Črnomaljska c. 3, 8330 Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 331,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "rpeid": "035",
       "naz": "GD Otovec, Otovec 4a, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 117,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "rpeid": "027",
       "naz": "GD Petrova vas, Mihelja vas 4, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 310,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 61,
       "rpeid": "061",
       "naz": "GD Podzemelj, Podzemelj 16b, 8332 Gradac",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 526,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "rpeid": "040",
       "naz": "GD Preloka, Preloka 17, 8344 Vinica",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 36,
+            "prc": 0.631579
+          },
+          {
+            "st": 0,
+            "gl": 21,
+            "prc": 0.368421
+          }
+        ],
+        "glas": 57,
+        "velj": 57,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 87,
+        "gl": 57,
+        "prc": 0.6552
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 31,
       "rpeid": "031",
       "naz": "GD Radenci, G. Radenci 7a,8242 Stari trg ob Kolpi",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 66,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "rpeid": "034",
       "naz": "GD Rodine, Rodine 14a, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 38,
+            "prc": 0.703704
+          },
+          {
+            "st": 0,
+            "gl": 16,
+            "prc": 0.296296
+          }
+        ],
+        "glas": 54,
+        "velj": 54,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 131,
+        "gl": 54,
+        "prc": 0.4122
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 65,
       "rpeid": "065",
       "naz": "GD Rosalnice, Rosalnice 80, 8330 Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 583,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 75,
       "rpeid": "075",
       "naz": "GD Rožni Dol, Rožni Dol 5, 8333 Semič",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 107,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 52,
       "rpeid": "052",
       "naz": "GD Sela pri Jugorju, S. pri Jugorju 2, 8331 Suhor",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 91,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 66,
       "rpeid": "066",
       "naz": "GD Slamna vas, Slamna vas 8a, 8330 Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 128,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 71,
       "rpeid": "071",
       "naz": "GD Spodnje Gorenjce, Sp.Gorenjce 32, 8333 Semič",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 430,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 76,
       "rpeid": "076",
       "naz": "GD Stranska vas pri Semiču,Praprot 15, 8333 Semič",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 224,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "rpeid": "022",
       "naz": "GD Tanča Gora, Tanča Gora 17b, 8343 Dragatuš",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 403,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "rpeid": "037",
       "naz": "GD Tribuče, Tribuče 34a, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 77,
+            "prc": 0.762376
+          },
+          {
+            "st": 0,
+            "gl": 24,
+            "prc": 0.237624
+          }
+        ],
+        "glas": 103,
+        "velj": 101,
+        "nev": 2
+      },
+      "udel": {
+        "upr": 243,
+        "gl": 103,
+        "prc": 0.4239
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 6,
       "rpeid": "006",
       "naz": "GD Vranoviči, Vranoviči 17, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 30,
+            "prc": 0.576923
+          },
+          {
+            "st": 0,
+            "gl": 22,
+            "prc": 0.423077
+          }
+        ],
+        "glas": 54,
+        "velj": 52,
+        "nev": 2
+      },
+      "udel": {
+        "upr": 106,
+        "gl": 54,
+        "prc": 0.5094
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 44,
       "rpeid": "044",
       "naz": "GD Zilje, Zilje 37, 8344 Vinica",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 149,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "rpeid": "015",
       "naz": "GD Žuniči, Žuniči 1a, 8341 Adlešiči",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 21,
+            "prc": 0.65625
+          },
+          {
+            "st": 0,
+            "gl": 11,
+            "prc": 0.34375
+          }
+        ],
+        "glas": 32,
+        "velj": 32,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 74,
+        "gl": 32,
+        "prc": 0.4324
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 73,
       "rpeid": "073",
       "naz": "KC Semič, Prosvetna ul. 4, 8333 Semič",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1225,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "rpeid": "011",
       "naz": "KD Adlešiči, Adlešiči 13a, 8341 Adlešiči",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 577,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "rpeid": "020",
       "naz": "KD Dragatuš, Dragatuš 19a, 8343 Dragatuš",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 469,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "rpeid": "029",
       "naz": "KS Sinji Vrh, Sinji Vrh 1a, 8344 Vinica",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 184,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "rpeid": "026",
       "naz": "Lokve Bar Nina Bela, Lokve 9a, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 370,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "rpeid": "023",
       "naz": "M.Nerajec pri F.Panjanu,M.Nerajec 8,8343 Dragatuš",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 282,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 54,
       "rpeid": "054",
       "naz": "MC Metlika, CBE 43, 8330  Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 503,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 56,
       "rpeid": "056",
       "naz": "Metlika STATUS doo, Ul.Bel.odreda 19, 8330 Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 683,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 72,
       "rpeid": "072",
       "naz": "Nestoplja vas pri M.Pečavarju, Nestoplja vas 1",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 29,
+            "prc": 0.630435
+          },
+          {
+            "st": 0,
+            "gl": 17,
+            "prc": 0.369565
+          }
+        ],
+        "glas": 48,
+        "velj": 46,
+        "nev": 2
+      },
+      "udel": {
+        "upr": 115,
+        "gl": 48,
+        "prc": 0.4174
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 59,
       "rpeid": "059",
       "naz": "OOZ Metlika, Partizanski trg 5, 8330 Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 505,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "rpeid": "024",
       "naz": "OŠ Griblje, Griblje 38, 8332 Gradac",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 323,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "rpeid": "001",
       "naz": "OŠ Loka, Kidričeva ul. 18, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 611,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "rpeid": "004",
       "naz": "OŠ M. Jarca, Ul. O. Župančiča 8, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 874,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 64,
       "rpeid": "064",
       "naz": "OŠ Radovica, Radovica 23, 8330 Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 337,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "rpeid": "032",
       "naz": "OŠ Stari trg ob Kolpi, Stari trg ob Kolpi 7",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 162,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "rpeid": "033",
       "naz": "OŠ Zagozdac, Zagozdac bš, 8342 Stari trg ob Kolpi",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 10,
+            "prc": 0.434783
+          },
+          {
+            "st": 0,
+            "gl": 13,
+            "prc": 0.565217
+          }
+        ],
+        "glas": 24,
+        "velj": 23,
+        "nev": 1
+      },
+      "udel": {
+        "upr": 43,
+        "gl": 24,
+        "prc": 0.5581
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 74,
       "rpeid": "074",
       "naz": "Osojnik pri R.Kondi, Osojnik 15, 8333 Semič",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 143,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "rpeid": "010",
       "naz": "OV Čardak, Čardak 1, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 972,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 58,
       "rpeid": "058",
       "naz": "OV Metlika, Župančičeva c. 1 , 8330 Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 462,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "rpeid": "018",
       "naz": "Picerija PRI DELIČU, Kanižarica 15a, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 557,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 77,
       "rpeid": "077",
       "naz": "POŠ Štrekljevec, Štrekljevec 2, 8333 Semič",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 437,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "rpeid": "002",
       "naz": "ŠDNŠ Bela krajina, Pri stadionu 2, 8340 Črnomelj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 525,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "rpeid": "041",
       "naz": "Stara Lipa pri J. Tomecu, S. Lipa 1a, 8344 Vinica",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 31,
+            "prc": 0.402597
+          },
+          {
+            "st": 0,
+            "gl": 46,
+            "prc": 0.597403
+          }
+        ],
+        "glas": 77,
+        "velj": 77,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 180,
+        "gl": 77,
+        "prc": 0.4278
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 901,
       "rpeid": "901",
       "naz": "Predčasno glasovanje UE Črnomelj",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 902,
       "rpeid": "902",
       "naz": "Predčasno glasovanje UE Metlika",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
-    "has_rezultat": false,
+    "timestamp": "2024-06-09T20:55:29.937Z",
+    "datum": "2024-06-09T20:55:00Z",
+    "cas_udelezba": "19:00",
+    "has_udelezba": true,
+    "has_rezultat": true,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

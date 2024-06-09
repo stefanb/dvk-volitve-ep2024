@@ -10,153 +10,516 @@
       "st": 9,
       "rpeid": "009",
       "naz": "AMD Boris Kidrič, Ul. heroja Zidanška 8",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 983,
+        "gl": 210,
+        "prc": 0.2136
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 10,
       "rpeid": "010",
       "naz": "Dom Lizike Jančar, Titova c. 24a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1218,
+        "gl": 273,
+        "prc": 0.2241
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 11,
       "rpeid": "011",
       "naz": "Dom Lizike Jančar, Titova c. 24a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 925,
+        "gl": 259,
+        "prc": 0.28
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 12,
       "rpeid": "012",
       "naz": "Dom Lizike Jančar, Titova c. 24a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 764,
+        "gl": 157,
+        "prc": 0.2055
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 8,
       "rpeid": "008",
       "naz": "MČ Magdalena, Preradovičeva ul. 1",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 582,
+        "gl": 143,
+        "prc": 0.2457
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 13,
       "rpeid": "013",
       "naz": "OŠ borcev za severno mejo, Borcev za sev.mejo 16",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1114,
+        "gl": 273,
+        "prc": 0.2451
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 15,
       "rpeid": "015",
       "naz": "OŠ Draga Kobala, Tolstojeva ul. 3",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 936,
+        "gl": 241,
+        "prc": 0.2575
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 16,
       "rpeid": "016",
       "naz": "OŠ Draga Kobala, Tolstojeva ul. 3",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1063,
+        "gl": 280,
+        "prc": 0.2634
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 14,
       "rpeid": "014",
       "naz": "OŠ Draga Kobala, Tolstojeva ul.3",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 932,
+        "gl": 205,
+        "prc": 0.22
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 17,
       "rpeid": "017",
       "naz": "OŠ Draga Kobala, Tolstojeva ul.3",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 520,
+        "gl": 99,
+        "prc": 0.1904
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 1,
       "rpeid": "001",
       "naz": "OŠ Janko Padežnik, Iztokova ul.6",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 697,
+        "gl": 156,
+        "prc": 0.2238
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 2,
       "rpeid": "002",
       "naz": "OŠ Janko Padežnik, Iztokova ul.6",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 941,
+        "gl": 249,
+        "prc": 0.2646
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 3,
       "rpeid": "003",
       "naz": "Prometna šola, Preradovičeva ul.33",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1162,
+        "gl": 311,
+        "prc": 0.2676
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 4,
       "rpeid": "004",
       "naz": "Prometna šola, Preradovičeva ul.33",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1060,
+        "gl": 291,
+        "prc": 0.2745
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 5,
       "rpeid": "005",
       "naz": "Prometna šola, Preradovičeva ul.33",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 699,
+        "gl": 168,
+        "prc": 0.2403
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 6,
       "rpeid": "006",
       "naz": "Prometna šola, Preradovičeva ul.33",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1132,
+        "gl": 270,
+        "prc": 0.2385
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 7,
       "rpeid": "007",
       "naz": "Prometna šola, Preradovičeva ul.33",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 775,
+        "gl": 150,
+        "prc": 0.1935
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 901,
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
-    "has_rezultat": false,
+    "timestamp": "2024-06-09T20:55:26.833Z",
+    "datum": "2024-06-09T20:55:00Z",
+    "cas_udelezba": "19:00",
+    "has_udelezba": true,
+    "has_rezultat": true,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

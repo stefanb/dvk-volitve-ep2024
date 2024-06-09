@@ -7,121 +7,457 @@
             "st": 1,
             "rpeid": "1001",
             "naz": "VO 1001 - JESENICE",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 164,
+                  "prc": 0.503067
+                },
+                {
+                  "st": 0,
+                  "gl": 162,
+                  "prc": 0.496933
+                }
+              ],
+              "glas": 332,
+              "velj": 326,
+              "nev": 6
+            },
+            "udel": {
+              "upr": 26021,
+              "gl": 332,
+              "prc": 0.0128
+            },
+            "udel_11": {
+              "upr": 26021,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 26021,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
             "rpeid": "1002",
             "naz": "VO 1002 - RADOVLJICA 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 13436,
+              "gl": 4035,
+              "prc": 0.3003
+            },
+            "udel_11": {
+              "upr": 13436,
+              "gl": 1988,
+              "prc": 0.148
+            },
+            "udel_16": {
+              "upr": 13436,
+              "gl": 4035,
+              "prc": 0.3003
+            },
+            "prestetih_glasov": 0
           },
           {
             "st": 3,
             "rpeid": "1003",
             "naz": "VO 1003 - RADOVLJICA 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 15905,
+              "gl": 4393,
+              "prc": 0.2762
+            },
+            "udel_11": {
+              "upr": 15905,
+              "gl": 1935,
+              "prc": 0.1217
+            },
+            "udel_16": {
+              "upr": 15905,
+              "gl": 4393,
+              "prc": 0.2762
+            },
+            "prestetih_glasov": 0
           },
           {
             "st": 4,
             "rpeid": "1004",
             "naz": "VO 1004 - KRANJ 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 20293,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 20293,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 20293,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 5,
             "rpeid": "1005",
             "naz": "VO 1005 - KRANJ 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 20348,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 20348,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 20348,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 6,
             "rpeid": "1006",
             "naz": "VO 1006 - KRANJ 3",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 16,
+                  "prc": 0.271186
+                },
+                {
+                  "st": 0,
+                  "gl": 43,
+                  "prc": 0.728814
+                }
+              ],
+              "glas": 62,
+              "velj": 59,
+              "nev": 3
+            },
+            "udel": {
+              "upr": 24413,
+              "gl": 62,
+              "prc": 0.0025
+            },
+            "udel_11": {
+              "upr": 24413,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 24413,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
             "rpeid": "1007",
             "naz": "VO 1007 - TRŽIČ",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 12413,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 12413,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 12413,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 8,
             "rpeid": "1008",
             "naz": "VO 1008 - ŠKOFJA LOKA 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 99,
+                  "prc": 0.339041
+                },
+                {
+                  "st": 0,
+                  "gl": 193,
+                  "prc": 0.660959
+                }
+              ],
+              "glas": 301,
+              "velj": 292,
+              "nev": 9
+            },
+            "udel": {
+              "upr": 18692,
+              "gl": 5433,
+              "prc": 0.2907
+            },
+            "udel_11": {
+              "upr": 18692,
+              "gl": 3388,
+              "prc": 0.1813
+            },
+            "udel_16": {
+              "upr": 18692,
+              "gl": 5324,
+              "prc": 0.2848
+            },
+            "prestetih_glasov": 0.0554
           },
           {
             "st": 9,
             "rpeid": "1009",
             "naz": "VO 1009 - ŠKOFJA LOKA 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 72,
+                  "prc": 0.321429
+                },
+                {
+                  "st": 0,
+                  "gl": 152,
+                  "prc": 0.678571
+                }
+              ],
+              "glas": 232,
+              "velj": 224,
+              "nev": 8
+            },
+            "udel": {
+              "upr": 15445,
+              "gl": 5297,
+              "prc": 0.343
+            },
+            "udel_11": {
+              "upr": 15445,
+              "gl": 2655,
+              "prc": 0.1719
+            },
+            "udel_16": {
+              "upr": 15445,
+              "gl": 5230,
+              "prc": 0.3386
+            },
+            "prestetih_glasov": 0.0438
           },
           {
             "st": 10,
             "rpeid": "1010",
             "naz": "VO 1010 - KAMNIK",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 28112,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 28112,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 28112,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 11,
             "rpeid": "1011",
             "naz": "VO 1011 - IDRIJA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 83,
+                  "prc": 0.286207
+                },
+                {
+                  "st": 0,
+                  "gl": 207,
+                  "prc": 0.713793
+                }
+              ],
+              "glas": 295,
+              "velj": 290,
+              "nev": 5
+            },
+            "udel": {
+              "upr": 13339,
+              "gl": 295,
+              "prc": 0.0221
+            },
+            "udel_11": {
+              "upr": 13339,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 13339,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           }
         ],
         "st": 1,
         "rpeid": "1000",
         "naz": "VE 1000 - KRANJ",
-        "rez": null,
-        "udel": null,
-        "udel_11": null,
-        "udel_16": null,
-        "prestetih_glasov": null
+        "rez": {
+          "rez": [
+            {
+              "st": 1,
+              "gl": 434,
+              "prc": 0.3644
+            },
+            {
+              "st": 0,
+              "gl": 757,
+              "prc": 0.6356
+            }
+          ],
+          "glas": 1222,
+          "velj": 1191,
+          "nev": 31
+        },
+        "udel": {
+          "upr": 208417,
+          "gl": 19847,
+          "prc": 0.0952
+        },
+        "udel_11": {
+          "upr": 208417,
+          "gl": 9966,
+          "prc": 0.0478
+        },
+        "udel_16": {
+          "upr": 208417,
+          "gl": 18982,
+          "prc": 0.0911
+        },
+        "prestetih_glasov": 0.0616
       },
       {
         "okraji": [
@@ -129,121 +465,457 @@
             "st": 1,
             "rpeid": "2001",
             "naz": "VO 2001 - TOLMIN",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 60,
+                  "prc": 0.425532
+                },
+                {
+                  "st": 0,
+                  "gl": 81,
+                  "prc": 0.574468
+                }
+              ],
+              "glas": 142,
+              "velj": 141,
+              "nev": 1
+            },
+            "udel": {
+              "upr": 15840,
+              "gl": 142,
+              "prc": 0.009
+            },
+            "udel_11": {
+              "upr": 15840,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 15840,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
             "rpeid": "2002",
             "naz": "VO 2002 - PIRAN",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 46,
+                  "prc": 0.638889
+                },
+                {
+                  "st": 0,
+                  "gl": 26,
+                  "prc": 0.361111
+                }
+              ],
+              "glas": 73,
+              "velj": 72,
+              "nev": 1
+            },
+            "udel": {
+              "upr": 14534,
+              "gl": 73,
+              "prc": 0.005
+            },
+            "udel_11": {
+              "upr": 14534,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 14534,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 3,
             "rpeid": "2003",
             "naz": "VO 2003 - IZOLA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 12488,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 12488,
+              "gl": 1296,
+              "prc": 0.1038
+            },
+            "udel_16": {
+              "upr": 12488,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 4,
             "rpeid": "2004",
             "naz": "VO 2004 - KOPER 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 95,
+                  "prc": 0.693431
+                },
+                {
+                  "st": 0,
+                  "gl": 42,
+                  "prc": 0.306569
+                }
+              ],
+              "glas": 141,
+              "velj": 137,
+              "nev": 4
+            },
+            "udel": {
+              "upr": 18307,
+              "gl": 141,
+              "prc": 0.0077
+            },
+            "udel_11": {
+              "upr": 18307,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 18307,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 5,
             "rpeid": "2005",
             "naz": "VO 2005 - KOPER 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 85,
+                  "prc": 0.590278
+                },
+                {
+                  "st": 0,
+                  "gl": 59,
+                  "prc": 0.409722
+                }
+              ],
+              "glas": 148,
+              "velj": 144,
+              "nev": 4
+            },
+            "udel": {
+              "upr": 25276,
+              "gl": 148,
+              "prc": 0.0059
+            },
+            "udel_11": {
+              "upr": 25276,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 25276,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
             "rpeid": "2006",
             "naz": "VO 2006 - SEŽANA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 45,
+                  "prc": 0.681818
+                },
+                {
+                  "st": 0,
+                  "gl": 21,
+                  "prc": 0.318182
+                }
+              ],
+              "glas": 67,
+              "velj": 66,
+              "nev": 1
+            },
+            "udel": {
+              "upr": 22154,
+              "gl": 67,
+              "prc": 0.003
+            },
+            "udel_11": {
+              "upr": 22154,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 22154,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
             "rpeid": "2007",
             "naz": "VO 2007 - ILIRSKA BISTRICA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 6,
+                  "prc": 0.545455
+                },
+                {
+                  "st": 0,
+                  "gl": 5,
+                  "prc": 0.454545
+                }
+              ],
+              "glas": 11,
+              "velj": 11,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 12667,
+              "gl": 11,
+              "prc": 0.0009
+            },
+            "udel_11": {
+              "upr": 12667,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 12667,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
             "rpeid": "2008",
             "naz": "VO 2008 - POSTOJNA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 124,
+                  "prc": 0.532189
+                },
+                {
+                  "st": 0,
+                  "gl": 109,
+                  "prc": 0.467811
+                }
+              ],
+              "glas": 236,
+              "velj": 233,
+              "nev": 3
+            },
+            "udel": {
+              "upr": 18060,
+              "gl": 236,
+              "prc": 0.0131
+            },
+            "udel_11": {
+              "upr": 18060,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 18060,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 9,
             "rpeid": "2009",
             "naz": "VO 2009 - NOVA GORICA 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 24955,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 24955,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 24955,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 10,
             "rpeid": "2010",
             "naz": "VO 2010 - NOVA GORICA 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 23840,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 23840,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 23840,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 11,
             "rpeid": "2011",
             "naz": "VO 2011 - AJDOVŠČINA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 116,
+                  "prc": 0.363636
+                },
+                {
+                  "st": 0,
+                  "gl": 203,
+                  "prc": 0.636364
+                }
+              ],
+              "glas": 330,
+              "velj": 319,
+              "nev": 11
+            },
+            "udel": {
+              "upr": 20650,
+              "gl": 335,
+              "prc": 0.0162
+            },
+            "udel_11": {
+              "upr": 20650,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 20650,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 0.9851
           }
         ],
         "st": 2,
         "rpeid": "2000",
         "naz": "VE 2000 - POSTOJNA",
-        "rez": null,
-        "udel": null,
-        "udel_11": null,
-        "udel_16": null,
-        "prestetih_glasov": null
+        "rez": {
+          "rez": [
+            {
+              "st": 1,
+              "gl": 577,
+              "prc": 0.513802
+            },
+            {
+              "st": 0,
+              "gl": 546,
+              "prc": 0.486198
+            }
+          ],
+          "glas": 1148,
+          "velj": 1123,
+          "nev": 25
+        },
+        "udel": {
+          "upr": 208771,
+          "gl": 1153,
+          "prc": 0.0055
+        },
+        "udel_11": {
+          "upr": 208771,
+          "gl": 1296,
+          "prc": 0.0062
+        },
+        "udel_16": {
+          "upr": 208771,
+          "gl": 0,
+          "prc": 0
+        },
+        "prestetih_glasov": 0.9957
       },
       {
         "okraji": [
@@ -251,121 +923,457 @@
             "st": 1,
             "rpeid": "3001",
             "naz": "VO 3001 - LOGATEC",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 154,
+                  "prc": 0.355658
+                },
+                {
+                  "st": 0,
+                  "gl": 279,
+                  "prc": 0.644342
+                }
+              ],
+              "glas": 439,
+              "velj": 433,
+              "nev": 6
+            },
+            "udel": {
+              "upr": 25136,
+              "gl": 439,
+              "prc": 0.0175
+            },
+            "udel_11": {
+              "upr": 25136,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 25136,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
             "rpeid": "3002",
             "naz": "VO 3002 - VRHNIKA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 136,
+                  "prc": 0.683417
+                },
+                {
+                  "st": 0,
+                  "gl": 63,
+                  "prc": 0.316583
+                }
+              ],
+              "glas": 201,
+              "velj": 199,
+              "nev": 2
+            },
+            "udel": {
+              "upr": 20198,
+              "gl": 201,
+              "prc": 0.01
+            },
+            "udel_11": {
+              "upr": 20198,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 20198,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 3,
             "rpeid": "3003",
             "naz": "VO 3003 - LJUBLJANA VIČ-RUDNIK 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 25865,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 25865,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 25865,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 4,
             "rpeid": "3004",
             "naz": "VO 3004 - LJUBLJANA VIČ-RUDNIK 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 16967,
+              "gl": 1969,
+              "prc": 0.116
+            },
+            "udel_11": {
+              "upr": 16967,
+              "gl": 1969,
+              "prc": 0.116
+            },
+            "udel_16": {
+              "upr": 16967,
+              "gl": 1969,
+              "prc": 0.116
+            },
+            "prestetih_glasov": 0
           },
           {
             "st": 5,
             "rpeid": "3005",
             "naz": "VO 3005 - LJUBLJANA VIČ-RUDNIK 3",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 87,
+                  "prc": 0.505814
+                },
+                {
+                  "st": 0,
+                  "gl": 85,
+                  "prc": 0.494186
+                }
+              ],
+              "glas": 174,
+              "velj": 172,
+              "nev": 2
+            },
+            "udel": {
+              "upr": 16525,
+              "gl": 174,
+              "prc": 0.0105
+            },
+            "udel_11": {
+              "upr": 16525,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 16525,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
             "rpeid": "3006",
             "naz": "VO 3006 - LJUBLJANA VIČ-RUDNIK 4",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 13,
+                  "prc": 0.119266
+                },
+                {
+                  "st": 0,
+                  "gl": 96,
+                  "prc": 0.880734
+                }
+              ],
+              "glas": 110,
+              "velj": 109,
+              "nev": 1
+            },
+            "udel": {
+              "upr": 22009,
+              "gl": 110,
+              "prc": 0.005
+            },
+            "udel_11": {
+              "upr": 22009,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 22009,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
             "rpeid": "3007",
             "naz": "VO 3007 - LJUBLJANA CENTER",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 22109,
+              "gl": 2040,
+              "prc": 0.0923
+            },
+            "udel_11": {
+              "upr": 22109,
+              "gl": 2040,
+              "prc": 0.0923
+            },
+            "udel_16": {
+              "upr": 22109,
+              "gl": 2040,
+              "prc": 0.0923
+            },
+            "prestetih_glasov": 0
           },
           {
             "st": 8,
             "rpeid": "3008",
             "naz": "VO 3008 - LJUBLJANA ŠIŠKA 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 13932,
+              "gl": 1676,
+              "prc": 0.1203
+            },
+            "udel_11": {
+              "upr": 13932,
+              "gl": 1676,
+              "prc": 0.1203
+            },
+            "udel_16": {
+              "upr": 13932,
+              "gl": 1676,
+              "prc": 0.1203
+            },
+            "prestetih_glasov": 0
           },
           {
             "st": 9,
             "rpeid": "3009",
             "naz": "VO 3009 - LJUBLJANA ŠIŠKA 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 18041,
+              "gl": 2498,
+              "prc": 0.1385
+            },
+            "udel_11": {
+              "upr": 18041,
+              "gl": 2498,
+              "prc": 0.1385
+            },
+            "udel_16": {
+              "upr": 18041,
+              "gl": 2498,
+              "prc": 0.1385
+            },
+            "prestetih_glasov": 0
           },
           {
             "st": 10,
             "rpeid": "3010",
             "naz": "VO 3010 - LJUBLJANA ŠIŠKA 3",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 16760,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 16760,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 16760,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 11,
             "rpeid": "3011",
             "naz": "VO 3011 - LJUBLJANA ŠIŠKA 4",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 22829,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 22829,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 22829,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           }
         ],
         "st": 3,
         "rpeid": "3000",
         "naz": "VE 3000 - LJUBLJANA CENTER",
-        "rez": null,
-        "udel": null,
-        "udel_11": null,
-        "udel_16": null,
-        "prestetih_glasov": null
+        "rez": {
+          "rez": [
+            {
+              "st": 1,
+              "gl": 390,
+              "prc": 0.427163
+            },
+            {
+              "st": 0,
+              "gl": 523,
+              "prc": 0.572837
+            }
+          ],
+          "glas": 924,
+          "velj": 913,
+          "nev": 11
+        },
+        "udel": {
+          "upr": 220371,
+          "gl": 9107,
+          "prc": 0.0413
+        },
+        "udel_11": {
+          "upr": 220371,
+          "gl": 8183,
+          "prc": 0.0371
+        },
+        "udel_16": {
+          "upr": 220371,
+          "gl": 8183,
+          "prc": 0.0371
+        },
+        "prestetih_glasov": 0.1015
       },
       {
         "okraji": [
@@ -373,121 +1381,457 @@
             "st": 1,
             "rpeid": "4001",
             "naz": "VO 4001 - KOČEVJE",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 167,
+                  "prc": 0.551155
+                },
+                {
+                  "st": 0,
+                  "gl": 136,
+                  "prc": 0.448845
+                }
+              ],
+              "glas": 309,
+              "velj": 303,
+              "nev": 6
+            },
+            "udel": {
+              "upr": 14116,
+              "gl": 309,
+              "prc": 0.0219
+            },
+            "udel_11": {
+              "upr": 14116,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 14116,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
             "rpeid": "4002",
             "naz": "VO 4002 - RIBNICA-DOBREPOLJE",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 14571,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 14571,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 14571,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 3,
             "rpeid": "4003",
             "naz": "VO 4003 - GROSUPLJE",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 19,
+                  "prc": 0.263889
+                },
+                {
+                  "st": 0,
+                  "gl": 53,
+                  "prc": 0.736111
+                }
+              ],
+              "glas": 75,
+              "velj": 72,
+              "nev": 3
+            },
+            "udel": {
+              "upr": 16111,
+              "gl": 75,
+              "prc": 0.0047
+            },
+            "udel_11": {
+              "upr": 16111,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 16111,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 4,
             "rpeid": "4004",
             "naz": "VO 4004 - IVANČNA GORICA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 13321,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 13321,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 13321,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 5,
             "rpeid": "4005",
             "naz": "VO 4005 - LJUBLJANA MOSTE-POLJE 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 10,
+                  "prc": 0.196078
+                },
+                {
+                  "st": 0,
+                  "gl": 41,
+                  "prc": 0.803922
+                }
+              ],
+              "glas": 52,
+              "velj": 51,
+              "nev": 1
+            },
+            "udel": {
+              "upr": 23310,
+              "gl": 3099,
+              "prc": 0.1329
+            },
+            "udel_11": {
+              "upr": 23310,
+              "gl": 3066,
+              "prc": 0.1315
+            },
+            "udel_16": {
+              "upr": 23310,
+              "gl": 3066,
+              "prc": 0.1315
+            },
+            "prestetih_glasov": 0.0168
           },
           {
             "st": 6,
             "rpeid": "4006",
             "naz": "VO 4006 - LJUBLJANA MOSTE-POLJE 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 15076,
+              "gl": 1729,
+              "prc": 0.1147
+            },
+            "udel_11": {
+              "upr": 15076,
+              "gl": 1729,
+              "prc": 0.1147
+            },
+            "udel_16": {
+              "upr": 15076,
+              "gl": 1729,
+              "prc": 0.1147
+            },
+            "prestetih_glasov": 0
           },
           {
             "st": 7,
             "rpeid": "4007",
             "naz": "VO 4007 - LJUBLJANA MOSTE-POLJE 3",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 19972,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 19972,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 19972,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 8,
             "rpeid": "4008",
             "naz": "VO 4008 - LJUBLJANA BEŽIGRAD 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 23338,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 23338,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 23338,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 9,
             "rpeid": "4009",
             "naz": "VO 4009 - LJUBLJANA BEŽIGRAD 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 21402,
+              "gl": 2302,
+              "prc": 0.1076
+            },
+            "udel_11": {
+              "upr": 21402,
+              "gl": 2302,
+              "prc": 0.1076
+            },
+            "udel_16": {
+              "upr": 21402,
+              "gl": 2302,
+              "prc": 0.1076
+            },
+            "prestetih_glasov": 0
           },
           {
             "st": 10,
             "rpeid": "4010",
             "naz": "VO 4010 - DOMŽALE 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 63,
+                  "prc": 0.529412
+                },
+                {
+                  "st": 0,
+                  "gl": 56,
+                  "prc": 0.470588
+                }
+              ],
+              "glas": 120,
+              "velj": 119,
+              "nev": 1
+            },
+            "udel": {
+              "upr": 24758,
+              "gl": 120,
+              "prc": 0.0048
+            },
+            "udel_11": {
+              "upr": 24758,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 24758,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 11,
             "rpeid": "4011",
             "naz": "VO 4011 - DOMŽALE 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 34,
+                  "prc": 0.472222
+                },
+                {
+                  "st": 0,
+                  "gl": 38,
+                  "prc": 0.527778
+                }
+              ],
+              "glas": 74,
+              "velj": 72,
+              "nev": 2
+            },
+            "udel": {
+              "upr": 22950,
+              "gl": 74,
+              "prc": 0.0032
+            },
+            "udel_11": {
+              "upr": 22950,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 22950,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           }
         ],
         "st": 4,
         "rpeid": "4000",
         "naz": "VE 4000 - LJUBLJANA BEŽIGRAD",
-        "rez": null,
-        "udel": null,
-        "udel_11": null,
-        "udel_16": null,
-        "prestetih_glasov": null
+        "rez": {
+          "rez": [
+            {
+              "st": 1,
+              "gl": 293,
+              "prc": 0.474878
+            },
+            {
+              "st": 0,
+              "gl": 324,
+              "prc": 0.525122
+            }
+          ],
+          "glas": 630,
+          "velj": 617,
+          "nev": 13
+        },
+        "udel": {
+          "upr": 208925,
+          "gl": 7708,
+          "prc": 0.0369
+        },
+        "udel_11": {
+          "upr": 208925,
+          "gl": 7097,
+          "prc": 0.034
+        },
+        "udel_16": {
+          "upr": 208925,
+          "gl": 7097,
+          "prc": 0.034
+        },
+        "prestetih_glasov": 0.0817
       },
       {
         "okraji": [
@@ -495,121 +1839,457 @@
             "st": 1,
             "rpeid": "5001",
             "naz": "VO 5001 - ŠENTJUR",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 77,
+                  "prc": 0.396907
+                },
+                {
+                  "st": 0,
+                  "gl": 117,
+                  "prc": 0.603093
+                }
+              ],
+              "glas": 197,
+              "velj": 194,
+              "nev": 3
+            },
+            "udel": {
+              "upr": 17069,
+              "gl": 197,
+              "prc": 0.0115
+            },
+            "udel_11": {
+              "upr": 17069,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 17069,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
             "rpeid": "5002",
             "naz": "VO 5002 - CELJE 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 29392,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 29392,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 29392,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 3,
             "rpeid": "5003",
             "naz": "VO 5003 - CELJE 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 21355,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 21355,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 21355,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 4,
             "rpeid": "5004",
             "naz": "VO 5004 - ŽALEC 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 54,
+                  "prc": 0.509434
+                },
+                {
+                  "st": 0,
+                  "gl": 52,
+                  "prc": 0.490566
+                }
+              ],
+              "glas": 108,
+              "velj": 106,
+              "nev": 2
+            },
+            "udel": {
+              "upr": 18157,
+              "gl": 108,
+              "prc": 0.0059
+            },
+            "udel_11": {
+              "upr": 18157,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 18157,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 5,
             "rpeid": "5005",
             "naz": "VO 5005 - ŽALEC 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 44,
+                  "prc": 0.333333
+                },
+                {
+                  "st": 0,
+                  "gl": 88,
+                  "prc": 0.666667
+                }
+              ],
+              "glas": 135,
+              "velj": 132,
+              "nev": 3
+            },
+            "udel": {
+              "upr": 18756,
+              "gl": 135,
+              "prc": 0.0072
+            },
+            "udel_11": {
+              "upr": 18756,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 18756,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
             "rpeid": "5006",
             "naz": "VO 5006 - MOZIRJE",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 13633,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 13633,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 13633,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 7,
             "rpeid": "5007",
             "naz": "VO 5007 - VELENJE 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 45,
+                  "prc": 0.555556
+                },
+                {
+                  "st": 0,
+                  "gl": 36,
+                  "prc": 0.444444
+                }
+              ],
+              "glas": 81,
+              "velj": 81,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 16080,
+              "gl": 81,
+              "prc": 0.005
+            },
+            "udel_11": {
+              "upr": 16080,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 16080,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
             "rpeid": "5008",
             "naz": "VO 5008 - VELENJE 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 17258,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 17258,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 17258,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 9,
             "rpeid": "5009",
             "naz": "VO 5009 - SLOVENJ GRADEC",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 21,
+                  "prc": 0.388889
+                },
+                {
+                  "st": 0,
+                  "gl": 33,
+                  "prc": 0.611111
+                }
+              ],
+              "glas": 56,
+              "velj": 54,
+              "nev": 2
+            },
+            "udel": {
+              "upr": 17985,
+              "gl": 56,
+              "prc": 0.0031
+            },
+            "udel_11": {
+              "upr": 17985,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 17985,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
             "rpeid": "5010",
             "naz": "VO 5010 - RAVNE NA KOROŠKEM",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 20634,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 20634,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 20634,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 11,
             "rpeid": "5011",
             "naz": "VO 5011 - RADLJE",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 162,
+                  "prc": 0.514286
+                },
+                {
+                  "st": 0,
+                  "gl": 153,
+                  "prc": 0.485714
+                }
+              ],
+              "glas": 319,
+              "velj": 315,
+              "nev": 4
+            },
+            "udel": {
+              "upr": 20438,
+              "gl": 319,
+              "prc": 0.0156
+            },
+            "udel_11": {
+              "upr": 20438,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 20438,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           }
         ],
         "st": 5,
         "rpeid": "5000",
         "naz": "VE 5000 - CELJE",
-        "rez": null,
-        "udel": null,
-        "udel_11": null,
-        "udel_16": null,
-        "prestetih_glasov": null
+        "rez": {
+          "rez": [
+            {
+              "st": 1,
+              "gl": 403,
+              "prc": 0.456916
+            },
+            {
+              "st": 0,
+              "gl": 479,
+              "prc": 0.543084
+            }
+          ],
+          "glas": 896,
+          "velj": 882,
+          "nev": 14
+        },
+        "udel": {
+          "upr": 210757,
+          "gl": 896,
+          "prc": 0.0043
+        },
+        "udel_11": {
+          "upr": 210757,
+          "gl": 0,
+          "prc": 0
+        },
+        "udel_16": {
+          "upr": 210757,
+          "gl": 0,
+          "prc": 0
+        },
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -617,121 +2297,457 @@
             "st": 1,
             "rpeid": "6001",
             "naz": "VO 6001 - ČRNOMELJ",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 359,
+                  "prc": 0.467448
+                },
+                {
+                  "st": 0,
+                  "gl": 409,
+                  "prc": 0.532552
+                }
+              ],
+              "glas": 780,
+              "velj": 768,
+              "nev": 12
+            },
+            "udel": {
+              "upr": 22707,
+              "gl": 5773,
+              "prc": 0.2542
+            },
+            "udel_11": {
+              "upr": 22707,
+              "gl": 2703,
+              "prc": 0.119
+            },
+            "udel_16": {
+              "upr": 22707,
+              "gl": 5533,
+              "prc": 0.2437
+            },
+            "prestetih_glasov": 0.1351
           },
           {
             "st": 2,
             "rpeid": "6002",
             "naz": "VO 6002 - NOVO MESTO 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 42,
+                  "prc": 0.545455
+                },
+                {
+                  "st": 0,
+                  "gl": 35,
+                  "prc": 0.454545
+                }
+              ],
+              "glas": 77,
+              "velj": 77,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 24416,
+              "gl": 77,
+              "prc": 0.0032
+            },
+            "udel_11": {
+              "upr": 24416,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 24416,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 3,
             "rpeid": "6003",
             "naz": "VO 6003 - NOVO MESTO 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 41,
+                  "prc": 0.569444
+                },
+                {
+                  "st": 0,
+                  "gl": 31,
+                  "prc": 0.430556
+                }
+              ],
+              "glas": 72,
+              "velj": 72,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 25817,
+              "gl": 72,
+              "prc": 0.0028
+            },
+            "udel_11": {
+              "upr": 25817,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 25817,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 4,
             "rpeid": "6004",
             "naz": "VO 6004 - TREBNJE",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 170,
+                  "prc": 0.342052
+                },
+                {
+                  "st": 0,
+                  "gl": 327,
+                  "prc": 0.657948
+                }
+              ],
+              "glas": 504,
+              "velj": 497,
+              "nev": 7
+            },
+            "udel": {
+              "upr": 17056,
+              "gl": 504,
+              "prc": 0.0295
+            },
+            "udel_11": {
+              "upr": 17056,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 17056,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 5,
             "rpeid": "6005",
             "naz": "VO 6005 - BREŽICE",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 384,
+                  "prc": 0.556522
+                },
+                {
+                  "st": 0,
+                  "gl": 306,
+                  "prc": 0.443478
+                }
+              ],
+              "glas": 700,
+              "velj": 690,
+              "nev": 10
+            },
+            "udel": {
+              "upr": 21204,
+              "gl": 700,
+              "prc": 0.033
+            },
+            "udel_11": {
+              "upr": 21204,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 21204,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
             "rpeid": "6006",
             "naz": "VO 6006 - KRŠKO",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 689,
+                  "prc": 0.443087
+                },
+                {
+                  "st": 0,
+                  "gl": 866,
+                  "prc": 0.556913
+                }
+              ],
+              "glas": 1586,
+              "velj": 1555,
+              "nev": 31
+            },
+            "udel": {
+              "upr": 23220,
+              "gl": 1586,
+              "prc": 0.0683
+            },
+            "udel_11": {
+              "upr": 23220,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 23220,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
             "rpeid": "6007",
             "naz": "VO 6007 - SEVNICA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 147,
+                  "prc": 0.434911
+                },
+                {
+                  "st": 0,
+                  "gl": 191,
+                  "prc": 0.565089
+                }
+              ],
+              "glas": 341,
+              "velj": 338,
+              "nev": 3
+            },
+            "udel": {
+              "upr": 17063,
+              "gl": 341,
+              "prc": 0.02
+            },
+            "udel_11": {
+              "upr": 17063,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 17063,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
             "rpeid": "6008",
             "naz": "VO 6008 - LAŠKO",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 60,
+                  "prc": 0.612245
+                },
+                {
+                  "st": 0,
+                  "gl": 38,
+                  "prc": 0.387755
+                }
+              ],
+              "glas": 99,
+              "velj": 98,
+              "nev": 1
+            },
+            "udel": {
+              "upr": 14637,
+              "gl": 3474,
+              "prc": 0.2373
+            },
+            "udel_11": {
+              "upr": 14637,
+              "gl": 1630,
+              "prc": 0.1114
+            },
+            "udel_16": {
+              "upr": 14637,
+              "gl": 3440,
+              "prc": 0.235
+            },
+            "prestetih_glasov": 0.0285
           },
           {
             "st": 9,
             "rpeid": "6009",
             "naz": "VO 6009 - LITIJA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 14,
+                  "prc": 0.212121
+                },
+                {
+                  "st": 0,
+                  "gl": 52,
+                  "prc": 0.787879
+                }
+              ],
+              "glas": 68,
+              "velj": 66,
+              "nev": 2
+            },
+            "udel": {
+              "upr": 17188,
+              "gl": 68,
+              "prc": 0.004
+            },
+            "udel_11": {
+              "upr": 17188,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 17188,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
             "rpeid": "6010",
             "naz": "VO 6010 - HRASTNIK-TRBOVLJE",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 72,
+                  "prc": 0.734694
+                },
+                {
+                  "st": 0,
+                  "gl": 26,
+                  "prc": 0.265306
+                }
+              ],
+              "glas": 101,
+              "velj": 98,
+              "nev": 3
+            },
+            "udel": {
+              "upr": 20863,
+              "gl": 101,
+              "prc": 0.0048
+            },
+            "udel_11": {
+              "upr": 20863,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 20863,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 11,
             "rpeid": "6011",
             "naz": "VO 6011 - ZAGORJE",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 13605,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 13605,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 13605,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           }
         ],
         "st": 6,
         "rpeid": "6000",
         "naz": "VE 6000 - NOVO MESTO",
-        "rez": null,
-        "udel": null,
-        "udel_11": null,
-        "udel_16": null,
-        "prestetih_glasov": null
+        "rez": {
+          "rez": [
+            {
+              "st": 1,
+              "gl": 1978,
+              "prc": 0.464428
+            },
+            {
+              "st": 0,
+              "gl": 2281,
+              "prc": 0.535572
+            }
+          ],
+          "glas": 4328,
+          "velj": 4259,
+          "nev": 69
+        },
+        "udel": {
+          "upr": 217776,
+          "gl": 12696,
+          "prc": 0.0583
+        },
+        "udel_11": {
+          "upr": 217776,
+          "gl": 4333,
+          "prc": 0.0199
+        },
+        "udel_16": {
+          "upr": 217776,
+          "gl": 8973,
+          "prc": 0.0412
+        },
+        "prestetih_glasov": 0.3409
       },
       {
         "okraji": [
@@ -739,121 +2755,457 @@
             "st": 1,
             "rpeid": "7001",
             "naz": "VO 7001 - ŠMARJE PRI JELŠAH",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 16,
+                  "prc": 0.551724
+                },
+                {
+                  "st": 0,
+                  "gl": 13,
+                  "prc": 0.448276
+                }
+              ],
+              "glas": 29,
+              "velj": 29,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 27795,
+              "gl": 29,
+              "prc": 0.001
+            },
+            "udel_11": {
+              "upr": 27795,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 27795,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
             "rpeid": "7002",
             "naz": "VO 7002 - SLOVENSKA BISTRICA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 572,
+                  "prc": 0.492679
+                },
+                {
+                  "st": 0,
+                  "gl": 589,
+                  "prc": 0.507321
+                }
+              ],
+              "glas": 1170,
+              "velj": 1161,
+              "nev": 9
+            },
+            "udel": {
+              "upr": 25232,
+              "gl": 6691,
+              "prc": 0.2652
+            },
+            "udel_11": {
+              "upr": 25232,
+              "gl": 2794,
+              "prc": 0.1107
+            },
+            "udel_16": {
+              "upr": 25232,
+              "gl": 6330,
+              "prc": 0.2509
+            },
+            "prestetih_glasov": 0.1749
           },
           {
             "st": 3,
             "rpeid": "7003",
             "naz": "VO 7003 - SLOVENSKE KONJICE",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 130,
+                  "prc": 0.431894
+                },
+                {
+                  "st": 0,
+                  "gl": 171,
+                  "prc": 0.568106
+                }
+              ],
+              "glas": 302,
+              "velj": 301,
+              "nev": 1
+            },
+            "udel": {
+              "upr": 19024,
+              "gl": 4938,
+              "prc": 0.2596
+            },
+            "udel_11": {
+              "upr": 19024,
+              "gl": 2195,
+              "prc": 0.1154
+            },
+            "udel_16": {
+              "upr": 19024,
+              "gl": 4855,
+              "prc": 0.2552
+            },
+            "prestetih_glasov": 0.0612
           },
           {
             "st": 4,
             "rpeid": "7004",
             "naz": "VO 7004 - RUŠE",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 26,
+                  "prc": 0.52
+                },
+                {
+                  "st": 0,
+                  "gl": 24,
+                  "prc": 0.48
+                }
+              ],
+              "glas": 52,
+              "velj": 50,
+              "nev": 2
+            },
+            "udel": {
+              "upr": 12568,
+              "gl": 2840,
+              "prc": 0.226
+            },
+            "udel_11": {
+              "upr": 12568,
+              "gl": 1314,
+              "prc": 0.1046
+            },
+            "udel_16": {
+              "upr": 12568,
+              "gl": 2827,
+              "prc": 0.2249
+            },
+            "prestetih_glasov": 0.0183
           },
           {
             "st": 5,
             "rpeid": "7005",
             "naz": "VO 7005 - MARIBOR 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 98,
+                  "prc": 0.636364
+                },
+                {
+                  "st": 0,
+                  "gl": 56,
+                  "prc": 0.363636
+                }
+              ],
+              "glas": 154,
+              "velj": 154,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 23567,
+              "gl": 154,
+              "prc": 0.0065
+            },
+            "udel_11": {
+              "upr": 23567,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 23567,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
             "rpeid": "7006",
             "naz": "VO 7006 - MARIBOR 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 21107,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 21107,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 21107,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 7,
             "rpeid": "7007",
             "naz": "VO 7007 - MARIBOR 3",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 17347,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 17347,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 17347,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 8,
             "rpeid": "7008",
             "naz": "VO 7008 - MARIBOR 4",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 13999,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 13999,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 13999,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 9,
             "rpeid": "7009",
             "naz": "VO 7009 - MARIBOR 5",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 16937,
+              "gl": 3735,
+              "prc": 0.2205
+            },
+            "udel_11": {
+              "upr": 16937,
+              "gl": 1861,
+              "prc": 0.1099
+            },
+            "udel_16": {
+              "upr": 16937,
+              "gl": 3735,
+              "prc": 0.2205
+            },
+            "prestetih_glasov": 0
           },
           {
             "st": 10,
             "rpeid": "7010",
             "naz": "VO 7010 - MARIBOR 6",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 15884,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 15884,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 15884,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 11,
             "rpeid": "7011",
             "naz": "VO 7011 - MARIBOR 7",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 13648,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 13648,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 13648,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           }
         ],
         "st": 7,
         "rpeid": "7000",
         "naz": "VE 7000 - MARIBOR",
-        "rez": null,
-        "udel": null,
-        "udel_11": null,
-        "udel_16": null,
-        "prestetih_glasov": null
+        "rez": {
+          "rez": [
+            {
+              "st": 1,
+              "gl": 842,
+              "prc": 0.496755
+            },
+            {
+              "st": 0,
+              "gl": 853,
+              "prc": 0.503245
+            }
+          ],
+          "glas": 1707,
+          "velj": 1695,
+          "nev": 12
+        },
+        "udel": {
+          "upr": 207108,
+          "gl": 18387,
+          "prc": 0.0888
+        },
+        "udel_11": {
+          "upr": 207108,
+          "gl": 8164,
+          "prc": 0.0394
+        },
+        "udel_16": {
+          "upr": 207108,
+          "gl": 17747,
+          "prc": 0.0857
+        },
+        "prestetih_glasov": 0.0928
       },
       {
         "okraji": [
@@ -861,121 +3213,457 @@
             "st": 1,
             "rpeid": "8001",
             "naz": "VO 8001 - LENDAVA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 89,
+                  "prc": 0.468421
+                },
+                {
+                  "st": 0,
+                  "gl": 101,
+                  "prc": 0.531579
+                }
+              ],
+              "glas": 196,
+              "velj": 190,
+              "nev": 6
+            },
+            "udel": {
+              "upr": 21215,
+              "gl": 196,
+              "prc": 0.0092
+            },
+            "udel_11": {
+              "upr": 21215,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 21215,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
             "rpeid": "8002",
             "naz": "VO 8002 - ORMOŽ",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 309,
+                  "prc": 0.468892
+                },
+                {
+                  "st": 0,
+                  "gl": 350,
+                  "prc": 0.531108
+                }
+              ],
+              "glas": 669,
+              "velj": 659,
+              "nev": 10
+            },
+            "udel": {
+              "upr": 14146,
+              "gl": 669,
+              "prc": 0.0473
+            },
+            "udel_11": {
+              "upr": 14146,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 14146,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 3,
             "rpeid": "8003",
             "naz": "VO 8003 - LJUTOMER",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 91,
+                  "prc": 0.56875
+                },
+                {
+                  "st": 0,
+                  "gl": 69,
+                  "prc": 0.43125
+                }
+              ],
+              "glas": 164,
+              "velj": 160,
+              "nev": 4
+            },
+            "udel": {
+              "upr": 15142,
+              "gl": 164,
+              "prc": 0.0108
+            },
+            "udel_11": {
+              "upr": 15142,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 15142,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 4,
             "rpeid": "8004",
             "naz": "VO 8004 - MURSKA SOBOTA 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 229,
+                  "prc": 0.524027
+                },
+                {
+                  "st": 0,
+                  "gl": 208,
+                  "prc": 0.475973
+                }
+              ],
+              "glas": 441,
+              "velj": 437,
+              "nev": 4
+            },
+            "udel": {
+              "upr": 24401,
+              "gl": 441,
+              "prc": 0.0181
+            },
+            "udel_11": {
+              "upr": 24401,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 24401,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 5,
             "rpeid": "8005",
             "naz": "VO 8005 - MURSKA SOBOTA 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 87,
+                  "prc": 0.617021
+                },
+                {
+                  "st": 0,
+                  "gl": 54,
+                  "prc": 0.382979
+                }
+              ],
+              "glas": 143,
+              "velj": 141,
+              "nev": 2
+            },
+            "udel": {
+              "upr": 24915,
+              "gl": 143,
+              "prc": 0.0057
+            },
+            "udel_11": {
+              "upr": 24915,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 24915,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
             "rpeid": "8006",
             "naz": "VO 8006 - GORNJA RADGONA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 320,
+                  "prc": 0.574506
+                },
+                {
+                  "st": 0,
+                  "gl": 237,
+                  "prc": 0.425494
+                }
+              ],
+              "glas": 566,
+              "velj": 557,
+              "nev": 9
+            },
+            "udel": {
+              "upr": 17804,
+              "gl": 566,
+              "prc": 0.0318
+            },
+            "udel_11": {
+              "upr": 17804,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 17804,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
             "rpeid": "8007",
             "naz": "VO 8007 - LENART",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 160,
+                  "prc": 0.467836
+                },
+                {
+                  "st": 0,
+                  "gl": 182,
+                  "prc": 0.532164
+                }
+              ],
+              "glas": 347,
+              "velj": 342,
+              "nev": 5
+            },
+            "udel": {
+              "upr": 16521,
+              "gl": 347,
+              "prc": 0.021
+            },
+            "udel_11": {
+              "upr": 16521,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 16521,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
             "rpeid": "8008",
             "naz": "VO 8008 - PESNICA",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 36,
+                  "prc": 0.679245
+                },
+                {
+                  "st": 0,
+                  "gl": 17,
+                  "prc": 0.320755
+                }
+              ],
+              "glas": 54,
+              "velj": 53,
+              "nev": 1
+            },
+            "udel": {
+              "upr": 18047,
+              "gl": 54,
+              "prc": 0.003
+            },
+            "udel_11": {
+              "upr": 18047,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 18047,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 9,
             "rpeid": "8009",
             "naz": "VO 8009 - PTUJ 1",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 21328,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 21328,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 21328,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           },
           {
             "st": 10,
             "rpeid": "8010",
             "naz": "VO 8010 - PTUJ 2",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
-            "prestetih_glasov": null
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 109,
+                  "prc": 0.60221
+                },
+                {
+                  "st": 0,
+                  "gl": 72,
+                  "prc": 0.39779
+                }
+              ],
+              "glas": 182,
+              "velj": 181,
+              "nev": 1
+            },
+            "udel": {
+              "upr": 17063,
+              "gl": 182,
+              "prc": 0.0107
+            },
+            "udel_11": {
+              "upr": 17063,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 17063,
+              "gl": 0,
+              "prc": 0
+            },
+            "prestetih_glasov": 1
           },
           {
             "st": 11,
             "rpeid": "8011",
             "naz": "VO 8011 - PTUJ 3",
-            "rez": null,
-            "udel": null,
-            "udel_11": null,
-            "udel_16": null,
+            "rez": {
+              "rez": [
+                {
+                  "st": 1,
+                  "gl": 0,
+                  "prc": 0
+                },
+                {
+                  "st": 0,
+                  "gl": 0,
+                  "prc": 0
+                }
+              ],
+              "glas": 0,
+              "velj": 0,
+              "nev": 0
+            },
+            "udel": {
+              "upr": 19598,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_11": {
+              "upr": 19598,
+              "gl": 0,
+              "prc": 0
+            },
+            "udel_16": {
+              "upr": 19598,
+              "gl": 0,
+              "prc": 0
+            },
             "prestetih_glasov": null
           }
         ],
         "st": 8,
         "rpeid": "8000",
         "naz": "VE 8000 - PTUJ",
-        "rez": null,
-        "udel": null,
-        "udel_11": null,
-        "udel_16": null,
-        "prestetih_glasov": null
+        "rez": {
+          "rez": [
+            {
+              "st": 1,
+              "gl": 1430,
+              "prc": 0.525735
+            },
+            {
+              "st": 0,
+              "gl": 1290,
+              "prc": 0.474265
+            }
+          ],
+          "glas": 2762,
+          "velj": 2720,
+          "nev": 42
+        },
+        "udel": {
+          "upr": 210180,
+          "gl": 2762,
+          "prc": 0.0131
+        },
+        "udel_11": {
+          "upr": 210180,
+          "gl": 0,
+          "prc": 0
+        },
+        "udel_16": {
+          "upr": 210180,
+          "gl": 0,
+          "prc": 0
+        },
+        "prestetih_glasov": 1
       }
     ],
     "posebna_volisca": [
@@ -983,53 +3671,104 @@
         "tip": 1,
         "naziv": "Volišča OMNIA",
         "rez": null,
-        "udel": null,
-        "udel_11": null,
-        "udel_16": null,
+        "udel": {
+          "upr": null,
+          "gl": 1151,
+          "prc": null
+        },
+        "udel_11": {
+          "upr": null,
+          "gl": 100,
+          "prc": null
+        },
+        "udel_16": {
+          "upr": null,
+          "gl": 114,
+          "prc": null
+        },
         "prestetih_glasov": null
       }
     ],
-    "prip_manjs": {
-      "enote": [
+    "rez": {
+      "rez": [
         {
-          "st": 9,
-          "rpeid": "0009",
-          "naz": "VE 0009 - Koper",
-          "opis": null,
-          "udel": null,
-          "rez": null,
-          "prestetih_glasov": null
+          "naz": "Glasovi ZA",
+          "knaz": "Za",
+          "naz_en": "Votes FOR",
+          "knaz_en": "For",
+          "hcol": "#91B9C9",
+          "st": 1,
+          "gl": 7057,
+          "prc": 0.486455
         },
         {
-          "st": 10,
-          "rpeid": "0010",
-          "naz": "VE 0010 - Lendava",
-          "opis": null,
-          "udel": null,
-          "rez": null,
-          "prestetih_glasov": null
+          "naz": "Glasovi PROTI",
+          "knaz": "Proti",
+          "naz_en": "Votes AGAINST",
+          "knaz_en": "Against",
+          "hcol": "#3B5D6D",
+          "st": 0,
+          "gl": 7450,
+          "prc": 0.513545
         }
       ],
-      "kand_rez": null
+      "glas": 14732,
+      "velj": 14507,
+      "nev": 225
     },
-    "rez": null,
-    "udel": null,
-    "udel_11": null,
-    "udel_16": null,
-    "prestetih_glasov": null
+    "udel": {
+      "upr_red": 1692301,
+      "upr_pos": 0,
+      "gl_ime": 73700,
+      "gl_pot": 7,
+      "gl_pos": 0,
+      "gl_inv": 0,
+      "gl_vol_omnia": 1151,
+      "gl_vol_inv": null,
+      "upr": 1692308,
+      "gl": 73707,
+      "prc": 0.0436
+    },
+    "udel_11": {
+      "upr_red": 1692301,
+      "upr_pos": 0,
+      "gl_ime": 39134,
+      "gl_pot": 5,
+      "gl_pos": 0,
+      "gl_inv": 0,
+      "gl_vol_omnia": 100,
+      "gl_vol_inv": null,
+      "upr": 1692306,
+      "gl": 39139,
+      "prc": 0.0231
+    },
+    "udel_16": {
+      "upr_red": 1692301,
+      "upr_pos": 0,
+      "gl_ime": 61091,
+      "gl_pot": 5,
+      "gl_pos": 0,
+      "gl_inv": 0,
+      "gl_vol_omnia": 114,
+      "gl_vol_inv": null,
+      "upr": 1692306,
+      "gl": 61096,
+      "prc": 0.0361
+    },
+    "prestetih_glasov": 0.1999
   },
   "nastavitve": {
-    "timestamp": "2024-06-09T10:38:19.152Z",
-    "datum": "2024-06-09T10:35:00Z",
-    "cas_udelezba": null,
-    "has_udelezba": false,
-    "has_udel_11": false,
-    "has_udel_16": false,
-    "has_rezultat": false,
+    "timestamp": "2024-06-09T20:55:26.833Z",
+    "datum": "2024-06-09T20:55:00Z",
+    "cas_udelezba": "19:00",
+    "has_udelezba": true,
+    "has_udel_11": true,
+    "has_udel_16": true,
+    "has_rezultat": true,
     "is_final": false,
     "has_rezultat_kandidati": false,
     "has_kandidati_mandati": false,
-    "has_kandidati": false,
+    "has_kandidati": true,
     "has_kandidati_removed": false
   },
   "obvestila": [],

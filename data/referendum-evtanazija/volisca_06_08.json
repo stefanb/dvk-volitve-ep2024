@@ -10,281 +10,964 @@
       "st": 32,
       "rpeid": "032",
       "naz": " KS Vrhovo, Vrhovo 43a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 417,
+        "gl": 120,
+        "prc": 0.2878
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 19,
       "rpeid": "019",
       "naz": "Anton Vresk, Polana 21 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 237,
+        "gl": 36,
+        "prc": 0.1519
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 18,
       "rpeid": "018",
       "naz": "Bife Racman, Mrzlo Polje 8a ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 195,
+        "gl": 55,
+        "prc": 0.2821
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 1,
       "rpeid": "001",
       "naz": "Center starejših, Savinjsko nabrežje 6",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1147,
+        "gl": 225,
+        "prc": 0.1962
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 23,
       "rpeid": "023",
       "naz": "Dom kulture, Gledališka pot 2",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 400,
+        "gl": 106,
+        "prc": 0.265
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 30,
       "rpeid": "030",
       "naz": "Gasilski dom, Jagnjenica 14 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 342,
+        "gl": 94,
+        "prc": 0.2749
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 9,
       "rpeid": "009",
       "naz": "Gasilski dom, Vrh nad Laškim 9a ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 631,
+        "gl": 113,
+        "prc": 0.1791
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 22,
       "rpeid": "022",
       "naz": "Gasilski dom, Zidani Most 12 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 222,
+        "gl": 62,
+        "prc": 0.2793
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 28,
       "rpeid": "028",
       "naz": "Gostilna Strnad, Hotemež 6 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 183,
+        "gl": 65,
+        "prc": 0.3552
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 15,
       "rpeid": "015",
       "naz": "Karel Veber, Brodnice 12 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 194,
+        "gl": 32,
+        "prc": 0.1649
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 24,
       "rpeid": "024",
       "naz": "Knjižnica Radeče, Ul. OF 2",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 479,
+        "gl": 137,
+        "prc": 0.286
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 2,
       "rpeid": "002",
       "naz": "Kulturni center, Trg svobode 6 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 918,
+        "gl": 194,
+        "prc": 0.2113
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 6,
       "rpeid": "006",
       "naz": "Kulturni dom, Marija Gradec 29",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 749,
+        "gl": 181,
+        "prc": 0.2417
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 12,
       "rpeid": "012",
       "naz": "Kulturni dom, Trobni dol 38a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 145,
+        "gl": 31,
+        "prc": 0.2138
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 16,
       "rpeid": "016",
       "naz": "Matevž Deželak, Lože 1 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 134,
+        "gl": 41,
+        "prc": 0.306
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 8,
       "rpeid": "008",
       "naz": "Na Slogah, Tevče 2 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 545,
+        "gl": 108,
+        "prc": 0.1982
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 13,
       "rpeid": "013",
       "naz": "OŠ A. Aškerc, Aškerčeva c. 1",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 978,
+        "gl": 282,
+        "prc": 0.2883
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 3,
       "rpeid": "003",
       "naz": "OŠ Debro, Poženelova ul. 26",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1269,
+        "gl": 301,
+        "prc": 0.2372
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 17,
       "rpeid": "017",
       "naz": "OŠ Jurklošter, Jurklošter 23",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 185,
+        "gl": 50,
+        "prc": 0.2703
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 20,
       "rpeid": "020",
       "naz": "OŠ Sedraž, Sedraž 21 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 551,
+        "gl": 130,
+        "prc": 0.2359
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 10,
       "rpeid": "010",
       "naz": "OŠ Šentrupert, Šentrupert 89",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 334,
+        "gl": 74,
+        "prc": 0.2216
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 21,
       "rpeid": "021",
       "naz": "OŠ Zidani Most, Zidani Most 34",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 323,
+        "gl": 86,
+        "prc": 0.2663
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 31,
       "rpeid": "031",
       "naz": "PGD Svibno, Svibno 18a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 296,
+        "gl": 82,
+        "prc": 0.277
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 29,
       "rpeid": "029",
       "naz": "Plaznik Leopold,  Jelovo 7 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 142,
+        "gl": 41,
+        "prc": 0.2887
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 25,
       "rpeid": "025",
       "naz": "Prostor društva inv., Titova ul. 107",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 534,
+        "gl": 183,
+        "prc": 0.3427
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 27,
       "rpeid": "027",
       "naz": "Ribič Rado, Obrežje 21 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 31,
+            "prc": 0.673913
+          },
+          {
+            "st": 0,
+            "gl": 15,
+            "prc": 0.326087
+          }
+        ],
+        "glas": 47,
+        "velj": 46,
+        "nev": 1
+      },
+      "udel": {
+        "upr": 113,
+        "gl": 47,
+        "prc": 0.4159
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 5,
       "rpeid": "005",
       "naz": "Sindikalni dom, Huda Jama 1",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 621,
+        "gl": 165,
+        "prc": 0.2657
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 14,
       "rpeid": "014",
       "naz": "Šola Lažiše, Laziše 27 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 146,
+        "gl": 49,
+        "prc": 0.3356
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 11,
       "rpeid": "011",
       "naz": "Strelski dom, Mala Breza 37c ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 29,
+            "prc": 0.557692
+          },
+          {
+            "st": 0,
+            "gl": 23,
+            "prc": 0.442308
+          }
+        ],
+        "glas": 52,
+        "velj": 52,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 169,
+        "gl": 52,
+        "prc": 0.3077
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 26,
       "rpeid": "026",
       "naz": "Vrtec Radeče, Kolenov graben 6 ",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 528,
+        "gl": 136,
+        "prc": 0.2576
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 4,
       "rpeid": "004",
       "naz": "ZASTOR d.o.o., Sp. Rečica 80D",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 501,
+        "gl": 111,
+        "prc": 0.2216
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 7,
       "rpeid": "007",
       "naz": "Zvonka Dečman, Lahomšek 4",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 321,
+        "gl": 85,
+        "prc": 0.2648
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 901,
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 902,
       "rpeid": "902",
       "naz": "Predčasno glasovanje - Radeče",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
-    "has_rezultat": false,
+    "timestamp": "2024-06-09T20:55:26.833Z",
+    "datum": "2024-06-09T20:55:00Z",
+    "cas_udelezba": "19:00",
+    "has_udelezba": true,
+    "has_rezultat": true,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

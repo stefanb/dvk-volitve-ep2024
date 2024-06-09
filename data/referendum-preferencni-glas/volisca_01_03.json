@@ -10,225 +10,768 @@
       "st": 20,
       "rpeid": "020",
       "naz": "Avla Občine Radovljica,Gorenjska c.19, Radovljica",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 969,
+        "gl": 216,
+        "prc": 0.2229
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 7,
       "rpeid": "007",
       "naz": "Avla Sindikalnega doma Kropa, Kropa 3",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 726,
+        "gl": 152,
+        "prc": 0.2094
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 5,
       "rpeid": "005",
       "naz": "Dom krajanov Brezje, Brezje 80 c",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 754,
+        "gl": 224,
+        "prc": 0.2971
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 6,
       "rpeid": "006",
       "naz": "Dom krajanov Kamna Gorica, Kamna Gorica 58",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 416,
+        "gl": 138,
+        "prc": 0.3317
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 14,
       "rpeid": "014",
       "naz": "Dom ŠD Ljubno, Ljubno 114",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 382,
+        "gl": 142,
+        "prc": 0.3717
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 12,
       "rpeid": "012",
       "naz": "Družbeni center Lesce, Alpska cesta 58, Lesce",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1162,
+        "gl": 364,
+        "prc": 0.3133
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 21,
       "rpeid": "021",
       "naz": "Ekon.gimnazija in sr.šola Radovljica,Gorenjska 13",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 381,
+        "gl": 95,
+        "prc": 0.2493
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 9,
       "rpeid": "009",
       "naz": "Gasilski dom Hlebce, Hlebce 9",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 232,
+        "gl": 70,
+        "prc": 0.3017
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 17,
       "rpeid": "017",
       "naz": "GASILSKI DOM PODNART, Podnart 13",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 841,
+        "gl": 261,
+        "prc": 0.3103
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 4,
       "rpeid": "004",
       "naz": "Gasilski dom Slatna, Slatna 15",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 120,
+        "gl": 32,
+        "prc": 0.2667
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 25,
       "rpeid": "025",
       "naz": "Gasilski dom Srednja Dobrava, Srednja Dobrava 7",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 387,
+        "gl": 126,
+        "prc": 0.3256
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 3,
       "rpeid": "003",
       "naz": "GASILSKO ORODIŠČE, pri hiši Konc, Dvorska vas 20a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 145,
+        "gl": 45,
+        "prc": 0.3103
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 1,
       "rpeid": "001",
       "naz": "Klub upokojencev Begunje,Begunje na Gorenjskem 23",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 893,
+        "gl": 214,
+        "prc": 0.2396
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 8,
       "rpeid": "008",
       "naz": "KULTURNI DOM LANCOVO, Lancovo 30",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 795,
+        "gl": 235,
+        "prc": 0.2956
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 16,
       "rpeid": "016",
       "naz": "Kulturni dom Mošnje, Mošnje 41",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 374,
+        "gl": 125,
+        "prc": 0.3342
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 22,
       "rpeid": "022",
       "naz": "OŠ A. T. LINHARTA, Kranjska cesta 27, Radovljica",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1273,
+        "gl": 440,
+        "prc": 0.3456
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 13,
       "rpeid": "013",
       "naz": "OŠ F.S. Finžgarja Lesce, Begunjska cesta 7, Lesce",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1048,
+        "gl": 333,
+        "prc": 0.3177
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 2,
       "rpeid": "002",
       "naz": "POSLOVNI PROSTOR \"NO LIMITS\", Zapuže 2a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 654,
+        "gl": 194,
+        "prc": 0.2966
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 26,
       "rpeid": "026",
       "naz": "Prostor KS Otok, Zgornji Otok 6 a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 151,
+        "gl": 47,
+        "prc": 0.3113
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 18,
       "rpeid": "018",
       "naz": "Športni park Rad.,soba PD, Ul.S. Žagarja 2b, Rad.",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 906,
+        "gl": 214,
+        "prc": 0.2362
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 24,
       "rpeid": "024",
       "naz": "Športni park Vrbnje, Vrbnje",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 393,
+        "gl": 143,
+        "prc": 0.3639
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 19,
       "rpeid": "019",
       "naz": "Srednja gost.in tur.šola Radovljica,Kranjska c.24",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1102,
+        "gl": 294,
+        "prc": 0.2668
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 23,
       "rpeid": "023",
       "naz": "Stanovanjska hiša Jensterle, Nova vas 45",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 156,
+        "gl": 44,
+        "prc": 0.2821
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 11,
       "rpeid": "011",
       "naz": "Stanovanjska hiša pri Beštru, Studenčice 8a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 92,
+        "gl": 32,
+        "prc": 0.3478
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 10,
       "rpeid": "010",
       "naz": "Turistična kmetija PR GROM, Hraše 17 c",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 183,
+        "gl": 76,
+        "prc": 0.4153
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 15,
       "rpeid": "015",
       "naz": "Vrtec na Posavcu, Posavec 86",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 451,
+        "gl": 137,
+        "prc": 0.3038
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 901,
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
-    "has_rezultat": false,
+    "timestamp": "2024-06-09T20:55:29.937Z",
+    "datum": "2024-06-09T20:55:00Z",
+    "cas_udelezba": "19:00",
+    "has_udelezba": true,
+    "has_rezultat": true,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

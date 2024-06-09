@@ -10,449 +10,1552 @@
       "st": 44,
       "rpeid": "044",
       "naz": "Arh Zvone, Selce pri Leskovcu 6",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 49,
+            "prc": 0.590361
+          },
+          {
+            "st": 0,
+            "gl": 34,
+            "prc": 0.409639
+          }
+        ],
+        "glas": 86,
+        "velj": 83,
+        "nev": 3
+      },
+      "udel": {
+        "upr": 229,
+        "gl": 86,
+        "prc": 0.3755
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 50,
       "rpeid": "050",
       "naz": "Bivša OŠ Črneča vas, Črneča vas bš",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 133,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 59,
       "rpeid": "059",
       "naz": "Burja Boštjan, Šutna 26",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 166,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 53,
       "rpeid": "053",
       "naz": "Colarič Milan, Orehovec 37",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 47,
+            "prc": 0.522222
+          },
+          {
+            "st": 0,
+            "gl": 43,
+            "prc": 0.477778
+          }
+        ],
+        "glas": 91,
+        "velj": 90,
+        "nev": 1
+      },
+      "udel": {
+        "upr": 217,
+        "gl": 91,
+        "prc": 0.4194
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 43,
       "rpeid": "043",
       "naz": "DK Leskovec pri Krškem, Ulica 11. novembra 24",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 929,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "rpeid": "020",
       "naz": "DK Zdole, Zdole 20",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 169,
+            "prc": 0.695473
+          },
+          {
+            "st": 0,
+            "gl": 74,
+            "prc": 0.304527
+          }
+        ],
+        "glas": 246,
+        "velj": 243,
+        "nev": 3
+      },
+      "udel": {
+        "upr": 634,
+        "gl": 246,
+        "prc": 0.388
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 4,
       "rpeid": "004",
       "naz": "Dom XIV. divizije Senovo I, Trg XIV. divizije 1",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 535,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "rpeid": "005",
       "naz": "Dom XIV. divizije Senovo II, Trg XIV. divizije 1",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 521,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "rpeid": "026",
       "naz": "DSO Krško, Kovinarska ul. 13",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 774,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "rpeid": "021",
       "naz": "Dular Bogdan, Kostanjek 20",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 20,
+            "prc": 0.555556
+          },
+          {
+            "st": 0,
+            "gl": 16,
+            "prc": 0.444444
+          }
+        ],
+        "glas": 37,
+        "velj": 36,
+        "nev": 1
+      },
+      "udel": {
+        "upr": 105,
+        "gl": 37,
+        "prc": 0.3524
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 40,
       "rpeid": "040",
       "naz": "Dvorana v Velikem Podlogu, Veliki Podlog 60",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 308,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "rpeid": "036",
       "naz": "GD Brege, Brege 16",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 35,
+            "prc": 0.648148
+          },
+          {
+            "st": 0,
+            "gl": 19,
+            "prc": 0.351852
+          }
+        ],
+        "glas": 55,
+        "velj": 54,
+        "nev": 1
+      },
+      "udel": {
+        "upr": 158,
+        "gl": 55,
+        "prc": 0.3481
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 35,
       "rpeid": "035",
       "naz": "GD Drnovo, Drnovo 29a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 285,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "rpeid": "022",
       "naz": "GD Gora, Gora 31",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 446,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "rpeid": "024",
       "naz": "GD Krško, Bohoričeva ul. 14",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 553,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "rpeid": "007",
       "naz": "GD Mali Kamen, Mali Kamen 66a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 224,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 56,
       "rpeid": "056",
       "naz": "GD Malo Mraševo, Malo Mraševo 35",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 311,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 51,
       "rpeid": "051",
       "naz": "GD Prekopa, Dolnja Prekopa 21b",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 318,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "rpeid": "006",
       "naz": "GD Senovo, Titova c. 95",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 505,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "rpeid": "042",
       "naz": "GD Senuše, Senuše 51",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 440,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "rpeid": "047",
       "naz": "GD Smednik, Smednik 1b",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 145,
+            "prc": 0.582329
+          },
+          {
+            "st": 0,
+            "gl": 104,
+            "prc": 0.417671
+          }
+        ],
+        "glas": 253,
+        "velj": 249,
+        "nev": 4
+      },
+      "udel": {
+        "upr": 563,
+        "gl": 253,
+        "prc": 0.4494
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 9,
       "rpeid": "009",
       "naz": "GD Stranje, Stranje 13",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 29,
+            "prc": 0.460317
+          },
+          {
+            "st": 0,
+            "gl": 34,
+            "prc": 0.539683
+          }
+        ],
+        "glas": 63,
+        "velj": 63,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 126,
+        "gl": 63,
+        "prc": 0.5
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 45,
       "rpeid": "045",
       "naz": "GD Velika vas, Gorenja vas pri Leskovcu 30",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 554,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "rpeid": "003",
       "naz": "GD Veliki Kamen, Veliki Kamen 13a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 316,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "rpeid": "038",
       "naz": "GD Vihre, Vihre 44",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 126,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 54,
       "rpeid": "054",
       "naz": "Grubar Jože, Kočarija 14",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 175,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 48,
       "rpeid": "048",
       "naz": "KD Albina Rudana, Veliki Trn 18",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 571,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "rpeid": "029",
       "naz": "KD Krško I, Trg Matije Gubca 2",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 109,
+            "prc": 0.736486
+          },
+          {
+            "st": 0,
+            "gl": 39,
+            "prc": 0.263514
+          }
+        ],
+        "glas": 153,
+        "velj": 148,
+        "nev": 5
+      },
+      "udel": {
+        "upr": 496,
+        "gl": 153,
+        "prc": 0.3085
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 30,
       "rpeid": "030",
       "naz": "KD Krško II, Trg Matije Gubca 2",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 522,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "rpeid": "031",
       "naz": "KD Krško III, Trg Matije Gubca 2",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 827,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 55,
       "rpeid": "055",
       "naz": "KD Podbočje, Podbočje 70",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 477,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 58,
       "rpeid": "058",
       "naz": "Kodrič Martin, Brezje v Podbočju 2",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 174,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 46,
       "rpeid": "046",
       "naz": "KS Raka, Raka 40",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 973,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "rpeid": "019",
       "naz": "KS Rožno - Presladol, Rožno 62",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 68,
+            "prc": 0.612613
+          },
+          {
+            "st": 0,
+            "gl": 43,
+            "prc": 0.387387
+          }
+        ],
+        "glas": 111,
+        "velj": 111,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 323,
+        "gl": 111,
+        "prc": 0.3437
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 10,
       "rpeid": "010",
       "naz": "LD Brezje pri Dovškem I, Brezje pri Dovškem 33a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 134,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "rpeid": "011",
       "naz": "LD Brezje pri Dovškem II, Brezje pri Dovškem 33a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 479,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "rpeid": "015",
       "naz": "LK Dolenji Leskovec, Dolenji Leskovec 51a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 64,
+            "prc": 0.688172
+          },
+          {
+            "st": 0,
+            "gl": 29,
+            "prc": 0.311828
+          }
+        ],
+        "glas": 93,
+        "velj": 93,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 249,
+        "gl": 93,
+        "prc": 0.3735
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 25,
       "rpeid": "025",
       "naz": "MC Krško, C. krških žrtev 105",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 610,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "rpeid": "016",
       "naz": "Mirt Jože, Anže 12",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 28,
+            "prc": 0.474576
+          },
+          {
+            "st": 0,
+            "gl": 31,
+            "prc": 0.525424
+          }
+        ],
+        "glas": 59,
+        "velj": 59,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 125,
+        "gl": 59,
+        "prc": 0.472
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 37,
       "rpeid": "037",
       "naz": "Mlekarna Mrtvice, Mrtvice bš",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 42,
+            "prc": 0.677419
+          },
+          {
+            "st": 0,
+            "gl": 20,
+            "prc": 0.322581
+          }
+        ],
+        "glas": 63,
+        "velj": 62,
+        "nev": 1
+      },
+      "udel": {
+        "upr": 173,
+        "gl": 63,
+        "prc": 0.3642
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 12,
       "rpeid": "012",
       "naz": "OŠ A.Bohoriča, Šolska cesta 29",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 934,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "rpeid": "028",
       "naz": "OŠ Dr. M.Rostoharja, C.4. julija 33",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 500,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "rpeid": "032",
       "naz": "OŠ J.Dalmatina, Šolska ul. 1",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 774,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 52,
       "rpeid": "052",
       "naz": "OŠ J.Gorjupa, Gorjanska c. 2",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 943,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "rpeid": "001",
       "naz": "OŠ Koprivnica, Koprivnica 2",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 227,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 49,
       "rpeid": "049",
       "naz": "Pešič Dejan, Dolšce 19a",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 244,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "rpeid": "027",
       "naz": "Radej Vida, Sremič 37",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 43,
+            "prc": 0.573333
+          },
+          {
+            "st": 0,
+            "gl": 32,
+            "prc": 0.426667
+          }
+        ],
+        "glas": 76,
+        "velj": 75,
+        "nev": 1
+      },
+      "udel": {
+        "upr": 220,
+        "gl": 76,
+        "prc": 0.3455
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 17,
       "rpeid": "017",
       "naz": "Ribiška družina Brestanica, Raztez 1a",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 46,
+            "prc": 0.511111
+          },
+          {
+            "st": 0,
+            "gl": 44,
+            "prc": 0.488889
+          }
+        ],
+        "glas": 90,
+        "velj": 90,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 231,
+        "gl": 90,
+        "prc": 0.3896
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 34,
       "rpeid": "034",
       "naz": "Slavko Božič, Gornje Pijavško 30",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 27,
+            "prc": 0.642857
+          },
+          {
+            "st": 0,
+            "gl": 15,
+            "prc": 0.357143
+          }
+        ],
+        "glas": 42,
+        "velj": 42,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 81,
+        "gl": 42,
+        "prc": 0.5185
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 39,
       "rpeid": "039",
       "naz": "Vaška soba na Gorici, Gorica bš",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 365,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "rpeid": "008",
       "naz": "Vaška soba strojnica Reštanj, Reštanj bš",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 164,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "rpeid": "041",
       "naz": "Vaška soba v Gržeči vasi, Gržeča vas bš",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 27,
+            "prc": 0.421875
+          },
+          {
+            "st": 0,
+            "gl": 37,
+            "prc": 0.578125
+          }
+        ],
+        "glas": 68,
+        "velj": 64,
+        "nev": 4
+      },
+      "udel": {
+        "upr": 164,
+        "gl": 68,
+        "prc": 0.4146
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 57,
       "rpeid": "057",
       "naz": "Vaški dom Veliko Mraševo, Veliko Mraševo bš",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 220,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "rpeid": "018",
       "naz": "VD Dolenja vas, Dolenja vas pri Krškem 53",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 853,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
-    "has_rezultat": false,
+    "timestamp": "2024-06-09T20:56:09.465Z",
+    "datum": "2024-06-09T20:55:00Z",
+    "cas_udelezba": "19:00",
+    "has_udelezba": true,
+    "has_rezultat": true,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

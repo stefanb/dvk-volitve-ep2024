@@ -10,169 +10,572 @@
       "st": 11,
       "rpeid": "011",
       "naz": "DK Bezena, Bezena 17",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 473,
+        "gl": 118,
+        "prc": 0.2495
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 1,
       "rpeid": "001",
       "naz": "DK Bistrica ob Dravi, Ul. 27.decembra 2",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1157,
+        "gl": 264,
+        "prc": 0.2282
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 24,
       "rpeid": "024",
       "naz": "DK Smolnik, Glazerjeva ul. 29",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 514,
+        "gl": 147,
+        "prc": 0.286
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 22,
       "rpeid": "022",
       "naz": "DLO Duh, Sv. Duh na Ostr. vrhu 47",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 184,
+        "gl": 46,
+        "prc": 0.25
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 17,
       "rpeid": "017",
       "naz": "GD Slemen, Sp. Slemen 27",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 515,
+        "gl": 108,
+        "prc": 0.2097
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 23,
       "rpeid": "023",
       "naz": "GD Smolnik, Gasilska ul. 7",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 711,
+        "gl": 185,
+        "prc": 0.2602
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 26,
       "rpeid": "026",
       "naz": "Gostilna Drozg, Fala 18",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 13,
+            "prc": 0.52
+          },
+          {
+            "st": 0,
+            "gl": 12,
+            "prc": 0.48
+          }
+        ],
+        "glas": 25,
+        "velj": 25,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 57,
+        "gl": 25,
+        "prc": 0.4386
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 20,
       "rpeid": "020",
       "naz": "Gostilna Hojnik, Janževa gora 26",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1030,
+        "gl": 251,
+        "prc": 0.2437
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 3,
       "rpeid": "003",
       "naz": "Gostilna Koper, Log 84",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 331,
+        "gl": 92,
+        "prc": 0.2779
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 16,
       "rpeid": "016",
       "naz": "Knjižnica J.G. Ruše, Falska c. 18",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1024,
+        "gl": 280,
+        "prc": 0.2734
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 18,
       "rpeid": "018",
       "naz": "KZ Zadružnik, Sp.Selnica 5",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 593,
+        "gl": 163,
+        "prc": 0.2749
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 12,
       "rpeid": "012",
       "naz": "LD Lobnica, Lobnica 20 c",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 13,
+            "prc": 0.52
+          },
+          {
+            "st": 0,
+            "gl": 12,
+            "prc": 0.48
+          }
+        ],
+        "glas": 27,
+        "velj": 25,
+        "nev": 2
+      },
+      "udel": {
+        "upr": 116,
+        "gl": 27,
+        "prc": 0.2328
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 5,
       "rpeid": "005",
       "naz": "Občina Lovrenc, Spodnji trg 8",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 954,
+        "gl": 175,
+        "prc": 0.1834
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 21,
       "rpeid": "021",
       "naz": "OŠ Gradišče, Gradišče na Kozjaku 39",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 135,
+        "gl": 36,
+        "prc": 0.2667
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 7,
       "rpeid": "007",
       "naz": "OŠ Lovrenc, Šolska ul. 6",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 458,
+        "gl": 98,
+        "prc": 0.214
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 19,
       "rpeid": "019",
       "naz": "OŠ Selnica, Mariborska c.30",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1219,
+        "gl": 318,
+        "prc": 0.2609
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 8,
       "rpeid": "008",
       "naz": "PC Lovrenc, Gornji trg 62",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 709,
+        "gl": 162,
+        "prc": 0.2285
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 10,
       "rpeid": "010",
       "naz": "Pošta Činžat, Činžat 28",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 353,
+        "gl": 75,
+        "prc": 0.2125
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 14,
       "rpeid": "014",
       "naz": "RO Ruše, Mariborska c. 5",
-      "rez": null,
-      "udel": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 1370,
+        "gl": 270,
+        "prc": 0.1971
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 901,
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
-      "rez": null,
-      "udel": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 0,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0
+      },
       "prestetih_glasov": null
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
-    "has_rezultat": false,
+    "timestamp": "2024-06-09T20:55:26.833Z",
+    "datum": "2024-06-09T20:55:00Z",
+    "cas_udelezba": "19:00",
+    "has_udelezba": true,
+    "has_rezultat": true,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }
