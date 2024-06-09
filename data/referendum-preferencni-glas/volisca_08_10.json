@@ -98,25 +98,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 187,
+            "prc": 0.724806
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 71,
+            "prc": 0.275194
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 262,
+        "velj": 258,
+        "nev": 4
       },
       "udel": {
         "upr": 636,
-        "gl": 0,
-        "prc": 0
+        "gl": 262,
+        "prc": 0.4119
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 14,
@@ -154,25 +154,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 138,
+            "prc": 0.704082
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 58,
+            "prc": 0.295918
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 197,
+        "velj": 196,
+        "nev": 1
       },
       "udel": {
         "upr": 490,
-        "gl": 0,
-        "prc": 0
+        "gl": 197,
+        "prc": 0.402
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 18,
@@ -182,25 +182,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 101,
+            "prc": 0.737226
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 36,
+            "prc": 0.262774
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 138,
+        "velj": 137,
+        "nev": 1
       },
       "udel": {
         "upr": 379,
-        "gl": 0,
-        "prc": 0
+        "gl": 138,
+        "prc": 0.3641
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 15,
@@ -686,25 +686,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 60,
+            "prc": 0.652174
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 32,
+            "prc": 0.347826
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 93,
+        "velj": 92,
+        "nev": 1
       },
       "udel": {
         "upr": 320,
-        "gl": 0,
-        "prc": 0
+        "gl": 93,
+        "prc": 0.2906
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 29,
@@ -904,8 +904,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T23:20:32.481Z",
-    "datum": "2024-06-09T23:20:00Z",
+    "timestamp": "2024-06-09T23:25:34.841Z",
+    "datum": "2024-06-09T23:25:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
