@@ -312,9 +312,9 @@
       "naz": "Vrtec Semedela - Slavnik - Nova ulica 2/b",
       "rez": null,
       "udel": {
-        "upr": 450,
-        "gl": 121,
-        "prc": 0.2689
+        "upr": 451,
+        "gl": 173,
+        "prc": 0.3836
       },
       "prestetih_glasov": null
     },
@@ -909,8 +909,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T21:50:21.779Z",
-    "datum": "2024-06-09T21:50:00Z",
+    "timestamp": "2024-06-09T21:55:05.79Z",
+    "datum": "2024-06-09T21:55:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": false,
