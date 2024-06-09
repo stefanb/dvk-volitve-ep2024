@@ -121,8 +121,8 @@
       "rez": null,
       "udel": {
         "upr": 760,
-        "gl": 223,
-        "prc": 0.2934
+        "gl": 313,
+        "prc": 0.4118
       },
       "prestetih_glasov": null
     },
@@ -180,9 +180,9 @@
       "naz": "ZD Nova vas, C. prol. brigad 71",
       "rez": null,
       "udel": {
-        "upr": 675,
-        "gl": 187,
-        "prc": 0.277
+        "upr": 676,
+        "gl": 293,
+        "prc": 0.4334
       },
       "prestetih_glasov": null
     },
@@ -765,8 +765,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T22:25:10.7Z",
-    "datum": "2024-06-09T22:25:00Z",
+    "timestamp": "2024-06-09T22:30:05.799Z",
+    "datum": "2024-06-09T22:30:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": false,
