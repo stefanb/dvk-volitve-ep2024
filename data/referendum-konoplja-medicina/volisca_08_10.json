@@ -126,13 +126,13 @@
         "rez": [
           {
             "st": 1,
-            "gl": 106,
-            "prc": 0.697368
+            "gl": 95,
+            "prc": 0.625
           },
           {
             "st": 0,
-            "gl": 46,
-            "prc": 0.302632
+            "gl": 57,
+            "prc": 0.375
           }
         ],
         "glas": 152,
@@ -434,25 +434,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 139,
+            "prc": 0.58159
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 100,
+            "prc": 0.41841
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 242,
+        "velj": 239,
+        "nev": 3
       },
       "udel": {
         "upr": 555,
-        "gl": 0,
-        "prc": 0
+        "gl": 242,
+        "prc": 0.436
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 31,
@@ -490,25 +490,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 114,
+            "prc": 0.655172
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 60,
+            "prc": 0.344828
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 176,
+        "velj": 174,
+        "nev": 2
       },
       "udel": {
         "upr": 539,
-        "gl": 0,
-        "prc": 0
+        "gl": 176,
+        "prc": 0.3265
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 20,
@@ -904,8 +904,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T23:00:25.217Z",
-    "datum": "2024-06-09T23:00:00Z",
+    "timestamp": "2024-06-09T23:05:52.776Z",
+    "datum": "2024-06-09T23:05:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
