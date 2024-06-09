@@ -266,25 +266,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 100,
+            "prc": 0.456621
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 119,
+            "prc": 0.543379
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 220,
+        "velj": 219,
+        "nev": 1
       },
       "udel": {
         "upr": 455,
-        "gl": 0,
-        "prc": 0
+        "gl": 220,
+        "prc": 0.4835
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 10,
@@ -574,25 +574,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 99,
+            "prc": 0.510309
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 95,
+            "prc": 0.489691
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 195,
+        "velj": 194,
+        "nev": 1
       },
       "udel": {
         "upr": 416,
-        "gl": 0,
-        "prc": 0
+        "gl": 195,
+        "prc": 0.4688
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 30,
@@ -658,25 +658,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 280,
+            "prc": 0.503597
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 276,
+            "prc": 0.496403
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 567,
+        "velj": 556,
+        "nev": 11
       },
       "udel": {
         "upr": 1152,
-        "gl": 0,
-        "prc": 0
+        "gl": 567,
+        "prc": 0.4922
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 28,
@@ -1016,8 +1016,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-10T01:20:13.179Z",
-    "datum": "2024-06-10T01:20:00Z",
+    "timestamp": "2024-06-10T01:31:16.553Z",
+    "datum": "2024-06-10T01:30:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
