@@ -372,9 +372,9 @@
       "naz": "Srednja šola, Ul. b. Rupar 2, Jesenice",
       "rez": null,
       "udel": {
-        "upr": 655,
-        "gl": 61,
-        "prc": 0.0931
+        "upr": 656,
+        "gl": 126,
+        "prc": 0.1921
       },
       "prestetih_glasov": null
     },
@@ -1029,8 +1029,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T21:20:11.867Z",
-    "datum": "2024-06-09T21:20:00Z",
+    "timestamp": "2024-06-09T21:25:08.951Z",
+    "datum": "2024-06-09T21:25:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": false,
