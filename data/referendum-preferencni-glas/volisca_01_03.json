@@ -462,25 +462,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 332,
+            "prc": 0.766744
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 101,
+            "prc": 0.233256
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 441,
+        "velj": 433,
+        "nev": 8
       },
       "udel": {
         "upr": 1048,
-        "gl": 333,
-        "prc": 0.3177
+        "gl": 441,
+        "prc": 0.4208
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 2,
@@ -574,25 +574,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 133,
+            "prc": 0.682051
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 62,
+            "prc": 0.317949
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 200,
+        "velj": 195,
+        "nev": 5
       },
       "udel": {
         "upr": 393,
-        "gl": 143,
-        "prc": 0.3639
+        "gl": 200,
+        "prc": 0.5089
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 19,
@@ -764,8 +764,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-10T00:25:08.772Z",
-    "datum": "2024-06-10T00:25:00Z",
+    "timestamp": "2024-06-10T00:30:11.625Z",
+    "datum": "2024-06-10T00:30:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
