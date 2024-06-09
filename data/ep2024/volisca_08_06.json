@@ -204,9 +204,9 @@
       "naz": "Gasilski dom ZBIGOVCI, Zbigovci 26",
       "rez": null,
       "udel": {
-        "upr": 317,
-        "gl": 74,
-        "prc": 0.2334
+        "upr": 319,
+        "gl": 93,
+        "prc": 0.2915
       },
       "prestetih_glasov": null
     },
@@ -945,8 +945,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T21:10:15.886Z",
-    "datum": "2024-06-09T21:10:00Z",
+    "timestamp": "2024-06-09T21:15:06.279Z",
+    "datum": "2024-06-09T21:15:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": false,
