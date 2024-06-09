@@ -85,8 +85,8 @@
       "rez": null,
       "udel": {
         "upr": 578,
-        "gl": 210,
-        "prc": 0.3633
+        "gl": 286,
+        "prc": 0.4948
       },
       "prestetih_glasov": null
     },
@@ -444,9 +444,9 @@
       "naz": "Zalog, Osnovna šola, Zalog pri Cerkljah 29",
       "rez": null,
       "udel": {
-        "upr": 579,
-        "gl": 172,
-        "prc": 0.2971
+        "upr": 580,
+        "gl": 260,
+        "prc": 0.4483
       },
       "prestetih_glasov": null
     },
@@ -1065,8 +1065,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-09T22:10:05.029Z",
-    "datum": "2024-06-09T22:10:00Z",
+    "timestamp": "2024-06-09T22:15:06.618Z",
+    "datum": "2024-06-09T22:15:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": false,
