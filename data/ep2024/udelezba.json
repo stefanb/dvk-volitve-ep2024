@@ -1,18 +1,18 @@
 {
-  "datum": "2024-06-09T22:40:00Z",
+  "datum": "2024-06-09T23:15:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1689465,
     "upr_pos": 0,
-    "gl_ime": 497084,
-    "gl_pot": 47,
+    "gl_ime": 524024,
+    "gl_pot": 62,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 3900,
     "gl_vol_inv": null,
-    "upr": 1689512,
-    "gl": 497131,
-    "prc": 0.2942
+    "upr": 1689527,
+    "gl": 524086,
+    "prc": 0.3102
   },
   "enote": [
     {
@@ -22,96 +22,96 @@
           "rpeid": "1001",
           "naz": "VO 1001 - JESENICE",
           "upr": 25955,
-          "gl": 6505,
-          "prc": 0.2506
+          "gl": 7252,
+          "prc": 0.2794
         },
         {
           "st": 2,
           "rpeid": "1002",
           "naz": "VO 1002 - RADOVLJICA 1",
           "upr": 13412,
-          "gl": 4838,
-          "prc": 0.3607
+          "gl": 5187,
+          "prc": 0.3867
         },
         {
           "st": 3,
           "rpeid": "1003",
           "naz": "VO 1003 - RADOVLJICA 2",
           "upr": 15875,
-          "gl": 4765,
-          "prc": 0.3002
+          "gl": 5015,
+          "prc": 0.3159
         },
         {
           "st": 4,
           "rpeid": "1004",
           "naz": "VO 1004 - KRANJ 1",
           "upr": 20255,
-          "gl": 5729,
-          "prc": 0.2828
+          "gl": 6033,
+          "prc": 0.2979
         },
         {
           "st": 5,
           "rpeid": "1005",
           "naz": "VO 1005 - KRANJ 2",
           "upr": 20322,
-          "gl": 5813,
-          "prc": 0.286
+          "gl": 6415,
+          "prc": 0.3157
         },
         {
           "st": 6,
           "rpeid": "1006",
           "naz": "VO 1006 - KRANJ 3",
-          "upr": 24388,
-          "gl": 9647,
-          "prc": 0.3956
+          "upr": 24389,
+          "gl": 9918,
+          "prc": 0.4067
         },
         {
           "st": 7,
           "rpeid": "1007",
           "naz": "VO 1007 - TRŽIČ",
           "upr": 12396,
-          "gl": 3377,
-          "prc": 0.2724
+          "gl": 3554,
+          "prc": 0.2867
         },
         {
           "st": 8,
           "rpeid": "1008",
           "naz": "VO 1008 - ŠKOFJA LOKA 1",
           "upr": 18652,
-          "gl": 7047,
-          "prc": 0.3778
+          "gl": 7520,
+          "prc": 0.4032
         },
         {
           "st": 9,
           "rpeid": "1009",
           "naz": "VO 1009 - ŠKOFJA LOKA 2",
           "upr": 15430,
-          "gl": 6505,
-          "prc": 0.4216
+          "gl": 7005,
+          "prc": 0.454
         },
         {
           "st": 10,
           "rpeid": "1010",
           "naz": "VO 1010 - KAMNIK",
           "upr": 28081,
-          "gl": 8149,
-          "prc": 0.2902
+          "gl": 8720,
+          "prc": 0.3105
         },
         {
           "st": 11,
           "rpeid": "1011",
           "naz": "VO 1011 - IDRIJA",
           "upr": 13325,
-          "gl": 4567,
-          "prc": 0.3427
+          "gl": 4700,
+          "prc": 0.3527
         }
       ],
       "st": 1,
       "rpeid": "1000",
       "naz": "VE 1000 - KRANJ",
-      "upr": 208091,
-      "gl": 66942,
-      "prc": 0.3217
+      "upr": 208092,
+      "gl": 71319,
+      "prc": 0.3427
     },
     {
       "okraji": [
@@ -120,96 +120,96 @@
           "rpeid": "2001",
           "naz": "VO 2001 - TOLMIN",
           "upr": 15809,
-          "gl": 5502,
-          "prc": 0.348
+          "gl": 5598,
+          "prc": 0.3541
         },
         {
           "st": 2,
           "rpeid": "2002",
           "naz": "VO 2002 - PIRAN",
-          "upr": 14516,
-          "gl": 4353,
-          "prc": 0.2999
+          "upr": 14517,
+          "gl": 4750,
+          "prc": 0.3272
         },
         {
           "st": 3,
           "rpeid": "2003",
           "naz": "VO 2003 - IZOLA",
-          "upr": 12475,
-          "gl": 2814,
-          "prc": 0.2256
+          "upr": 12476,
+          "gl": 2897,
+          "prc": 0.2322
         },
         {
           "st": 4,
           "rpeid": "2004",
           "naz": "VO 2004 - KOPER 1",
           "upr": 18286,
-          "gl": 4152,
-          "prc": 0.2271
+          "gl": 4464,
+          "prc": 0.2441
         },
         {
           "st": 5,
           "rpeid": "2005",
           "naz": "VO 2005 - KOPER 2",
           "upr": 25254,
-          "gl": 6121,
-          "prc": 0.2424
+          "gl": 6133,
+          "prc": 0.2429
         },
         {
           "st": 6,
           "rpeid": "2006",
           "naz": "VO 2006 - SEŽANA",
           "upr": 22167,
-          "gl": 5802,
-          "prc": 0.2617
+          "gl": 5870,
+          "prc": 0.2648
         },
         {
           "st": 7,
           "rpeid": "2007",
           "naz": "VO 2007 - ILIRSKA BISTRICA",
           "upr": 12655,
-          "gl": 3230,
-          "prc": 0.2552
+          "gl": 3365,
+          "prc": 0.2659
         },
         {
           "st": 8,
           "rpeid": "2008",
           "naz": "VO 2008 - POSTOJNA",
           "upr": 18040,
-          "gl": 5429,
-          "prc": 0.3009
+          "gl": 5728,
+          "prc": 0.3175
         },
         {
           "st": 9,
           "rpeid": "2009",
           "naz": "VO 2009 - NOVA GORICA 1",
           "upr": 24940,
-          "gl": 7252,
-          "prc": 0.2908
+          "gl": 7401,
+          "prc": 0.2968
         },
         {
           "st": 10,
           "rpeid": "2010",
           "naz": "VO 2010 - NOVA GORICA 2",
-          "upr": 23787,
-          "gl": 6602,
-          "prc": 0.2775
+          "upr": 23788,
+          "gl": 6946,
+          "prc": 0.292
         },
         {
           "st": 11,
           "rpeid": "2011",
           "naz": "VO 2011 - AJDOVŠČINA",
           "upr": 20634,
-          "gl": 7320,
-          "prc": 0.3548
+          "gl": 7707,
+          "prc": 0.3735
         }
       ],
       "st": 2,
       "rpeid": "2000",
       "naz": "VE 2000 - POSTOJNA",
-      "upr": 208563,
-      "gl": 58577,
-      "prc": 0.2809
+      "upr": 208566,
+      "gl": 60859,
+      "prc": 0.2918
     },
     {
       "okraji": [
@@ -218,96 +218,96 @@
           "rpeid": "3001",
           "naz": "VO 3001 - LOGATEC",
           "upr": 25111,
-          "gl": 8297,
-          "prc": 0.3304
+          "gl": 8845,
+          "prc": 0.3522
         },
         {
           "st": 2,
           "rpeid": "3002",
           "naz": "VO 3002 - VRHNIKA",
           "upr": 20176,
-          "gl": 6786,
-          "prc": 0.3363
+          "gl": 7213,
+          "prc": 0.3575
         },
         {
           "st": 3,
           "rpeid": "3003",
           "naz": "VO 3003 - LJUBLJANA VIČ-RUDNIK 1",
           "upr": 25839,
-          "gl": 7961,
-          "prc": 0.3081
+          "gl": 8171,
+          "prc": 0.3162
         },
         {
           "st": 4,
           "rpeid": "3004",
           "naz": "VO 3004 - LJUBLJANA VIČ-RUDNIK 2",
-          "upr": 16936,
-          "gl": 4808,
-          "prc": 0.2839
+          "upr": 16937,
+          "gl": 5067,
+          "prc": 0.2992
         },
         {
           "st": 5,
           "rpeid": "3005",
           "naz": "VO 3005 - LJUBLJANA VIČ-RUDNIK 3",
           "upr": 16496,
-          "gl": 5001,
-          "prc": 0.3032
+          "gl": 5371,
+          "prc": 0.3256
         },
         {
           "st": 6,
           "rpeid": "3006",
           "naz": "VO 3006 - LJUBLJANA VIČ-RUDNIK 4",
           "upr": 21969,
-          "gl": 6816,
-          "prc": 0.3103
+          "gl": 7173,
+          "prc": 0.3265
         },
         {
           "st": 7,
           "rpeid": "3007",
           "naz": "VO 3007 - LJUBLJANA CENTER",
           "upr": 22046,
-          "gl": 6181,
-          "prc": 0.2804
+          "gl": 6375,
+          "prc": 0.2892
         },
         {
           "st": 8,
           "rpeid": "3008",
           "naz": "VO 3008 - LJUBLJANA ŠIŠKA 1",
-          "upr": 13904,
-          "gl": 4241,
-          "prc": 0.305
+          "upr": 13906,
+          "gl": 4634,
+          "prc": 0.3332
         },
         {
           "st": 9,
           "rpeid": "3009",
           "naz": "VO 3009 - LJUBLJANA ŠIŠKA 2",
           "upr": 17996,
-          "gl": 5453,
-          "prc": 0.303
+          "gl": 5747,
+          "prc": 0.3193
         },
         {
           "st": 10,
           "rpeid": "3010",
           "naz": "VO 3010 - LJUBLJANA ŠIŠKA 3",
           "upr": 16726,
-          "gl": 5151,
-          "prc": 0.308
+          "gl": 5520,
+          "prc": 0.33
         },
         {
           "st": 11,
           "rpeid": "3011",
           "naz": "VO 3011 - LJUBLJANA ŠIŠKA 4",
           "upr": 22794,
-          "gl": 7213,
-          "prc": 0.3164
+          "gl": 7365,
+          "prc": 0.3231
         }
       ],
       "st": 3,
       "rpeid": "3000",
       "naz": "VE 3000 - LJUBLJANA CENTER",
-      "upr": 219993,
-      "gl": 67908,
-      "prc": 0.3087
+      "upr": 219996,
+      "gl": 71481,
+      "prc": 0.3249
     },
     {
       "okraji": [
@@ -316,96 +316,96 @@
           "rpeid": "4001",
           "naz": "VO 4001 - KOČEVJE",
           "upr": 14111,
-          "gl": 3727,
-          "prc": 0.2641
+          "gl": 4486,
+          "prc": 0.3179
         },
         {
           "st": 2,
           "rpeid": "4002",
           "naz": "VO 4002 - RIBNICA-DOBREPOLJE",
           "upr": 14548,
-          "gl": 4668,
-          "prc": 0.3209
+          "gl": 5069,
+          "prc": 0.3484
         },
         {
           "st": 3,
           "rpeid": "4003",
           "naz": "VO 4003 - GROSUPLJE",
           "upr": 16101,
-          "gl": 5037,
-          "prc": 0.3128
+          "gl": 5203,
+          "prc": 0.3231
         },
         {
           "st": 4,
           "rpeid": "4004",
           "naz": "VO 4004 - IVANČNA GORICA",
           "upr": 13315,
-          "gl": 4356,
-          "prc": 0.3271
+          "gl": 4656,
+          "prc": 0.3497
         },
         {
           "st": 5,
           "rpeid": "4005",
           "naz": "VO 4005 - LJUBLJANA MOSTE-POLJE 1",
           "upr": 23277,
-          "gl": 6700,
-          "prc": 0.2878
+          "gl": 6973,
+          "prc": 0.2996
         },
         {
           "st": 6,
           "rpeid": "4006",
           "naz": "VO 4006 - LJUBLJANA MOSTE-POLJE 2",
           "upr": 15046,
-          "gl": 4000,
-          "prc": 0.2659
+          "gl": 4433,
+          "prc": 0.2946
         },
         {
           "st": 7,
           "rpeid": "4007",
           "naz": "VO 4007 - LJUBLJANA MOSTE-POLJE 3",
           "upr": 19940,
-          "gl": 5606,
-          "prc": 0.2811
+          "gl": 6062,
+          "prc": 0.304
         },
         {
           "st": 8,
           "rpeid": "4008",
           "naz": "VO 4008 - LJUBLJANA BEŽIGRAD 1",
           "upr": 23286,
-          "gl": 7025,
-          "prc": 0.3017
+          "gl": 7335,
+          "prc": 0.315
         },
         {
           "st": 9,
           "rpeid": "4009",
           "naz": "VO 4009 - LJUBLJANA BEŽIGRAD 2",
           "upr": 21348,
-          "gl": 5421,
-          "prc": 0.2539
+          "gl": 5533,
+          "prc": 0.2592
         },
         {
           "st": 10,
           "rpeid": "4010",
           "naz": "VO 4010 - DOMŽALE 1",
           "upr": 24733,
-          "gl": 6939,
-          "prc": 0.2806
+          "gl": 7614,
+          "prc": 0.3078
         },
         {
           "st": 11,
           "rpeid": "4011",
           "naz": "VO 4011 - DOMŽALE 2",
           "upr": 22919,
-          "gl": 6910,
-          "prc": 0.3015
+          "gl": 7190,
+          "prc": 0.3137
         }
       ],
       "st": 4,
       "rpeid": "4000",
       "naz": "VE 4000 - LJUBLJANA BEŽIGRAD",
       "upr": 208624,
-      "gl": 60389,
-      "prc": 0.2895
+      "gl": 64554,
+      "prc": 0.3094
     },
     {
       "okraji": [
@@ -414,96 +414,96 @@
           "rpeid": "5001",
           "naz": "VO 5001 - ŠENTJUR",
           "upr": 17035,
-          "gl": 4779,
-          "prc": 0.2805
+          "gl": 5054,
+          "prc": 0.2967
         },
         {
           "st": 2,
           "rpeid": "5002",
           "naz": "VO 5002 - CELJE 1",
           "upr": 29350,
-          "gl": 8909,
-          "prc": 0.3035
+          "gl": 9311,
+          "prc": 0.3172
         },
         {
           "st": 3,
           "rpeid": "5003",
           "naz": "VO 5003 - CELJE 2",
           "upr": 21305,
-          "gl": 5362,
-          "prc": 0.2517
+          "gl": 5469,
+          "prc": 0.2567
         },
         {
           "st": 4,
           "rpeid": "5004",
           "naz": "VO 5004 - ŽALEC 1",
           "upr": 18123,
-          "gl": 5257,
-          "prc": 0.2901
+          "gl": 5659,
+          "prc": 0.3123
         },
         {
           "st": 5,
           "rpeid": "5005",
           "naz": "VO 5005 - ŽALEC 2",
           "upr": 18748,
-          "gl": 6063,
-          "prc": 0.3234
+          "gl": 6169,
+          "prc": 0.329
         },
         {
           "st": 6,
           "rpeid": "5006",
           "naz": "VO 5006 - MOZIRJE",
           "upr": 13622,
-          "gl": 3931,
-          "prc": 0.2886
+          "gl": 4093,
+          "prc": 0.3005
         },
         {
           "st": 7,
           "rpeid": "5007",
           "naz": "VO 5007 - VELENJE 1",
           "upr": 16053,
-          "gl": 4151,
-          "prc": 0.2586
+          "gl": 4372,
+          "prc": 0.2723
         },
         {
           "st": 8,
           "rpeid": "5008",
           "naz": "VO 5008 - VELENJE 2",
           "upr": 17242,
-          "gl": 4883,
-          "prc": 0.2832
+          "gl": 4995,
+          "prc": 0.2897
         },
         {
           "st": 9,
           "rpeid": "5009",
           "naz": "VO 5009 - SLOVENJ GRADEC",
           "upr": 17964,
-          "gl": 5053,
-          "prc": 0.2813
+          "gl": 5260,
+          "prc": 0.2928
         },
         {
           "st": 10,
           "rpeid": "5010",
           "naz": "VO 5010 - RAVNE NA KOROŠKEM",
           "upr": 20594,
-          "gl": 5503,
-          "prc": 0.2672
+          "gl": 5794,
+          "prc": 0.2813
         },
         {
           "st": 11,
           "rpeid": "5011",
           "naz": "VO 5011 - RADLJE",
           "upr": 20409,
-          "gl": 5978,
-          "prc": 0.2929
+          "gl": 6137,
+          "prc": 0.3007
         }
       ],
       "st": 5,
       "rpeid": "5000",
       "naz": "VE 5000 - CELJE",
       "upr": 210445,
-      "gl": 59869,
-      "prc": 0.2845
+      "gl": 62313,
+      "prc": 0.2961
     },
     {
       "okraji": [
@@ -511,97 +511,97 @@
           "st": 1,
           "rpeid": "6001",
           "naz": "VO 6001 - ČRNOMELJ",
-          "upr": 22687,
-          "gl": 6339,
-          "prc": 0.2794
+          "upr": 22688,
+          "gl": 6580,
+          "prc": 0.29
         },
         {
           "st": 2,
           "rpeid": "6002",
           "naz": "VO 6002 - NOVO MESTO 1",
           "upr": 24393,
-          "gl": 7102,
-          "prc": 0.2911
+          "gl": 7341,
+          "prc": 0.3009
         },
         {
           "st": 3,
           "rpeid": "6003",
           "naz": "VO 6003 - NOVO MESTO 2",
           "upr": 25794,
-          "gl": 7117,
-          "prc": 0.2759
+          "gl": 7545,
+          "prc": 0.2925
         },
         {
           "st": 4,
           "rpeid": "6004",
           "naz": "VO 6004 - TREBNJE",
           "upr": 17025,
-          "gl": 5489,
-          "prc": 0.3224
+          "gl": 5940,
+          "prc": 0.3489
         },
         {
           "st": 5,
           "rpeid": "6005",
           "naz": "VO 6005 - BREŽICE",
-          "upr": 21167,
-          "gl": 5470,
-          "prc": 0.2584
+          "upr": 21172,
+          "gl": 5834,
+          "prc": 0.2756
         },
         {
           "st": 6,
           "rpeid": "6006",
           "naz": "VO 6006 - KRŠKO",
           "upr": 23168,
-          "gl": 7129,
-          "prc": 0.3077
+          "gl": 7589,
+          "prc": 0.3276
         },
         {
           "st": 7,
           "rpeid": "6007",
           "naz": "VO 6007 - SEVNICA",
           "upr": 17021,
-          "gl": 4915,
-          "prc": 0.2888
+          "gl": 5162,
+          "prc": 0.3033
         },
         {
           "st": 8,
           "rpeid": "6008",
           "naz": "VO 6008 - LAŠKO",
           "upr": 14612,
-          "gl": 4416,
-          "prc": 0.3022
+          "gl": 4686,
+          "prc": 0.3207
         },
         {
           "st": 9,
           "rpeid": "6009",
           "naz": "VO 6009 - LITIJA",
           "upr": 17172,
-          "gl": 5175,
-          "prc": 0.3014
+          "gl": 5520,
+          "prc": 0.3215
         },
         {
           "st": 10,
           "rpeid": "6010",
           "naz": "VO 6010 - HRASTNIK-TRBOVLJE",
           "upr": 20831,
-          "gl": 6406,
-          "prc": 0.3075
+          "gl": 6823,
+          "prc": 0.3275
         },
         {
           "st": 11,
           "rpeid": "6011",
           "naz": "VO 6011 - ZAGORJE",
           "upr": 13579,
-          "gl": 4031,
-          "prc": 0.2969
+          "gl": 4248,
+          "prc": 0.3128
         }
       ],
       "st": 6,
       "rpeid": "6000",
       "naz": "VE 6000 - NOVO MESTO",
-      "upr": 217449,
-      "gl": 63589,
-      "prc": 0.2924
+      "upr": 217455,
+      "gl": 67268,
+      "prc": 0.3093
     },
     {
       "okraji": [
@@ -610,96 +610,96 @@
           "rpeid": "7001",
           "naz": "VO 7001 - ŠMARJE PRI JELŠAH",
           "upr": 27753,
-          "gl": 5262,
-          "prc": 0.1896
+          "gl": 5336,
+          "prc": 0.1923
         },
         {
           "st": 2,
           "rpeid": "7002",
           "naz": "VO 7002 - SLOVENSKA BISTRICA",
           "upr": 25212,
-          "gl": 7494,
-          "prc": 0.2972
+          "gl": 7886,
+          "prc": 0.3128
         },
         {
           "st": 3,
           "rpeid": "7003",
           "naz": "VO 7003 - SLOVENSKE KONJICE",
-          "upr": 18998,
-          "gl": 5450,
-          "prc": 0.2869
+          "upr": 18999,
+          "gl": 5802,
+          "prc": 0.3054
         },
         {
           "st": 4,
           "rpeid": "7004",
           "naz": "VO 7004 - RUŠE",
           "upr": 12532,
-          "gl": 3746,
-          "prc": 0.2989
+          "gl": 4265,
+          "prc": 0.3403
         },
         {
           "st": 5,
           "rpeid": "7005",
           "naz": "VO 7005 - MARIBOR 1",
           "upr": 23522,
-          "gl": 6956,
-          "prc": 0.2957
+          "gl": 7252,
+          "prc": 0.3083
         },
         {
           "st": 6,
           "rpeid": "7006",
           "naz": "VO 7006 - MARIBOR 2",
           "upr": 21076,
-          "gl": 5265,
-          "prc": 0.2498
+          "gl": 5387,
+          "prc": 0.2556
         },
         {
           "st": 7,
           "rpeid": "7007",
           "naz": "VO 7007 - MARIBOR 3",
           "upr": 17307,
-          "gl": 4666,
-          "prc": 0.2696
+          "gl": 5093,
+          "prc": 0.2943
         },
         {
           "st": 8,
           "rpeid": "7008",
           "naz": "VO 7008 - MARIBOR 4",
           "upr": 13933,
-          "gl": 3537,
-          "prc": 0.2539
+          "gl": 3615,
+          "prc": 0.2595
         },
         {
           "st": 9,
           "rpeid": "7009",
           "naz": "VO 7009 - MARIBOR 5",
           "upr": 16883,
-          "gl": 4270,
-          "prc": 0.2529
+          "gl": 4843,
+          "prc": 0.2869
         },
         {
           "st": 10,
           "rpeid": "7010",
           "naz": "VO 7010 - MARIBOR 6",
           "upr": 15841,
-          "gl": 4299,
-          "prc": 0.2714
+          "gl": 4761,
+          "prc": 0.3005
         },
         {
           "st": 11,
           "rpeid": "7011",
           "naz": "VO 7011 - MARIBOR 7",
           "upr": 13608,
-          "gl": 3245,
-          "prc": 0.2385
+          "gl": 3517,
+          "prc": 0.2585
         }
       ],
       "st": 7,
       "rpeid": "7000",
       "naz": "VE 7000 - MARIBOR",
-      "upr": 206665,
-      "gl": 54190,
-      "prc": 0.2622
+      "upr": 206666,
+      "gl": 57757,
+      "prc": 0.2795
     },
     {
       "okraji": [
@@ -708,96 +708,96 @@
           "rpeid": "8001",
           "naz": "VO 8001 - LENDAVA",
           "upr": 21145,
-          "gl": 5120,
-          "prc": 0.2421
+          "gl": 5450,
+          "prc": 0.2577
         },
         {
           "st": 2,
           "rpeid": "8002",
           "naz": "VO 8002 - ORMOŽ",
           "upr": 14121,
-          "gl": 4477,
-          "prc": 0.317
+          "gl": 4698,
+          "prc": 0.3327
         },
         {
           "st": 3,
           "rpeid": "8003",
           "naz": "VO 8003 - LJUTOMER",
           "upr": 15109,
-          "gl": 4216,
-          "prc": 0.279
+          "gl": 4374,
+          "prc": 0.2895
         },
         {
           "st": 4,
           "rpeid": "8004",
           "naz": "VO 8004 - MURSKA SOBOTA 1",
           "upr": 24318,
-          "gl": 7285,
-          "prc": 0.2996
+          "gl": 7450,
+          "prc": 0.3064
         },
         {
           "st": 5,
           "rpeid": "8005",
           "naz": "VO 8005 - MURSKA SOBOTA 2",
           "upr": 24845,
-          "gl": 7134,
-          "prc": 0.2871
+          "gl": 7397,
+          "prc": 0.2977
         },
         {
           "st": 6,
           "rpeid": "8006",
           "naz": "VO 8006 - GORNJA RADGONA",
           "upr": 17768,
-          "gl": 5677,
-          "prc": 0.3195
+          "gl": 6070,
+          "prc": 0.3416
         },
         {
           "st": 7,
           "rpeid": "8007",
           "naz": "VO 8007 - LENART",
           "upr": 16488,
-          "gl": 5193,
-          "prc": 0.315
+          "gl": 5286,
+          "prc": 0.3206
         },
         {
           "st": 8,
           "rpeid": "8008",
           "naz": "VO 8008 - PESNICA",
           "upr": 18016,
-          "gl": 4557,
-          "prc": 0.2529
+          "gl": 5079,
+          "prc": 0.2819
         },
         {
           "st": 9,
           "rpeid": "8009",
           "naz": "VO 8009 - PTUJ 1",
-          "upr": 21295,
-          "gl": 6813,
-          "prc": 0.3199
+          "upr": 21296,
+          "gl": 7043,
+          "prc": 0.3307
         },
         {
           "st": 10,
           "rpeid": "8010",
           "naz": "VO 8010 - PTUJ 2",
           "upr": 17016,
-          "gl": 6175,
-          "prc": 0.3629
+          "gl": 6374,
+          "prc": 0.3746
         },
         {
           "st": 11,
           "rpeid": "8011",
           "naz": "VO 8011 - PTUJ 3",
           "upr": 19556,
-          "gl": 5120,
-          "prc": 0.2618
+          "gl": 5414,
+          "prc": 0.2768
         }
       ],
       "st": 8,
       "rpeid": "8000",
       "naz": "VE 8000 - PTUJ",
-      "upr": 209677,
-      "gl": 61767,
-      "prc": 0.2946
+      "upr": 209678,
+      "gl": 64635,
+      "prc": 0.3083
     }
   ],
   "posebna_volisca": [
