@@ -30,6 +30,7 @@ $CURL "${VolitveBASEURL}/data/udelezba.json"            | jq > ${DIR}/udelezba.j
 $CURL "${VolitveBASEURL}/data/udelezba.csv"                  > ${DIR}/udelezba.csv
 $CURL "${VolitveBASEURL}/data/rezultati.json"           | jq > ${DIR}/rezultati.json
 $CURL "${VolitveBASEURL}/data/rezultati.csv"                 > ${DIR}/rezultati.csv
+$CURL "${VolitveBASEURL}/data/izvoz.xlsx"                    > ${DIR}/izvoz.xlsx
 
 if [[ $VOTEKEY != referendum* ]]
 then
