@@ -24753,11 +24753,11 @@
         "nev": 7
       },
       "udel": {
-        "upr": 580,
-        "gl": 260,
-        "prc": 0.4483
+        "upr": 579,
+        "gl": 259,
+        "prc": 0.4473
       },
-      "prestetih_glasov": 0.9962
+      "prestetih_glasov": 1
     },
     {
       "kand_rez": [
@@ -28011,8 +28011,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-10T07:50:02.98Z",
-    "datum": "2024-06-10T07:50:00Z",
+    "timestamp": "2024-06-10T08:20:02.848Z",
+    "datum": "2024-06-10T08:20:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
