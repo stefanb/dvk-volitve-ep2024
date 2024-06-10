@@ -1,17 +1,17 @@
 {
-  "datum": "2024-06-10T04:20:00Z",
+  "datum": "2024-06-10T04:45:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1689465,
     "upr_pos": 0,
-    "gl_ime": 698371,
+    "gl_ime": 698438,
     "gl_pot": 121,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4797,
     "gl_vol_inv": null,
     "upr": 1689586,
-    "gl": 698492,
+    "gl": 698559,
     "prc": 0.4134
   },
   "enote": [
@@ -160,8 +160,8 @@
           "rpeid": "2006",
           "naz": "VO 2006 - SEŽANA",
           "upr": 22165,
-          "gl": 8736,
-          "prc": 0.3941
+          "gl": 8803,
+          "prc": 0.3972
         },
         {
           "st": 7,
@@ -208,8 +208,8 @@
       "rpeid": "2000",
       "naz": "VE 2000 - POSTOJNA",
       "upr": 208571,
-      "gl": 83838,
-      "prc": 0.402
+      "gl": 83905,
+      "prc": 0.4023
     },
     {
       "okraji": [
