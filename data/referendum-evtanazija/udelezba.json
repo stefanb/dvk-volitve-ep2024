@@ -1,16 +1,16 @@
 {
-  "datum": "2024-06-10T10:10:00Z",
+  "datum": "2024-06-10T11:00:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1692301,
     "upr_pos": 0,
-    "gl_ime": 697210,
-    "gl_pot": 48,
+    "gl_ime": 697212,
+    "gl_pot": 46,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4800,
     "gl_vol_inv": null,
-    "upr": 1692349,
+    "upr": 1692347,
     "gl": 697258,
     "prc": 0.412
   },
