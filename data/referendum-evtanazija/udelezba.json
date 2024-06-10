@@ -1,17 +1,17 @@
 {
-  "datum": "2024-06-10T08:50:00Z",
+  "datum": "2024-06-10T09:10:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1692301,
     "upr_pos": 0,
-    "gl_ime": 696836,
+    "gl_ime": 696828,
     "gl_pot": 48,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4800,
     "gl_vol_inv": null,
     "upr": 1692349,
-    "gl": 696884,
+    "gl": 696876,
     "prc": 0.4118
   },
   "enote": [
@@ -144,8 +144,8 @@
           "rpeid": "2004",
           "naz": "VO 2004 - KOPER 1",
           "upr": 18307,
-          "gl": 6105,
-          "prc": 0.3335
+          "gl": 6097,
+          "prc": 0.333
         },
         {
           "st": 5,
@@ -208,7 +208,7 @@
       "rpeid": "2000",
       "naz": "VE 2000 - POSTOJNA",
       "upr": 208775,
-      "gl": 83699,
+      "gl": 83691,
       "prc": 0.4009
     },
     {

@@ -1,17 +1,17 @@
 {
-  "datum": "2024-06-10T08:50:00Z",
+  "datum": "2024-06-10T09:05:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1689465,
     "upr_pos": 0,
-    "gl_ime": 698585,
+    "gl_ime": 698573,
     "gl_pot": 120,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4797,
     "gl_vol_inv": null,
     "upr": 1689585,
-    "gl": 698705,
+    "gl": 698693,
     "prc": 0.4135
   },
   "enote": [
@@ -22,8 +22,8 @@
           "rpeid": "1001",
           "naz": "VO 1001 - JESENICE",
           "upr": 25955,
-          "gl": 9109,
-          "prc": 0.351
+          "gl": 9097,
+          "prc": 0.3505
         },
         {
           "st": 2,
@@ -110,8 +110,8 @@
       "rpeid": "1000",
       "naz": "VE 1000 - KRANJ",
       "upr": 208092,
-      "gl": 93156,
-      "prc": 0.4477
+      "gl": 93144,
+      "prc": 0.4476
     },
     {
       "okraji": [
