@@ -1,18 +1,18 @@
 {
-  "datum": "2024-06-10T03:40:00Z",
+  "datum": "2024-06-10T04:25:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1692301,
     "upr_pos": 0,
-    "gl_ime": 686548,
+    "gl_ime": 696800,
     "gl_pot": 56,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4798,
     "gl_vol_inv": null,
     "upr": 1692357,
-    "gl": 686604,
-    "prc": 0.4057
+    "gl": 696856,
+    "prc": 0.4118
   },
   "enote": [
     {
@@ -160,8 +160,8 @@
           "rpeid": "2006",
           "naz": "VO 2006 - SEŽANA",
           "upr": 22154,
-          "gl": 7823,
-          "prc": 0.3531
+          "gl": 8769,
+          "prc": 0.3958
         },
         {
           "st": 7,
@@ -208,8 +208,8 @@
       "rpeid": "2000",
       "naz": "VE 2000 - POSTOJNA",
       "upr": 208776,
-      "gl": 82746,
-      "prc": 0.3963
+      "gl": 83692,
+      "prc": 0.4009
     },
     {
       "okraji": [
@@ -234,8 +234,8 @@
           "rpeid": "3003",
           "naz": "VO 3003 - LJUBLJANA VIČ-RUDNIK 1",
           "upr": 25867,
-          "gl": 10474,
-          "prc": 0.4049
+          "gl": 11804,
+          "prc": 0.4563
         },
         {
           "st": 4,
@@ -266,8 +266,8 @@
           "rpeid": "3007",
           "naz": "VO 3007 - LJUBLJANA CENTER",
           "upr": 22111,
-          "gl": 7252,
-          "prc": 0.328
+          "gl": 8862,
+          "prc": 0.4008
         },
         {
           "st": 8,
@@ -306,8 +306,8 @@
       "rpeid": "3000",
       "naz": "VE 3000 - LJUBLJANA CENTER",
       "upr": 220397,
-      "gl": 98295,
-      "prc": 0.446
+      "gl": 101235,
+      "prc": 0.4593
     },
     {
       "okraji": [
@@ -788,16 +788,16 @@
           "rpeid": "8011",
           "naz": "VO 8011 - PTUJ 3",
           "upr": 19598,
-          "gl": 330,
-          "prc": 0.0168
+          "gl": 6696,
+          "prc": 0.3417
         }
       ],
       "st": 8,
       "rpeid": "8000",
       "naz": "VE 8000 - PTUJ",
       "upr": 210181,
-      "gl": 70028,
-      "prc": 0.3332
+      "gl": 76394,
+      "prc": 0.3635
     }
   ],
   "posebna_volisca": [
