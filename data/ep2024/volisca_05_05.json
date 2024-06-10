@@ -407,7 +407,7 @@
         {
           "st": 107652,
           "id": 132637,
-          "gl": 1,
+          "gl": 2,
           "prc": 1
         },
         {
@@ -26673,8 +26673,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-10T12:00:03.124Z",
-    "datum": "2024-06-10T12:00:00Z",
+    "timestamp": "2024-06-10T13:00:04.316Z",
+    "datum": "2024-06-10T13:00:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

@@ -8698,10 +8698,10 @@
       },
       "udel": {
         "upr": 1293,
-        "gl": 592,
-        "prc": 0.4578
+        "gl": 556,
+        "prc": 0.43
       },
-      "prestetih_glasov": 0.9392
+      "prestetih_glasov": 1
     },
     {
       "kand_rez": [
@@ -11286,8 +11286,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-10T12:00:03.124Z",
-    "datum": "2024-06-10T12:00:00Z",
+    "timestamp": "2024-06-10T13:00:04.316Z",
+    "datum": "2024-06-10T13:00:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
