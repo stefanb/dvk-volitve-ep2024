@@ -2468,7 +2468,7 @@
             },
             "udel": {
               "upr": 21207,
-              "gl": 7141,
+              "gl": 7140,
               "prc": 0.3367
             },
             "udel_11": {
@@ -2481,7 +2481,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 0.9999
           },
           {
             "st": 6,
@@ -2734,7 +2734,7 @@
         },
         "udel": {
           "upr": 217780,
-          "gl": 85472,
+          "gl": 85471,
           "prc": 0.3925
         },
         "udel_11": {
@@ -3719,14 +3719,14 @@
     "udel": {
       "upr_red": 1692301,
       "upr_pos": 0,
-      "gl_ime": 697211,
+      "gl_ime": 697210,
       "gl_pot": 48,
       "gl_pos": 0,
       "gl_inv": 0,
       "gl_vol_omnia": 4800,
       "gl_vol_inv": null,
       "upr": 1692349,
-      "gl": 697259,
+      "gl": 697258,
       "prc": 0.412
     },
     "udel_11": {
@@ -3758,8 +3758,8 @@
     "prestetih_glasov": 0.9997
   },
   "nastavitve": {
-    "timestamp": "2024-06-10T09:35:02.957Z",
-    "datum": "2024-06-10T09:35:00Z",
+    "timestamp": "2024-06-10T09:45:02.997Z",
+    "datum": "2024-06-10T09:45:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_udel_11": true,

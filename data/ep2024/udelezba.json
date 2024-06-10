@@ -1,17 +1,17 @@
 {
-  "datum": "2024-06-10T09:35:00Z",
+  "datum": "2024-06-10T09:45:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1689465,
     "upr_pos": 0,
-    "gl_ime": 698572,
+    "gl_ime": 698569,
     "gl_pot": 120,
     "gl_pos": 0,
     "gl_inv": 0,
-    "gl_vol_omnia": 4796,
+    "gl_vol_omnia": 4793,
     "gl_vol_inv": null,
     "upr": 1689585,
-    "gl": 698692,
+    "gl": 698689,
     "prc": 0.4135
   },
   "enote": [
@@ -805,7 +805,7 @@
       "tip": 1,
       "naz": "Volišča OMNIA",
       "upr": null,
-      "gl": 4796,
+      "gl": 4793,
       "prc": null
     }
   ]
