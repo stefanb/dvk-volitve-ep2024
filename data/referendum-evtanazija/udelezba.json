@@ -1,18 +1,18 @@
 {
-  "datum": "2024-06-10T03:35:00Z",
+  "datum": "2024-06-10T03:40:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1692301,
     "upr_pos": 0,
-    "gl_ime": 691668,
+    "gl_ime": 692816,
     "gl_pot": 48,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4800,
     "gl_vol_inv": null,
     "upr": 1692349,
-    "gl": 691716,
-    "prc": 0.4087
+    "gl": 692864,
+    "prc": 0.4094
   },
   "enote": [
     {
@@ -160,8 +160,8 @@
           "rpeid": "2006",
           "naz": "VO 2006 - SEŽANA",
           "upr": 22154,
-          "gl": 7573,
-          "prc": 0.3418
+          "gl": 7821,
+          "prc": 0.353
         },
         {
           "st": 7,
@@ -208,8 +208,8 @@
       "rpeid": "2000",
       "naz": "VE 2000 - POSTOJNA",
       "upr": 208775,
-      "gl": 82503,
-      "prc": 0.3952
+      "gl": 82751,
+      "prc": 0.3964
     },
     {
       "okraji": [
@@ -234,8 +234,8 @@
           "rpeid": "3003",
           "naz": "VO 3003 - LJUBLJANA VIČ-RUDNIK 1",
           "upr": 25865,
-          "gl": 9447,
-          "prc": 0.3652
+          "gl": 10347,
+          "prc": 0.4
         },
         {
           "st": 4,
@@ -306,8 +306,8 @@
       "rpeid": "3000",
       "naz": "VE 3000 - LJUBLJANA CENTER",
       "upr": 220393,
-      "gl": 97323,
-      "prc": 0.4416
+      "gl": 98223,
+      "prc": 0.4457
     },
     {
       "okraji": [
