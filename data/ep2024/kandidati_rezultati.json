@@ -1,10 +1,11 @@
 {
-  "datum": "2024-06-10T09:05:00Z",
+  "datum": "2024-06-10T09:20:00Z",
   "kandidati": [
     {
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 2,
       "pref": true,
       "zap_st": 1,
       "st": 107699,
@@ -2551,6 +2552,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 4,
       "pref": true,
       "zap_st": 6,
       "st": 107699,
@@ -4588,6 +4590,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 1,
       "pref": true,
       "zap_st": 1,
       "st": 107700,
@@ -5098,6 +5101,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 6,
       "pref": true,
       "zap_st": 2,
       "st": 107700,
@@ -6626,6 +6630,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 8,
       "pref": true,
       "zap_st": 5,
       "st": 107700,
@@ -8663,6 +8668,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 3,
       "pref": true,
       "zap_st": 9,
       "st": 107700,
@@ -9173,6 +9179,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 5,
       "pref": true,
       "zap_st": 1,
       "st": 107649,
@@ -13250,7 +13257,7 @@
       "st": 107649,
       "id": 132615,
       "naziv": "Saša Fras",
-      "gl": 500,
+      "gl": 501,
       "prc": 0.0071,
       "gl_enote": [
         {
@@ -13309,11 +13316,11 @@
             {
               "rpeid": "1011",
               "st": 11,
-              "gl": 1
+              "gl": 2
             }
           ],
           "st": 1,
-          "gl": 47
+          "gl": 48
         },
         {
           "rpeid": "2000",
@@ -22917,6 +22924,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 9,
       "pref": true,
       "zap_st": 1,
       "st": 107648,
@@ -36661,6 +36669,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 7,
       "pref": true,
       "zap_st": 1,
       "st": 107698,
