@@ -1,18 +1,18 @@
 {
-  "datum": "2024-06-10T09:20:00Z",
+  "datum": "2024-06-10T09:35:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1692301,
     "upr_pos": 0,
-    "gl_ime": 696005,
+    "gl_ime": 696388,
     "gl_pot": 54,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4800,
     "gl_vol_inv": null,
     "upr": 1692355,
-    "gl": 696059,
-    "prc": 0.4113
+    "gl": 696442,
+    "prc": 0.4115
   },
   "enote": [
     {
@@ -610,8 +610,8 @@
           "rpeid": "7001",
           "naz": "VO 7001 - ŠMARJE PRI JELŠAH",
           "upr": 27795,
-          "gl": 8586,
-          "prc": 0.3089
+          "gl": 8969,
+          "prc": 0.3227
         },
         {
           "st": 2,
@@ -698,8 +698,8 @@
       "rpeid": "7000",
       "naz": "VE 7000 - MARIBOR",
       "upr": 207113,
-      "gl": 76786,
-      "prc": 0.3707
+      "gl": 77169,
+      "prc": 0.3726
     },
     {
       "okraji": [
