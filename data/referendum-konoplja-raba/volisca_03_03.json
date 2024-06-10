@@ -14,25 +14,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 143,
+            "prc": 0.435976
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 185,
+            "prc": 0.564024
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 331,
+        "velj": 328,
+        "nev": 3
       },
       "udel": {
         "upr": 668,
-        "gl": 0,
-        "prc": 0
+        "gl": 331,
+        "prc": 0.4955
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 32,
@@ -42,25 +42,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 262,
+            "prc": 0.598174
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 176,
+            "prc": 0.401826
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 442,
+        "velj": 438,
+        "nev": 4
       },
       "udel": {
         "upr": 1006,
-        "gl": 0,
-        "prc": 0
+        "gl": 442,
+        "prc": 0.4394
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 31,
@@ -70,25 +70,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 152,
+            "prc": 0.560886
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 119,
+            "prc": 0.439114
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 279,
+        "velj": 271,
+        "nev": 8
       },
       "udel": {
         "upr": 708,
-        "gl": 0,
-        "prc": 0
+        "gl": 279,
+        "prc": 0.3941
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 10,
@@ -126,25 +126,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 194,
+            "prc": 0.459716
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 228,
+            "prc": 0.540284
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 426,
+        "velj": 422,
+        "nev": 4
       },
       "udel": {
         "upr": 888,
-        "gl": 0,
-        "prc": 0
+        "gl": 426,
+        "prc": 0.4797
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 14,
@@ -154,25 +154,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 40,
+            "prc": 0.344828
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 76,
+            "prc": 0.655172
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 117,
+        "velj": 116,
+        "nev": 1
       },
       "udel": {
         "upr": 218,
-        "gl": 0,
-        "prc": 0
+        "gl": 117,
+        "prc": 0.5367
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 23,
@@ -210,25 +210,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 313,
+            "prc": 0.522538
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 286,
+            "prc": 0.477462
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 604,
+        "velj": 599,
+        "nev": 5
       },
       "udel": {
         "upr": 1500,
-        "gl": 0,
-        "prc": 0
+        "gl": 604,
+        "prc": 0.4027
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 18,
@@ -266,25 +266,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 290,
+            "prc": 0.609244
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 186,
+            "prc": 0.390756
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 488,
+        "velj": 476,
+        "nev": 12
       },
       "udel": {
         "upr": 1035,
-        "gl": 0,
-        "prc": 0
+        "gl": 488,
+        "prc": 0.4715
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 1,
@@ -322,25 +322,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 174,
+            "prc": 0.417266
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 243,
+            "prc": 0.582734
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 423,
+        "velj": 417,
+        "nev": 6
       },
       "udel": {
         "upr": 797,
-        "gl": 0,
-        "prc": 0
+        "gl": 423,
+        "prc": 0.5307
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 15,
@@ -378,25 +378,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 96,
+            "prc": 0.548571
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 79,
+            "prc": 0.451429
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 177,
+        "velj": 175,
+        "nev": 2
       },
       "udel": {
         "upr": 396,
-        "gl": 0,
-        "prc": 0
+        "gl": 177,
+        "prc": 0.447
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 20,
@@ -434,25 +434,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 228,
+            "prc": 0.502203
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 226,
+            "prc": 0.497797
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 457,
+        "velj": 454,
+        "nev": 3
       },
       "udel": {
         "upr": 1064,
-        "gl": 0,
-        "prc": 0
+        "gl": 457,
+        "prc": 0.4295
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 37,
@@ -490,25 +490,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 203,
+            "prc": 0.487981
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 213,
+            "prc": 0.512019
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 420,
+        "velj": 416,
+        "nev": 4
       },
       "udel": {
         "upr": 903,
-        "gl": 0,
-        "prc": 0
+        "gl": 420,
+        "prc": 0.4651
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 27,
@@ -518,25 +518,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 281,
+            "prc": 0.44252
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 354,
+            "prc": 0.55748
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 649,
+        "velj": 635,
+        "nev": 14
       },
       "udel": {
         "upr": 1507,
-        "gl": 0,
-        "prc": 0
+        "gl": 649,
+        "prc": 0.4307
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 26,
@@ -546,25 +546,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 303,
+            "prc": 0.444282
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 379,
+            "prc": 0.555718
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 686,
+        "velj": 682,
+        "nev": 4
       },
       "udel": {
         "upr": 1489,
-        "gl": 0,
-        "prc": 0
+        "gl": 686,
+        "prc": 0.4607
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 33,
@@ -574,25 +574,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 207,
+            "prc": 0.416499
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 290,
+            "prc": 0.583501
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 501,
+        "velj": 497,
+        "nev": 4
       },
       "udel": {
-        "upr": 1038,
-        "gl": 0,
-        "prc": 0
+        "upr": 1040,
+        "gl": 501,
+        "prc": 0.4817
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 34,
@@ -602,25 +602,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 209,
+            "prc": 0.402697
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 310,
+            "prc": 0.597303
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 527,
+        "velj": 519,
+        "nev": 8
       },
       "udel": {
         "upr": 1169,
-        "gl": 0,
-        "prc": 0
+        "gl": 527,
+        "prc": 0.4508
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 4,
@@ -658,25 +658,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 158,
+            "prc": 0.389163
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 248,
+            "prc": 0.610837
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 410,
+        "velj": 406,
+        "nev": 4
       },
       "udel": {
         "upr": 1023,
-        "gl": 0,
-        "prc": 0
+        "gl": 410,
+        "prc": 0.4008
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 21,
@@ -714,25 +714,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 41,
+            "prc": 0.431579
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 54,
+            "prc": 0.568421
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 97,
+        "velj": 95,
+        "nev": 2
       },
       "udel": {
         "upr": 207,
-        "gl": 0,
-        "prc": 0
+        "gl": 97,
+        "prc": 0.4686
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 40,
@@ -770,25 +770,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 168,
+            "prc": 0.486957
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 177,
+            "prc": 0.513043
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 346,
+        "velj": 345,
+        "nev": 1
       },
       "udel": {
         "upr": 614,
-        "gl": 0,
-        "prc": 0
+        "gl": 346,
+        "prc": 0.5635
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 19,
@@ -798,25 +798,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 95,
+            "prc": 0.46798
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 108,
+            "prc": 0.53202
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 206,
+        "velj": 203,
+        "nev": 3
       },
       "udel": {
         "upr": 440,
-        "gl": 0,
-        "prc": 0
+        "gl": 206,
+        "prc": 0.4682
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 29,
@@ -826,25 +826,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 100,
+            "prc": 0.552486
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 81,
+            "prc": 0.447514
           }
         ],
-        "glas": 0,
-        "velj": 0,
+        "glas": 181,
+        "velj": 181,
         "nev": 0
       },
       "udel": {
         "upr": 398,
-        "gl": 0,
-        "prc": 0
+        "gl": 181,
+        "prc": 0.4548
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 8,
@@ -854,25 +854,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 228,
+            "prc": 0.476987
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 250,
+            "prc": 0.523013
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 480,
+        "velj": 478,
+        "nev": 2
       },
       "udel": {
         "upr": 1120,
-        "gl": 0,
-        "prc": 0
+        "gl": 480,
+        "prc": 0.4286
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 9,
@@ -882,25 +882,25 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 209,
+            "prc": 0.55
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 171,
+            "prc": 0.45
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 385,
+        "velj": 380,
+        "nev": 5
       },
       "udel": {
         "upr": 1026,
-        "gl": 0,
-        "prc": 0
+        "gl": 385,
+        "prc": 0.3752
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 901,
@@ -910,30 +910,30 @@
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": 0
+            "gl": 286,
+            "prc": 0.548944
           },
           {
             "st": 0,
-            "gl": 0,
-            "prc": 0
+            "gl": 235,
+            "prc": 0.451056
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 529,
+        "velj": 521,
+        "nev": 8
       },
       "udel": {
         "upr": 0,
-        "gl": 0,
+        "gl": 529,
         "prc": 0
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-10T01:55:14.108Z",
-    "datum": "2024-06-10T01:55:00Z",
+    "timestamp": "2024-06-10T03:35:05.892Z",
+    "datum": "2024-06-10T03:35:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
