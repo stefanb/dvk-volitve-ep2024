@@ -1,17 +1,17 @@
 {
-  "datum": "2024-06-10T11:00:00Z",
+  "datum": "2024-06-10T12:00:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1689465,
     "upr_pos": 0,
-    "gl_ime": 698569,
+    "gl_ime": 698572,
     "gl_pot": 120,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4793,
     "gl_vol_inv": null,
     "upr": 1689585,
-    "gl": 698689,
+    "gl": 698692,
     "prc": 0.4135
   },
   "enote": [
@@ -94,8 +94,8 @@
           "rpeid": "1010",
           "naz": "VO 1010 - KAMNIK",
           "upr": 28081,
-          "gl": 12628,
-          "prc": 0.4497
+          "gl": 12631,
+          "prc": 0.4498
         },
         {
           "st": 11,
@@ -110,7 +110,7 @@
       "rpeid": "1000",
       "naz": "VE 1000 - KRANJ",
       "upr": 208092,
-      "gl": 93144,
+      "gl": 93147,
       "prc": 0.4476
     },
     {

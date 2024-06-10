@@ -1,10 +1,11 @@
 {
-  "datum": "2024-06-10T11:00:00Z",
+  "datum": "2024-06-10T12:00:00Z",
   "kandidati": [
     {
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 2,
       "pref": true,
       "zap_st": 1,
       "st": 107699,
@@ -2551,6 +2552,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 4,
       "pref": true,
       "zap_st": 6,
       "st": 107699,
@@ -4588,6 +4590,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 1,
       "pref": true,
       "zap_st": 1,
       "st": 107700,
@@ -5098,6 +5101,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 6,
       "pref": true,
       "zap_st": 2,
       "st": 107700,
@@ -6626,6 +6630,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 8,
       "pref": true,
       "zap_st": 5,
       "st": 107700,
@@ -8663,6 +8668,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 3,
       "pref": true,
       "zap_st": 9,
       "st": 107700,
@@ -9173,6 +9179,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 5,
       "pref": true,
       "zap_st": 1,
       "st": 107649,
@@ -22917,6 +22924,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 9,
       "pref": true,
       "zap_st": 1,
       "st": 107648,
@@ -33611,8 +33619,8 @@
       "st": 107652,
       "id": 132637,
       "naziv": "Vesna Lavtižar",
-      "gl": 525,
-      "prc": 0.0494,
+      "gl": 526,
+      "prc": 0.0495,
       "gl_enote": [
         {
           "rpeid": "1000",
@@ -33913,7 +33921,7 @@
             {
               "rpeid": "5010",
               "st": 10,
-              "gl": 7
+              "gl": 8
             },
             {
               "rpeid": "5011",
@@ -33922,7 +33930,7 @@
             }
           ],
           "st": 5,
-          "gl": 71
+          "gl": 72
         },
         {
           "rpeid": "6000",
@@ -35138,8 +35146,8 @@
       "st": 107652,
       "id": 132640,
       "naziv": "Renato Volker",
-      "gl": 247,
-      "prc": 0.0232,
+      "gl": 248,
+      "prc": 0.0233,
       "gl_enote": [
         {
           "rpeid": "1000",
@@ -35440,7 +35448,7 @@
             {
               "rpeid": "5010",
               "st": 10,
-              "gl": 0
+              "gl": 1
             },
             {
               "rpeid": "5011",
@@ -35449,7 +35457,7 @@
             }
           ],
           "st": 5,
-          "gl": 12
+          "gl": 13
         },
         {
           "rpeid": "6000",
@@ -36156,8 +36164,8 @@
       "st": 107652,
       "id": 132642,
       "naziv": "Aleksander Merlo",
-      "gl": 1222,
-      "prc": 0.115,
+      "gl": 1221,
+      "prc": 0.1149,
       "gl_enote": [
         {
           "rpeid": "1000",
@@ -36458,7 +36466,7 @@
             {
               "rpeid": "5010",
               "st": 10,
-              "gl": 4
+              "gl": 3
             },
             {
               "rpeid": "5011",
@@ -36467,7 +36475,7 @@
             }
           ],
           "st": 5,
-          "gl": 49
+          "gl": 48
         },
         {
           "rpeid": "6000",
@@ -36661,6 +36669,7 @@
       "man": true,
       "zreb": false,
       "tip_izv": 1,
+      "ord": 7,
       "pref": true,
       "zap_st": 1,
       "st": 107698,

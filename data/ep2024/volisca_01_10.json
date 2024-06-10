@@ -18064,10 +18064,10 @@
       },
       "udel": {
         "upr": 0,
-        "gl": 1430,
+        "gl": 1433,
         "prc": 0
       },
-      "prestetih_glasov": 1
+      "prestetih_glasov": 0.9979
     }
   ],
   "liste": [
@@ -18645,8 +18645,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-10T11:00:03.209Z",
-    "datum": "2024-06-10T11:00:00Z",
+    "timestamp": "2024-06-10T12:00:03.124Z",
+    "datum": "2024-06-10T12:00:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
