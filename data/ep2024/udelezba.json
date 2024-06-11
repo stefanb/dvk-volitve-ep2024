@@ -1,17 +1,17 @@
 {
-  "datum": "2024-06-11T08:15:00Z",
+  "datum": "2024-06-11T09:00:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1689465,
     "upr_pos": 0,
-    "gl_ime": 700162,
+    "gl_ime": 700151,
     "gl_pot": 120,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4790,
     "gl_vol_inv": null,
     "upr": 1689585,
-    "gl": 700282,
+    "gl": 700271,
     "prc": 0.4145
   },
   "enote": [
@@ -168,8 +168,8 @@
           "rpeid": "2007",
           "naz": "VO 2007 - ILIRSKA BISTRICA",
           "upr": 12655,
-          "gl": 4321,
-          "prc": 0.3414
+          "gl": 4322,
+          "prc": 0.3415
         },
         {
           "st": 8,
@@ -208,7 +208,7 @@
       "rpeid": "2000",
       "naz": "VE 2000 - POSTOJNA",
       "upr": 208571,
-      "gl": 84179,
+      "gl": 84180,
       "prc": 0.4036
     },
     {
@@ -560,8 +560,8 @@
           "rpeid": "6007",
           "naz": "VO 6007 - SEVNICA",
           "upr": 17021,
-          "gl": 6768,
-          "prc": 0.3976
+          "gl": 6756,
+          "prc": 0.3969
         },
         {
           "st": 8,
@@ -600,7 +600,7 @@
       "rpeid": "6000",
       "naz": "VE 6000 - NOVO MESTO",
       "upr": 217462,
-      "gl": 85885,
+      "gl": 85873,
       "prc": 0.3949
     },
     {
