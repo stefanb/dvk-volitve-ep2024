@@ -1,18 +1,18 @@
 {
-  "datum": "2024-06-11T13:00:00Z",
+  "datum": "2024-06-11T14:00:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1692301,
     "upr_pos": 0,
-    "gl_ime": 698731,
+    "gl_ime": 698837,
     "gl_pot": 300,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4800,
     "gl_vol_inv": null,
     "upr": 1692601,
-    "gl": 699031,
-    "prc": 0.413
+    "gl": 699137,
+    "prc": 0.4131
   },
   "enote": [
     {
@@ -234,8 +234,8 @@
           "rpeid": "3003",
           "naz": "VO 3003 - LJUBLJANA VIČ-RUDNIK 1",
           "upr": 25868,
-          "gl": 11728,
-          "prc": 0.4534
+          "gl": 11834,
+          "prc": 0.4575
         },
         {
           "st": 4,
@@ -306,8 +306,8 @@
       "rpeid": "3000",
       "naz": "VE 3000 - LJUBLJANA CENTER",
       "upr": 220641,
-      "gl": 101709,
-      "prc": 0.461
+      "gl": 101815,
+      "prc": 0.4615
     },
     {
       "okraji": [

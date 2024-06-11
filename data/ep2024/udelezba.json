@@ -1,17 +1,17 @@
 {
-  "datum": "2024-06-11T13:00:00Z",
+  "datum": "2024-06-11T14:00:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1689465,
     "upr_pos": 0,
-    "gl_ime": 700216,
+    "gl_ime": 700215,
     "gl_pot": 120,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4790,
     "gl_vol_inv": null,
     "upr": 1689585,
-    "gl": 700336,
+    "gl": 700335,
     "prc": 0.4145
   },
   "enote": [
@@ -192,7 +192,7 @@
           "rpeid": "2010",
           "naz": "VO 2010 - NOVA GORICA 2",
           "upr": 23790,
-          "gl": 10480,
+          "gl": 10479,
           "prc": 0.4405
         },
         {
@@ -208,8 +208,8 @@
       "rpeid": "2000",
       "naz": "VE 2000 - POSTOJNA",
       "upr": 208571,
-      "gl": 84232,
-      "prc": 0.4039
+      "gl": 84231,
+      "prc": 0.4038
     },
     {
       "okraji": [
