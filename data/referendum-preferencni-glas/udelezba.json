@@ -1,17 +1,17 @@
 {
-  "datum": "2024-06-11T17:00:00Z",
+  "datum": "2024-06-11T18:00:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1692301,
     "upr_pos": 0,
-    "gl_ime": 698850,
+    "gl_ime": 698870,
     "gl_pot": 48,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4799,
     "gl_vol_inv": null,
     "upr": 1692349,
-    "gl": 698898,
+    "gl": 698918,
     "prc": 0.413
   },
   "enote": [
@@ -404,8 +404,8 @@
       "rpeid": "4000",
       "naz": "VE 4000 - LJUBLJANA BEŽIGRAD",
       "upr": 208929,
-      "gl": 90941,
-      "prc": 0.4353
+      "gl": 90961,
+      "prc": 0.4354
     },
     {
       "okraji": [
