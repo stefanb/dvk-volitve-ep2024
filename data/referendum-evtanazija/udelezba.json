@@ -1,17 +1,17 @@
 {
-  "datum": "2024-06-11T12:00:00Z",
+  "datum": "2024-06-11T13:00:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1692301,
     "upr_pos": 0,
-    "gl_ime": 698768,
+    "gl_ime": 698807,
     "gl_pot": 46,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4797,
     "gl_vol_inv": null,
     "upr": 1692347,
-    "gl": 698814,
+    "gl": 698853,
     "prc": 0.4129
   },
   "enote": [
@@ -200,16 +200,16 @@
           "rpeid": "2011",
           "naz": "VO 2011 - AJDOVŠČINA",
           "upr": 20650,
-          "gl": 10014,
-          "prc": 0.4849
+          "gl": 10053,
+          "prc": 0.4868
         }
       ],
       "st": 2,
       "rpeid": "2000",
       "naz": "VE 2000 - POSTOJNA",
       "upr": 208775,
-      "gl": 83974,
-      "prc": 0.4022
+      "gl": 84013,
+      "prc": 0.4024
     },
     {
       "okraji": [
