@@ -1,17 +1,17 @@
 {
-  "datum": "2024-06-11T10:00:00Z",
+  "datum": "2024-06-11T11:00:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1692301,
     "upr_pos": 0,
-    "gl_ime": 698359,
+    "gl_ime": 698401,
     "gl_pot": 48,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4799,
     "gl_vol_inv": null,
     "upr": 1692349,
-    "gl": 698407,
+    "gl": 698449,
     "prc": 0.4127
   },
   "enote": [
@@ -332,8 +332,8 @@
           "rpeid": "4003",
           "naz": "VO 4003 - GROSUPLJE",
           "upr": 16111,
-          "gl": 7318,
-          "prc": 0.4542
+          "gl": 7332,
+          "prc": 0.4551
         },
         {
           "st": 4,
@@ -404,8 +404,8 @@
       "rpeid": "4000",
       "naz": "VE 4000 - LJUBLJANA BEŽIGRAD",
       "upr": 208929,
-      "gl": 90908,
-      "prc": 0.4351
+      "gl": 90922,
+      "prc": 0.4352
     },
     {
       "okraji": [
@@ -592,16 +592,16 @@
           "rpeid": "6011",
           "naz": "VO 6011 - ZAGORJE",
           "upr": 13605,
-          "gl": 5691,
-          "prc": 0.4183
+          "gl": 5719,
+          "prc": 0.4204
         }
       ],
       "st": 6,
       "rpeid": "6000",
       "naz": "VE 6000 - NOVO MESTO",
       "upr": 217780,
-      "gl": 85691,
-      "prc": 0.3935
+      "gl": 85719,
+      "prc": 0.3936
     },
     {
       "okraji": [

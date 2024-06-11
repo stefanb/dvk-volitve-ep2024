@@ -1,17 +1,17 @@
 {
-  "datum": "2024-06-11T10:00:00Z",
+  "datum": "2024-06-11T11:00:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1692301,
     "upr_pos": 0,
-    "gl_ime": 698226,
+    "gl_ime": 698240,
     "gl_pot": 300,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4800,
     "gl_vol_inv": null,
     "upr": 1692601,
-    "gl": 698526,
+    "gl": 698540,
     "prc": 0.4127
   },
   "enote": [
@@ -332,8 +332,8 @@
           "rpeid": "4003",
           "naz": "VO 4003 - GROSUPLJE",
           "upr": 16111,
-          "gl": 7319,
-          "prc": 0.4543
+          "gl": 7333,
+          "prc": 0.4552
         },
         {
           "st": 4,
@@ -404,8 +404,8 @@
       "rpeid": "4000",
       "naz": "VE 4000 - LJUBLJANA BEŽIGRAD",
       "upr": 208929,
-      "gl": 90883,
-      "prc": 0.435
+      "gl": 90897,
+      "prc": 0.4351
     },
     {
       "okraji": [
