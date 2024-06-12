@@ -1,17 +1,17 @@
 {
-  "datum": "2024-06-11T18:00:00Z",
+  "datum": "2024-06-12T09:15:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1692301,
     "upr_pos": 0,
-    "gl_ime": 698870,
+    "gl_ime": 698942,
     "gl_pot": 48,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4799,
     "gl_vol_inv": null,
     "upr": 1692349,
-    "gl": 698918,
+    "gl": 698990,
     "prc": 0.413
   },
   "enote": [
@@ -110,8 +110,8 @@
       "rpeid": "1000",
       "naz": "VE 1000 - KRANJ",
       "upr": 208419,
-      "gl": 93147,
-      "prc": 0.4469
+      "gl": 93164,
+      "prc": 0.447
     },
     {
       "okraji": [
@@ -242,8 +242,8 @@
           "rpeid": "3004",
           "naz": "VO 3004 - LJUBLJANA VIČ-RUDNIK 2",
           "upr": 16967,
-          "gl": 7534,
-          "prc": 0.444
+          "gl": 7546,
+          "prc": 0.4447
         },
         {
           "st": 5,
@@ -306,8 +306,8 @@
       "rpeid": "3000",
       "naz": "VE 3000 - LJUBLJANA CENTER",
       "upr": 220393,
-      "gl": 101523,
-      "prc": 0.4606
+      "gl": 101535,
+      "prc": 0.4607
     },
     {
       "okraji": [
@@ -364,8 +364,8 @@
           "rpeid": "4007",
           "naz": "VO 4007 - LJUBLJANA MOSTE-POLJE 3",
           "upr": 19972,
-          "gl": 7808,
-          "prc": 0.3909
+          "gl": 7821,
+          "prc": 0.3916
         },
         {
           "st": 8,
@@ -404,7 +404,7 @@
       "rpeid": "4000",
       "naz": "VE 4000 - LJUBLJANA BEŽIGRAD",
       "upr": 208929,
-      "gl": 90961,
+      "gl": 90974,
       "prc": 0.4354
     },
     {
@@ -796,8 +796,8 @@
       "rpeid": "8000",
       "naz": "VE 8000 - PTUJ",
       "upr": 210182,
-      "gl": 76493,
-      "prc": 0.3639
+      "gl": 76523,
+      "prc": 0.3641
     }
   ],
   "posebna_volisca": [
