@@ -22078,10 +22078,10 @@
       },
       "udel": {
         "upr": 1,
-        "gl": 652,
+        "gl": 651,
         "prc": 0
       },
-      "prestetih_glasov": 0.9985
+      "prestetih_glasov": 1
     }
   ],
   "liste": [
@@ -22659,8 +22659,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-12T09:12:17.239Z",
-    "datum": "2024-06-12T09:15:00Z",
+    "timestamp": "2024-06-18T09:00:34.309Z",
+    "datum": "2024-06-18T09:00:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
