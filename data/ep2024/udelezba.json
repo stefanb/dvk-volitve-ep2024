@@ -1,18 +1,18 @@
 {
-  "datum": "2024-06-18T09:00:00Z",
+  "datum": "2024-06-20T11:00:00Z",
   "cas_udelezba": "19:00",
   "slovenija": {
     "upr_red": 1689465,
     "upr_pos": 0,
-    "gl_ime": 703676,
-    "gl_pot": 120,
+    "gl_ime": 706067,
+    "gl_pot": 137,
     "gl_pos": 0,
     "gl_inv": 0,
     "gl_vol_omnia": 4790,
     "gl_vol_inv": null,
-    "upr": 1689585,
-    "gl": 703796,
-    "prc": 0.4165
+    "upr": 1689602,
+    "gl": 706204,
+    "prc": 0.418
   },
   "enote": [
     {
@@ -168,8 +168,8 @@
           "rpeid": "2007",
           "naz": "VO 2007 - ILIRSKA BISTRICA",
           "upr": 12655,
-          "gl": 4321,
-          "prc": 0.3414
+          "gl": 4374,
+          "prc": 0.3456
         },
         {
           "st": 8,
@@ -208,8 +208,8 @@
       "rpeid": "2000",
       "naz": "VE 2000 - POSTOJNA",
       "upr": 208571,
-      "gl": 84893,
-      "prc": 0.407
+      "gl": 84946,
+      "prc": 0.4073
     },
     {
       "okraji": [
@@ -364,8 +364,8 @@
           "rpeid": "4007",
           "naz": "VO 4007 - LJUBLJANA MOSTE-POLJE 3",
           "upr": 19940,
-          "gl": 7902,
-          "prc": 0.3963
+          "gl": 7892,
+          "prc": 0.3958
         },
         {
           "st": 8,
@@ -404,8 +404,8 @@
       "rpeid": "4000",
       "naz": "VE 4000 - LJUBLJANA BEŽIGRAD",
       "upr": 208634,
-      "gl": 91668,
-      "prc": 0.4394
+      "gl": 91658,
+      "prc": 0.4393
     },
     {
       "okraji": [
