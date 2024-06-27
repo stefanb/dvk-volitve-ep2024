@@ -84,7 +84,7 @@
               "gl": 5765,
               "prc": 0.2221
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
@@ -333,7 +333,7 @@
               "gl": 4996,
               "prc": 0.2467
             },
-            "prestetih_glasov": 0.9972
+            "prestetih_glasov": 1
           },
           {
             "st": 5,
@@ -499,7 +499,7 @@
               "gl": 8211,
               "prc": 0.3367
             },
-            "prestetih_glasov": 0.9996
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
@@ -582,7 +582,7 @@
               "gl": 3009,
               "prc": 0.2427
             },
-            "prestetih_glasov": 0.999
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
@@ -748,7 +748,7 @@
               "gl": 5236,
               "prc": 0.3393
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -831,7 +831,7 @@
               "gl": 7384,
               "prc": 0.263
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 11,
@@ -997,7 +997,7 @@
           "gl": 57204,
           "prc": 0.2749
         },
-        "prestetih_glasov": 0.9996
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -1331,7 +1331,7 @@
               "gl": 3599,
               "prc": 0.1968
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 5,
@@ -1414,7 +1414,7 @@
               "gl": 5556,
               "prc": 0.22
             },
-            "prestetih_glasov": 0.9971
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
@@ -1497,7 +1497,7 @@
               "gl": 5594,
               "prc": 0.2524
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
@@ -1580,7 +1580,7 @@
               "gl": 2653,
               "prc": 0.2096
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
@@ -1829,7 +1829,7 @@
               "gl": 6057,
               "prc": 0.2546
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 11,
@@ -1995,7 +1995,7 @@
           "gl": 52247,
           "prc": 0.2505
         },
-        "prestetih_glasov": 0.9996
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -2080,7 +2080,7 @@
               "gl": 6899,
               "prc": 0.2747
             },
-            "prestetih_glasov": 0.9993
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
@@ -2163,7 +2163,7 @@
               "gl": 5550,
               "prc": 0.2751
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 3,
@@ -2246,7 +2246,7 @@
               "gl": 7453,
               "prc": 0.2884
             },
-            "prestetih_glasov": 0.9989
+            "prestetih_glasov": 1
           },
           {
             "st": 4,
@@ -2412,7 +2412,7 @@
               "gl": 4721,
               "prc": 0.2862
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
@@ -2495,7 +2495,7 @@
               "gl": 5913,
               "prc": 0.2692
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
@@ -2661,7 +2661,7 @@
               "gl": 3687,
               "prc": 0.2652
             },
-            "prestetih_glasov": 0.9971
+            "prestetih_glasov": 1
           },
           {
             "st": 9,
@@ -2744,7 +2744,7 @@
               "gl": 4990,
               "prc": 0.2773
             },
-            "prestetih_glasov": 0.9994
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -2827,7 +2827,7 @@
               "gl": 4728,
               "prc": 0.2827
             },
-            "prestetih_glasov": 0.9991
+            "prestetih_glasov": 1
           },
           {
             "st": 11,
@@ -2910,7 +2910,7 @@
               "gl": 6716,
               "prc": 0.2946
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           }
         ],
         "st": 3,
@@ -2993,7 +2993,7 @@
           "gl": 61256,
           "prc": 0.2784
         },
-        "prestetih_glasov": 0.9994
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -3078,7 +3078,7 @@
               "gl": 3186,
               "prc": 0.2258
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
@@ -3244,7 +3244,7 @@
               "gl": 4320,
               "prc": 0.2683
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 4,
@@ -3410,7 +3410,7 @@
               "gl": 6175,
               "prc": 0.2653
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
@@ -3493,7 +3493,7 @@
               "gl": 3340,
               "prc": 0.222
             },
-            "prestetih_glasov": 0.9993
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
@@ -3659,7 +3659,7 @@
               "gl": 6469,
               "prc": 0.2778
             },
-            "prestetih_glasov": 0.9991
+            "prestetih_glasov": 1
           },
           {
             "st": 9,
@@ -3742,7 +3742,7 @@
               "gl": 5069,
               "prc": 0.2374
             },
-            "prestetih_glasov": 0.9986
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -3908,7 +3908,7 @@
               "gl": 6002,
               "prc": 0.2619
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           }
         ],
         "st": 4,
@@ -3991,7 +3991,7 @@
           "gl": 53501,
           "prc": 0.2564
         },
-        "prestetih_glasov": 0.9996
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -4159,7 +4159,7 @@
               "gl": 7608,
               "prc": 0.2592
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 3,
@@ -4325,7 +4325,7 @@
               "gl": 4635,
               "prc": 0.2558
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 5,
@@ -4574,7 +4574,7 @@
               "gl": 3801,
               "prc": 0.2368
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
@@ -4657,7 +4657,7 @@
               "gl": 4456,
               "prc": 0.2584
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 9,
@@ -4740,7 +4740,7 @@
               "gl": 4479,
               "prc": 0.2493
             },
-            "prestetih_glasov": 0.9988
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -4823,7 +4823,7 @@
               "gl": 5350,
               "prc": 0.2598
             },
-            "prestetih_glasov": 0.9995
+            "prestetih_glasov": 1
           },
           {
             "st": 11,
@@ -4906,7 +4906,7 @@
               "gl": 4685,
               "prc": 0.2296
             },
-            "prestetih_glasov": 0.9995
+            "prestetih_glasov": 1
           }
         ],
         "st": 5,
@@ -4989,7 +4989,7 @@
           "gl": 53351,
           "prc": 0.2535
         },
-        "prestetih_glasov": 0.9997
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -5074,7 +5074,7 @@
               "gl": 5542,
               "prc": 0.2443
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
@@ -5157,7 +5157,7 @@
               "gl": 6318,
               "prc": 0.259
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 3,
@@ -5240,7 +5240,7 @@
               "gl": 6665,
               "prc": 0.2584
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 4,
@@ -5489,7 +5489,7 @@
               "gl": 5963,
               "prc": 0.2574
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
@@ -5738,7 +5738,7 @@
               "gl": 4770,
               "prc": 0.2778
             },
-            "prestetih_glasov": 0.9996
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -5987,7 +5987,7 @@
           "gl": 55010,
           "prc": 0.253
         },
-        "prestetih_glasov": 0.9999
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -6155,7 +6155,7 @@
               "gl": 6337,
               "prc": 0.2513
             },
-            "prestetih_glasov": 0.9994
+            "prestetih_glasov": 1
           },
           {
             "st": 3,
@@ -6238,7 +6238,7 @@
               "gl": 4855,
               "prc": 0.2556
             },
-            "prestetih_glasov": 0.9996
+            "prestetih_glasov": 1
           },
           {
             "st": 4,
@@ -6404,7 +6404,7 @@
               "gl": 5896,
               "prc": 0.2507
             },
-            "prestetih_glasov": 0.9995
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
@@ -6487,7 +6487,7 @@
               "gl": 4738,
               "prc": 0.2248
             },
-            "prestetih_glasov": 0.9996
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
@@ -6570,7 +6570,7 @@
               "gl": 4122,
               "prc": 0.2382
             },
-            "prestetih_glasov": 0.9995
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
@@ -6653,7 +6653,7 @@
               "gl": 2877,
               "prc": 0.2065
             },
-            "prestetih_glasov": 0.9996
+            "prestetih_glasov": 1
           },
           {
             "st": 9,
@@ -6736,7 +6736,7 @@
               "gl": 3742,
               "prc": 0.2216
             },
-            "prestetih_glasov": 0.999
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -6819,7 +6819,7 @@
               "gl": 3998,
               "prc": 0.2524
             },
-            "prestetih_glasov": 0.9977
+            "prestetih_glasov": 1
           },
           {
             "st": 11,
@@ -6985,7 +6985,7 @@
           "gl": 47184,
           "prc": 0.2283
         },
-        "prestetih_glasov": 0.9994
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -7319,7 +7319,7 @@
               "gl": 6281,
               "prc": 0.2583
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 5,
@@ -7402,7 +7402,7 @@
               "gl": 6043,
               "prc": 0.2432
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
@@ -7568,7 +7568,7 @@
               "gl": 4013,
               "prc": 0.2434
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
@@ -29339,7 +29339,7 @@
         "st": 107650,
         "id": 132618,
         "naziv": "Franc Bogovič",
-        "gl": 7597,
+        "gl": 7598,
         "prc": 0.1562,
         "man": false,
         "zreb": false,
@@ -38316,7 +38316,7 @@
         "st": 107701,
         "id": 132675,
         "naziv": "Nataša Sukič",
-        "gl": 10908,
+        "gl": 10909,
         "prc": 0.3363,
         "man": false,
         "zreb": false,
@@ -63704,17 +63704,17 @@
       "gl": 433828,
       "prc": 0.2568
     },
-    "prestetih_glasov": 0.9996
+    "prestetih_glasov": 1
   },
   "nastavitve": {
-    "timestamp": "2024-06-20T11:05:14.125Z",
-    "datum": "2024-06-20T11:00:00Z",
+    "timestamp": "2024-06-27T13:53:57.767Z",
+    "datum": "2024-06-27T13:50:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_udel_11": true,
     "has_udel_16": true,
     "has_rezultat": true,
-    "is_final": false,
+    "is_final": true,
     "has_rezultat_kandidati": true,
     "has_kandidati_mandati": true,
     "has_kandidati": true,

@@ -12715,7 +12715,7 @@
         "gl": 767,
         "prc": 0
       },
-      "prestetih_glasov": 0.9987
+      "prestetih_glasov": 1
     }
   ],
   "liste": [
@@ -13293,12 +13293,12 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-20T11:05:14.125Z",
-    "datum": "2024-06-20T11:00:00Z",
+    "timestamp": "2024-06-27T13:53:57.767Z",
+    "datum": "2024-06-27T13:50:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
-    "is_final": false,
+    "is_final": true,
     "has_rezultat_kandidati": true,
     "has_kandidati_mandati": true,
     "has_kandidati_removed": false

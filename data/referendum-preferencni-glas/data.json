@@ -39,7 +39,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
@@ -229,7 +229,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9932
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
@@ -267,7 +267,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9952
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
@@ -305,7 +305,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 9,
@@ -343,7 +343,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -381,7 +381,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 11,
@@ -419,7 +419,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.999
+            "prestetih_glasov": 1
           }
         ],
         "st": 1,
@@ -457,7 +457,7 @@
           "gl": 8428,
           "prc": 0.0404
         },
-        "prestetih_glasov": 0.9987
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -611,7 +611,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 5,
@@ -687,7 +687,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
@@ -763,7 +763,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9986
+            "prestetih_glasov": 1
           },
           {
             "st": 9,
@@ -877,7 +877,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           }
         ],
         "st": 2,
@@ -915,7 +915,7 @@
           "gl": 0,
           "prc": 0
         },
-        "prestetih_glasov": 0.9998
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -955,7 +955,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
@@ -1031,7 +1031,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 4,
@@ -1069,7 +1069,7 @@
               "gl": 1969,
               "prc": 0.116
             },
-            "prestetih_glasov": 0.9996
+            "prestetih_glasov": 1
           },
           {
             "st": 5,
@@ -1107,7 +1107,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9986
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
@@ -1221,7 +1221,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9989
+            "prestetih_glasov": 1
           },
           {
             "st": 9,
@@ -1259,7 +1259,7 @@
               "gl": 2498,
               "prc": 0.1385
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -1373,7 +1373,7 @@
           "gl": 6507,
           "prc": 0.0295
         },
-        "prestetih_glasov": 0.9997
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -1451,7 +1451,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 3,
@@ -1489,7 +1489,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9989
+            "prestetih_glasov": 1
           },
           {
             "st": 4,
@@ -1527,7 +1527,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 5,
@@ -1565,7 +1565,7 @@
               "gl": 3066,
               "prc": 0.1315
             },
-            "prestetih_glasov": 0.9994
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
@@ -1603,7 +1603,7 @@
               "gl": 1729,
               "prc": 0.1147
             },
-            "prestetih_glasov": 0.9991
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
@@ -1679,7 +1679,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9995
+            "prestetih_glasov": 1
           },
           {
             "st": 9,
@@ -1717,7 +1717,7 @@
               "gl": 2303,
               "prc": 0.1076
             },
-            "prestetih_glasov": 0.9966
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -1793,7 +1793,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9996
+            "prestetih_glasov": 1
           }
         ],
         "st": 4,
@@ -1831,7 +1831,7 @@
           "gl": 7098,
           "prc": 0.034
         },
-        "prestetih_glasov": 0.9993
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -1909,7 +1909,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9995
+            "prestetih_glasov": 1
           },
           {
             "st": 3,
@@ -1985,7 +1985,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 5,
@@ -2099,7 +2099,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
@@ -2137,7 +2137,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 9,
@@ -2175,7 +2175,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -2213,7 +2213,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 11,
@@ -2251,7 +2251,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9995
+            "prestetih_glasov": 1
           }
         ],
         "st": 5,
@@ -2289,7 +2289,7 @@
           "gl": 0,
           "prc": 0
         },
-        "prestetih_glasov": 0.9998
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -2367,7 +2367,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 3,
@@ -2405,7 +2405,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9996
+            "prestetih_glasov": 1
           },
           {
             "st": 4,
@@ -2519,7 +2519,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 7,
@@ -2633,7 +2633,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -2747,7 +2747,7 @@
           "gl": 3560,
           "prc": 0.0163
         },
-        "prestetih_glasov": 0.9999
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -2787,7 +2787,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9994
+            "prestetih_glasov": 1
           },
           {
             "st": 2,
@@ -2825,7 +2825,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9993
+            "prestetih_glasov": 1
           },
           {
             "st": 3,
@@ -2863,7 +2863,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9999
+            "prestetih_glasov": 1
           },
           {
             "st": 4,
@@ -2939,7 +2939,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9995
+            "prestetih_glasov": 1
           },
           {
             "st": 6,
@@ -3015,7 +3015,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9997
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
@@ -3053,7 +3053,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9981
+            "prestetih_glasov": 1
           },
           {
             "st": 9,
@@ -3091,7 +3091,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9991
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -3129,7 +3129,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9995
+            "prestetih_glasov": 1
           },
           {
             "st": 11,
@@ -3167,7 +3167,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9991
+            "prestetih_glasov": 1
           }
         ],
         "st": 7,
@@ -3205,7 +3205,7 @@
           "gl": 0,
           "prc": 0
         },
-        "prestetih_glasov": 0.9995
+        "prestetih_glasov": 1
       },
       {
         "okraji": [
@@ -3321,7 +3321,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9996
+            "prestetih_glasov": 1
           },
           {
             "st": 4,
@@ -3473,7 +3473,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 8,
@@ -3549,7 +3549,7 @@
               "gl": 0,
               "prc": 0
             },
-            "prestetih_glasov": 0.9998
+            "prestetih_glasov": 1
           },
           {
             "st": 10,
@@ -3663,7 +3663,7 @@
           "gl": 0,
           "prc": 0
         },
-        "prestetih_glasov": 0.9999
+        "prestetih_glasov": 1
       }
     ],
     "posebna_volisca": [
@@ -3755,19 +3755,19 @@
       "gl": 25669,
       "prc": 0.0152
     },
-    "prestetih_glasov": 0.9996
+    "prestetih_glasov": 1
   },
   "nastavitve": {
-    "timestamp": "2024-06-20T11:09:53.398Z",
-    "datum": "2024-06-20T11:00:00Z",
+    "timestamp": "2024-06-27T13:57:10.954Z",
+    "datum": "2024-06-27T13:50:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_udel_11": true,
     "has_udel_16": true,
     "has_rezultat": true,
-    "is_final": false,
-    "has_rezultat_kandidati": false,
-    "has_kandidati_mandati": false,
+    "is_final": true,
+    "has_rezultat_kandidati": true,
+    "has_kandidati_mandati": true,
     "has_kandidati": true,
     "has_kandidati_removed": false
   },

@@ -200,7 +200,7 @@
         "gl": 315,
         "prc": 0.3942
       },
-      "prestetih_glasov": 0.9968
+      "prestetih_glasov": 1
     },
     {
       "st": 4,
@@ -312,7 +312,7 @@
         "gl": 221,
         "prc": 0.3683
       },
-      "prestetih_glasov": 0.991
+      "prestetih_glasov": 1
     },
     {
       "st": 9,
@@ -508,7 +508,7 @@
         "gl": 239,
         "prc": 0.4215
       },
-      "prestetih_glasov": 0.9958
+      "prestetih_glasov": 1
     },
     {
       "st": 14,
@@ -648,7 +648,7 @@
         "gl": 357,
         "prc": 0.437
       },
-      "prestetih_glasov": 0.9916
+      "prestetih_glasov": 1
     },
     {
       "st": 901,
@@ -680,14 +680,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-20T11:09:01.03Z",
-    "datum": "2024-06-20T11:00:00Z",
+    "timestamp": "2024-06-27T13:56:33.618Z",
+    "datum": "2024-06-27T13:50:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
-    "is_final": false,
-    "has_rezultat_kandidati": false,
-    "has_kandidati_mandati": false,
+    "is_final": true,
+    "has_rezultat_kandidati": true,
+    "has_kandidati_mandati": true,
     "has_kandidati_removed": false
   }
 }

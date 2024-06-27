@@ -60,7 +60,7 @@
         "gl": 677,
         "prc": 0.3769
       },
-      "prestetih_glasov": 0.9985
+      "prestetih_glasov": 1
     },
     {
       "st": 19,
@@ -844,7 +844,7 @@
         "gl": 486,
         "prc": 0.4335
       },
-      "prestetih_glasov": 0.9979
+      "prestetih_glasov": 1
     },
     {
       "st": 52,
@@ -1184,14 +1184,14 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2024-06-20T11:09:01.03Z",
-    "datum": "2024-06-20T11:00:00Z",
+    "timestamp": "2024-06-27T13:56:33.618Z",
+    "datum": "2024-06-27T13:50:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
-    "is_final": false,
-    "has_rezultat_kandidati": false,
-    "has_kandidati_mandati": false,
+    "is_final": true,
+    "has_rezultat_kandidati": true,
+    "has_kandidati_mandati": true,
     "has_kandidati_removed": false
   }
 }
